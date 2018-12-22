@@ -1,0 +1,1309 @@
+,Neighborhood,Bank Name,Bank Lat,Bank Long
+0,Bel-Air,Deutsche Bank,34.0582009,-118.4148123
+1,Bel-Air,Manufacturers Bank,34.0672209,-118.4086471
+2,Bel-Air,OneWest Bank,34.1270592,-118.44391
+3,Bel-Air,Pacific Western Bank,34.06188,-118.414114
+4,Bel-Air,Citibank,34.0612,-118.445122
+5,Bel-Air,Citibank,34.058463,-118.444017
+6,Bel-Air,1st Century Bank,34.0608675,-118.4148875
+7,Bel-Air,1st Century Bank,34.0672653,-118.4055828
+8,Bel-Air,Wells Fargo Bank,34.0581942,-118.4444166
+9,Bel-Air,Wells Fargo Bank,34.0635167,-118.445693
+10,Hidden Hills,Wells Fargo Bank,34.1849427,-118.6053289
+11,Rolling Hills,Wells Fargo Bank,33.7897944,-118.3202246
+12,Rolling Hills,Citibank,33.792191,-118.333718
+13,Beverly Crest,Chase Bank,34.09041,-118.38414
+14,Beverly Crest,Chase Bank,34.084029,-118.385909
+15,Pacific Palisades,Union Bank,34.0464514,-118.5243694
+16,Pacific Palisades,U.S. Bank Branch,34.027196,-118.4889433
+17,Pacific Palisades,U.S. Bank Branch,34.0478033,-118.5258725
+18,Pacific Palisades,Chase Bank,34.0268892,-118.5021548
+19,Pacific Palisades,Chase Bank,34.046097,-118.52469
+20,Pacific Palisades,First Republic Bank,34.0529691,-118.4679349
+21,Pacific Palisades,Citibank,34.0332943,-118.4941055
+22,Palos Verdes Estates,Bank of America Financial Center,33.7999662,-118.3887584
+23,Palos Verdes Estates,First Foundation Bank,33.799768,-118.389078
+24,Palos Verdes Estates,OneWest Bank,33.8162809,-118.386613
+25,Palos Verdes Estates,Chase Bank,33.81979,-118.384798
+26,La CaÃ±ada Flintridge,California Federal Bank A Fed,34.2020203,-118.1955985
+27,La CaÃ±ada Flintridge,Citizens Business Bank,34.1604574,-118.2546761
+28,La CaÃ±ada Flintridge,Bank of America Financial Center,34.2293312,-118.2476828
+29,Rolling Hills Estates,Chase Bank,33.7929329,-118.3352718
+30,Malibu,Chase Bank,34.0210573,-118.8101944
+31,Malibu,Bank of America Financial Center,34.0211458,-118.8094891
+32,La Habra Heights,Union Bank,33.91834,-117.9010154
+33,La Habra Heights,Chase Bank,33.9403151,-117.9674658
+34,La Habra Heights,Pacific Western Bank,33.9234453,-117.896901
+35,Manhattan Beach,Chase Bank,33.885034,-118.410659
+36,Manhattan Beach,Wells Fargo Bank,33.8657343,-118.3935823
+37,Rancho Palos Verdes,Union Bank,33.773444,-118.3741249
+38,Rancho Palos Verdes,HSBC Bank,33.7737977,-118.374472
+39,Rancho Palos Verdes,OneWest Bank,33.7604575,-118.3942958
+40,Rancho Palos Verdes,U.S. Bank Branch,33.7701867,-118.3680682
+41,Rancho Palos Verdes,Chase Bank,33.761363,-118.39367
+42,Rancho Palos Verdes,Chase Bank,33.770473,-118.366792
+43,Rancho Palos Verdes,East West Bank,33.7766607,-118.3774555
+44,Rancho Palos Verdes,Wells Fargo Bank,33.7890119,-118.3402634
+45,Rancho Palos Verdes,Opus Bank,33.7730547,-118.375544
+46,Rancho Palos Verdes,Wells Fargo,33.7758217,-118.3780942
+47,Rancho Palos Verdes,Citibank,33.769567,-118.365652
+48,Rancho Palos Verdes,First Foundation Bank,33.7761321,-118.3752593
+49,Rancho Palos Verdes,Chase Bank,33.776822,-118.375832
+50,Rancho Palos Verdes,Malaga Bank,33.7882617,-118.340483
+51,Rancho Palos Verdes,Malaga Bank,33.7764535,-118.3782398
+52,Rancho Palos Verdes,Chase Bank,33.775502,-118.418064
+53,Rancho Palos Verdes,Farmers & Merchants Bank,33.7761692,-118.3788333
+54,Westlake Village,Royal Business Bank,34.1606576,-118.8369655
+55,Westlake Village,Union Bank,34.1629999,-118.825759
+56,Westlake Village,OneWest Bank,34.1537509,-118.8258441
+57,Westlake Village,Chase Bank,34.151717,-118.8269227
+58,Westlake Village,Mechanics Bank,34.1555984,-118.8277082
+59,Westlake Village,Comerica Bank,34.1526449,-118.8226627
+60,Westlake Village,First Bank,34.1506581,-118.8246358
+61,Westlake Village,Pacific Western Bank,34.1485005,-118.8193665
+62,Westlake Village,Citizens Business Bank,34.1558694,-118.8280452
+63,Westlake Village,Community West Bank,34.153624,-118.82873
+64,Westlake Village,Rabobank,34.1632632,-118.8263556
+65,Westlake Village,Wells Fargo Bank,34.1622731,-118.8244262
+66,Calabasas,Bank of America Financial Center,34.1564471,-118.6424787
+67,Calabasas,Wells Fargo Bank,34.1561873,-118.6433879
+68,Calabasas,Banc of California,34.1543239,-118.6418638
+69,Calabasas,Citibank,34.1539042,-118.6469657
+70,Calabasas,Wells Fargo,34.1568687,-118.6340994
+71,Calabasas,Chase Bank,34.148169,-118.613385
+72,Calabasas,PayQwick,34.1551612,-118.6461151
+73,Calabasas,Citibank ATM,34.1654919,-118.6235965
+74,Calabasas,Wells Fargo Bank,34.1795235,-118.6060469
+75,Calabasas,Citizens Business Bank,34.1716246,-118.6052865
+76,Calabasas,Ignite Payments Network,34.1540575,-118.6537077
+77,West San Dimas,All-Pest Mailbox/Bank,34.1188942,-117.7760055
+78,Bradbury,Bank of America Financial Center,34.0533722,-118.2536673
+79,Stevenson Ranch,Bank of America Financial Center,34.411309,-118.5786465
+80,Stevenson Ranch,Wells Fargo,34.3880002,-118.5723392
+81,Stevenson Ranch,Chase Bank,34.3918364,-118.572734
+82,Porter Ranch,Citibank,34.2735389,-118.5555693
+83,Agoura Hills,Wells Fargo Bank,34.1560875,-118.7571537
+84,Agoura Hills,Union Bank,34.1546014,-118.7578941
+85,Agoura Hills,Bank of America Financial Center,34.153094,-118.7580106
+86,Agoura Hills,U.S. Bank Branch,34.153664,-118.7591815
+87,Agoura Hills,Bank of America,34.1465709,-118.7723711
+88,Agoura Hills,Chase Bank,34.153876,-118.757583
+89,Agoura Hills,U.S. Bank Branch,34.1542105,-118.7958167
+90,Agoura Hills,U.S. Bank Branch,34.1838717,-118.7879667
+91,Agoura Hills,Chase Bank,34.1553173,-118.7948106
+92,Agoura Hills,OneWest Bank,34.1544241,-118.7574755
+93,Agoura Hills,Wells Fargo Bank,34.1537286,-118.7946428
+94,Agoura Hills,Citibank,34.156517,-118.756529
+95,Agoura Hills,U.S. Bank ATM - Agoura Hills - Vons,34.1537921,-118.7588842
+96,Agoura Hills,Bank of America Financial Center,34.1561544,-118.7943643
+97,Agoura Hills,Bank of America Financial Center,34.184249,-118.7868549
+98,Agoura Hills,Bank of America,34.1462171,-118.7985003
+99,Agoura Hills,Wells Fargo Bank,34.1824872,-118.7858909
+100,Agoura Hills,Montecito Bank,34.1478479,-118.7667524
+101,Agoura Hills,United Mizrahi Bank,34.1482994,-118.7623421
+102,Agoura Hills,Pacific Capital Bankcorp,34.1475406,-118.7829711
+103,Brentwood,U.S. Bank Branch,34.030494,-118.4773406
+104,Hermosa Beach,Chase Bank,33.86281,-118.400441
+105,Hermosa Beach,Opus Bank,33.8176847,-118.3870081
+106,Hollywood Hills West,ATM Hanmi Bank,34.0730488,-118.3088428
+107,Walnut,HSBC Bank,33.9753841,-117.8384677
+108,Walnut,Wells Fargo Bank,33.9859317,-117.8718612
+109,Walnut,Chase Bank,34.018692,-117.864744
+110,Walnut,East West Bank,33.9863525,-117.8702119
+111,Hasley Canyon,Citizens Business Bank,34.4404648,-118.597442
+112,West Hills,Chase Bank,34.186882,-118.642461
+113,West Hills,U.S. Bank ATM - Platt Avenue - Vons,34.1891511,-118.6414059
+114,West Hills,Chase Bank,34.155972,-118.6439028
+115,Cerritos,Bank of America Financial Center,33.846778,-118.0368597
+116,Cerritos,Chase Bank,33.859049,-118.050074
+117,Cerritos,Wells Fargo Bank,33.8611009,-118.0904956
+118,Beverly Hills,Wells Fargo Bank,34.0693582,-118.4052211
+119,Beverly Hills,Chase Bank,34.067301,-118.393829
+120,Century City,Chase Bank,34.053506,-118.402692
+121,North Whittier,Bank of America Financial Center,34.0712602,-118.4030055
+122,North Whittier,Chase Bank,34.067338,-118.3997
+123,North Whittier,Chase Bank,34.0672178,-118.4089525
+124,North Whittier,Pacific Western Bank,34.0669077,-118.3946633
+125,Castaic Canyons,Chase Bank,34.49753,-118.622468
+126,Castaic Canyons,Chase Bank,34.44316,-118.574808
+127,Castaic Canyons,U.S. Bank Branch,34.4425959,-118.5787232
+128,Marina del Rey,Wells Fargo Bank,34.0173957,-118.4967032
+129,Diamond Bar,Preferred Bank,33.9973824,-117.8138023
+130,Diamond Bar,HSBC Bank,34.0270947,-117.8370709
+131,Diamond Bar,U.S. Bank Branch,34.0008026,-117.8117058
+132,Diamond Bar,East West Bank,34.0189997,-117.8089298
+133,Diamond Bar,Wells Fargo Bank,34.0019965,-117.8101408
+134,Diamond Bar,Chase Bank,34.019879,-117.8085315
+135,Diamond Bar,Hanmi Bank,33.9986023,-117.8438122
+136,Diamond Bar,California Bank & Trust,34.0004361,-117.8107636
+137,Diamond Bar,East West Bank,34.0423472,-117.8507054
+138,Diamond Bar,Royal Business Bank,33.9996614,-117.8099833
+139,Diamond Bar,Wells Fargo Bank,34.0205437,-117.8645173
+140,Diamond Bar,Citibank,34.000826,-117.809673
+141,Diamond Bar,U.S. Bank ATM - Diamond Bar,34.0007948,-117.8117003
+142,Diamond Bar,Chase Bank,34.002927,-117.80955
+143,Diamond Bar,Cathay Bank,34.0015397,-117.8111236
+144,Diamond Bar,Chase Bank,33.9939436,-117.7576138
+145,Diamond Bar,ATM Cathay Bank,34.0014617,-117.8113492
+146,Redondo Beach,U.S. Bank Branch,33.8532342,-118.3907051
+147,Redondo Beach,Union Bank,33.8650187,-118.3934016
+148,Redondo Beach,Bank of America Financial Center,33.861933,-118.4002106
+149,Redondo Beach,U.S. Bank Branch,33.8083385,-118.3602111
+150,Redondo Beach,Wells Fargo Bank,33.8380327,-118.3857268
+151,Redondo Beach,Chase Bank,33.838539,-118.385177
+152,Woodland Hills,Bank of America Financial Center,34.1699967,-118.6052722
+153,Woodland Hills,Bank of America Financial Center,34.165401,-118.6240632
+154,Woodland Hills,U.S. Bank Branch,34.1555593,-118.6423157
+155,Woodland Hills,Chase Bank,34.168816,-118.606133
+156,Woodland Hills,Citibank,34.168236,-118.606266
+157,Woodland Hills,Chase Bank,34.1906953,-118.6062797
+158,Claremont,Chase Bank,34.077643,-117.669758
+159,Claremont,Chase Bank,34.088436,-117.689281
+160,Claremont,U.S. Bank Branch,34.089018,-117.6901441
+161,Claremont,Pacific Western Bank,34.1006713,-117.6706309
+162,Claremont,Citizens Business Bank,34.103828,-117.66957
+163,Santa Clarita,Union Bank,34.379049,-118.547364
+164,Santa Clarita,Bank of the West,34.420638,-118.564037
+165,Santa Clarita,Chase Bank,34.379286,-118.542746
+166,Santa Clarita,Union Bank,34.4121213,-118.5585027
+167,Santa Clarita,Bank of America Financial Center,34.4134261,-118.5537174
+168,Santa Clarita,U.S. Bank Branch,34.3826468,-118.5742047
+169,Santa Clarita,Pacific Western Bank,34.4234098,-118.5777135
+170,Santa Clarita,Wells Fargo Bank,34.3785392,-118.5577536
+171,Santa Clarita,Wells Fargo Bank,34.41942,-118.56022
+172,Santa Clarita,Mission Valley Bank,34.4128248,-118.5040453
+173,Santa Clarita,Everbank Financial Corporation,34.41073250000001,-118.5761291
+174,Santa Clarita,Bank of Santa Clarita,34.4163681,-118.5523951
+175,Santa Clarita,U.S. Bank branch - Stevenson Ranch - Ralphs,34.3822929,-118.5741285
+176,Santa Clarita,Chase Bank,34.427345,-118.536636
+177,Santa Clarita,Chase Bank,34.42145600000001,-118.563199
+178,Santa Clarita,Chase Bank,34.412723,-118.554768
+179,Santa Clarita,Chase Bank,34.4036138,-118.5519478
+180,Santa Clarita,Wells Fargo Bank,34.4070103,-118.5783326
+181,Santa Clarita,Bank of the Sierra,34.4156094,-118.5527653
+182,Santa Clarita,Citibank,34.428569,-118.535683
+183,Sierra Madre,Wells Fargo Bank,34.1511288,-118.0732656
+184,Ramona,First Choice Bank,34.0786189,-118.1272862
+185,Ramona,Wells Fargo Bank,34.0394559,-118.1439364
+186,Ramona,Citibank,34.03634600000001,-118.192698
+187,San Dimas,Opus Bank,34.112583,-117.7648721
+188,San Dimas,Banking Equipment,34.1019689,-117.824382
+189,San Dimas,"INSURANCE - Auto, Home, Life, Health, Bank",34.119482,-117.782162
+190,Chatsworth,Union Bank,34.257528,-118.604654
+191,Chatsworth,OneWest Bank,34.2574969,-118.5801264
+192,Chatsworth,Chase Bank,34.2589684,-118.5795029
+193,Chatsworth,Chase Bank,34.275419,-118.566512
+194,Chatsworth,ATM (Union Bank),34.2573686,-118.6046569
+195,Chatsworth,Citibank,34.25685199999999,-118.581061
+196,Chatsworth,Wells Fargo Bank,34.2200919,-118.6065947
+197,Chatsworth,Wells Fargo Bank,34.2558287,-118.5795875
+198,Chatsworth,Wells Fargo Bank,34.2751448,-118.5645705
+199,Chatsworth,Crestmark Bank,34.2212369,-118.571202
+200,Chatsworth,Fleisher Family Trust,34.2388805,-118.6022525
+201,Chatsworth,Calfed Bank,34.2569032,-118.5810738
+202,Chatsworth,Chase Bank,34.2424806,-118.558294
+203,Chatsworth,Bank of America Financial Center,34.2199164,-118.5717418
+204,Chatsworth,Bank of America Financial Center,34.2751693,-118.565078
+205,El Segundo,Bank of America Financial Center,33.9287604,-118.3969471
+206,El Segundo,Chase Bank,33.905471,-118.395607
+207,El Segundo,Chase Bank,33.918659,-118.415207
+208,El Segundo,Citibank,33.8960144,-118.3956519
+209,El Segundo,U.S. Bank ATM - Manhattan Beach,33.8993386,-118.3956905
+210,Granada Hills,Chase Bank,34.264631,-118.523686
+211,Granada Hills,Citibank,34.257227,-118.4982005
+212,La Mirada,Bank of Hope,33.884714,-117.997505
+213,La Mirada,CBB Bank,33.8726159,-117.9986248
+214,La Mirada,Wells Fargo,33.8797975,-117.9622972
+215,La Verne,Bank of America Financial Center,34.1179454,-117.7773754
+216,La Verne,U.S. Bank Branch,34.1144794,-117.7674354
+217,La Verne,Chase Bank,34.112657,-117.766743
+218,La Verne,Chase Bank,34.107464,-117.748223
+219,La Verne,Pacific Western Bank,34.1075709,-117.7181428
+220,La Verne,U.S. Bank ATM - San Dimas - Albertsons,34.1059531,-117.8037043
+221,La Verne,U.S. Bank ATM - La Verne,34.1145031,-117.7674159
+222,La Verne,Wells Fargo Bank,34.1171252,-117.7751863
+223,La Verne,U.S. Bank Branch,34.1075254,-117.7197115
+224,La Verne,Chase Bank,34.1073197,-117.7292977
+225,La Crescenta-Montrose,Union Bank,34.2001664,-118.1885429
+226,La Crescenta-Montrose,U.S. Bank Branch,34.2307839,-118.2488867
+227,La Crescenta-Montrose,U.S. Bank Branch,34.2229311,-118.2359936
+228,La Crescenta-Montrose,Bank of Hope,34.229989,-118.248903
+229,La Crescenta-Montrose,Chase Bank,34.205485,-118.228815
+230,La Crescenta-Montrose,Chase Bank,34.227008,-118.244046
+231,La Crescenta-Montrose,Wells Fargo Bank,34.2294,-118.249
+232,La Crescenta-Montrose,Citibank,34.222061,-118.235443
+233,La Crescenta-Montrose,U.S. Bank ATM - La Crescenta,34.2229863,-118.2360558
+234,La Crescenta-Montrose,Chase Bank,34.202682,-118.195562
+235,La Crescenta-Montrose,Wells Fargo Bank,34.2066971,-118.2320336
+236,La Crescenta-Montrose,Wells Fargo Bank,34.2006273,-118.1910253
+237,La Crescenta-Montrose,Citizens Business Bank,34.203238,-118.1979439
+238,La Crescenta-Montrose,Citibank,34.201995,-118.195552
+239,Glendora,Bank of America Financial Center,34.1070331,-117.8473066
+240,Glendora,Chase Bank,34.128815,-117.828724
+241,Vernon,First Foundation Bank,34.048012,-118.258888
+242,Vernon,Pacific Commerce Bank,34.0470806,-118.2423423
+243,Vernon,BBVA Compass Loan Production Office,34.0478376,-118.2618186
+244,View Park-Windsor Hills,OneWest Bank,33.9574001,-118.3960058
+245,Hacienda Heights,Industrial and Commercial Bank of China (USA) NA,33.990479,-117.933801
+246,Hacienda Heights,American Plus Bank,33.9902081,-117.9239606
+247,Lakewood,U.S. Bank Branch,33.8350202,-118.1155705
+248,Lakewood,Chase Bank,33.847597,-118.143148
+249,Lakewood,Bank of America Financial Center,33.8113452,-118.1081031
+250,Lakewood,Hanmi Bank,33.8728073,-118.0825797
+251,Encino,OneWest Bank,34.1700118,-118.5383579
+252,Encino,Pacific Western Bank,34.155777,-118.4773595
+253,Encino,Citibank,34.158221,-118.494764
+254,Encino,U.S. Bank ATM Ventura Boulevard,34.1605512,-118.5094988
+255,Quartz Hill,Wells Fargo Bank,34.6031969,-118.1844914
+256,Quartz Hill,California Bank & Trust,34.6463836,-118.2182505
+257,Westchester,Citibank,33.957019,-118.395785
+258,Westchester,Chase Bank,33.980316,-118.44008
+259,Torrance,U.S. Bank Branch,33.825957,-118.3509888
+260,Torrance,East West Bank,33.8091392,-118.3516478
+261,Torrance,Chase Bank,33.831768,-118.352232
+262,Mission Hills,Chase Bank,34.2556206,-118.5027122
+263,Studio City,Wells Fargo Bank,34.1433016,-118.400107
+264,Studio City,Wells Fargo Bank,34.1400629,-118.3686116
+265,Studio City,Wells Fargo Bank,34.1449623,-118.4140429
+266,Studio City,Citibank,34.143636,-118.39821
+267,East Pasadena,Bank of the West,34.145722,-118.098406
+268,Tarzana,Chase Bank,34.171109,-118.540948
+269,Tarzana,Citibank,34.172927,-118.553148
+270,Tarzana,CapitalSource Bank - Tarzana,34.1720717,-118.5594635
+271,Tarzana,Chase Bank,34.160568,-118.505916
+272,Tarzana,Chase Bank,34.187709,-118.55409
+273,Tarzana,Wells Fargo Bank,34.1719381,-118.5431913
+274,Tarzana,Wells Fargo Bank,34.1599392,-118.5084374
+275,Tarzana,Chase Bank,34.171084,-118.570019
+276,Tarzana,Wells Fargo Bank,34.1720046,-118.5661671
+277,Tarzana,Wells Fargo Bank,34.1667273,-118.5932681
+278,Toluca Lake,Chase Bank,34.151987,-118.349891
+279,Toluca Lake,U.S. Bank ATM - Burbank Pavilions,34.1613848,-118.3138114
+280,Rowland Heights,Wells Fargo Bank,33.9397485,-117.9502045
+281,Rowland Heights,U.S. Bank Branch,33.9324305,-117.8978492
+282,Rancho Dominguez,Wells Fargo Bank,33.8413901,-118.184364
+283,Rancho Dominguez,Farmers & Merchants Bank,33.8401498,-118.1828233
+284,Carthay,Chase Bank,34.063172,-118.366198
+285,Culver City,Wells Fargo Bank,34.0213329,-118.3989608
+286,Culver City,Wells Fargo Bank,34.0194548,-118.4213122
+287,Culver City,Pacific Western Bank,34.0393112,-118.4385792
+288,Carson,Chase Bank,33.872582,-118.296432
+289,Valinda,Universal Bank,34.0186352,-117.8894304
+290,Valinda,Wells Fargo Bank,34.034836,-117.9117382
+291,East La Mirada,Wells Fargo Bank,33.89813609999999,-118.0095757
+292,East La Mirada,Bank of America Financial Center,33.9187026,-118.0127603
+293,East La Mirada,Union Bank,33.9390752,-117.9675109
+294,East La Mirada,U.S. Bank Branch,33.93845750000001,-117.9664436
+295,East La Mirada,Bank of the West,33.9165695,-117.9679848
+296,East La Mirada,Bank of Hope,33.884872,-117.994718
+297,East La Mirada,Chase Bank,33.9175206,-118.0122016
+298,East La Mirada,Hanmi Bank,33.8842005,-117.9963759
+299,East La Mirada,U.S. Bank Branch,33.8815911,-117.997245
+300,East La Mirada,Saehan Bank,33.8952587,-117.9875992
+301,East La Mirada,U.S. Bank ATM - La Habra - Albertsons,33.9385325,-117.9663613
+302,East La Mirada,Banc of California,33.9175949,-117.9948001
+303,East La Mirada,Chase Bank,33.898213,-118.008136
+304,East La Mirada,Shinhan Bank America,33.8816035,-117.9961064
+305,East La Mirada,Chase Bank,33.916976,-117.962086
+306,Rancho Park,U.S. Bank Branch,34.0610319,-118.4173642
+307,Rancho Park,Chase Bank,34.041941,-118.425315
+308,Rancho Park,Chase Bank,34.043423,-118.431929
+309,Rancho Park,Mechanics Bank,34.0672877,-118.3955709
+310,Rancho Park,Bank of America Financial Center,34.0177229,-118.40804
+311,Sherman Oaks,Wells Fargo Bank,34.1515761,-118.4511016
+312,Sherman Oaks,U.S. Bank Branch,34.1511429,-118.4483971
+313,Sherman Oaks,Chase Bank,34.149304,-118.436849
+314,Sherman Oaks,Chase Bank,34.152869,-118.46196
+315,Hollywood Hills,Pacific Premier Bank,34.0736283,-118.3612302
+316,Hollywood Hills,Wells Fargo Bank,34.0755262,-118.36177
+317,Hollywood Hills,Wells Fargo Bank,34.0934705,-118.3447534
+318,Santa Monica,Bank of America Financial Center,34.0178281,-118.4962954
+319,Santa Monica,Union Bank,34.0301149,-118.4980131
+320,Santa Monica,OneWest Bank,34.0343042,-118.4924337
+321,Santa Monica,Chase Bank,34.021446,-118.495889
+322,Santa Monica,Pacific Western Bank,34.047425,-118.5263394
+323,Santa Monica,Pacific Western Bank,34.0170113,-118.4942353
+324,Santa Monica,Chase Bank,34.018695,-118.489917
+325,Santa Monica,Chase Bank,34.017249,-118.495665
+326,Santa Monica,Wells Fargo Bank,34.0347749,-118.4786493
+327,Westwood,Comerica Bank,34.0583595,-118.4148332
+328,Westwood,Comerica Bank,34.0621535,-118.4443599
+329,Westwood,City National Bank,34.0594689,-118.413944
+330,Playa Vista,Chase Bank,33.960017,-118.418485
+331,Playa Vista,Chase Bank,34.00740800000001,-118.412519
+332,Duarte,Wells Fargo Bank,34.1397411,-118.0209035
+333,Duarte,Wells Fargo Bank,34.1517326,-118.0245554
+334,Duarte,Citizens Business Bank,34.1401473,-118.0005591
+335,Duarte,Chase Bank,34.139818,-118.028673
+336,Duarte,Chase Bank,34.139283,-117.983941
+337,Charter Oak,Bank of America Financial Center,34.1070067,-117.8082226
+338,Charter Oak,Bank of the West,34.1131369,-117.8284625
+339,Charter Oak,Wells Fargo Bank,34.1070254,-117.8255283
+340,Charter Oak,Chase Bank,34.0724953,-117.8303285
+341,Charter Oak,Chase Bank,34.1070521,-117.8270116
+342,Charter Oak,Citizens Business Bank,34.0864649,-117.870832
+343,Charter Oak,Wells Fargo Bank,34.1279066,-117.8293294
+344,Charter Oak,U.S. Bank Branch,34.1069302,-117.805177
+345,Charter Oak,Citibank,34.106929,-117.857082
+346,Val Verde,Bank of America Financial Center,34.4572493,-118.6180464
+347,Northridge,Union Bank,34.2759407,-118.5686726
+348,Northridge,Wells Fargo Bank,34.2651824,-118.5251718
+349,Northridge,Bank of America Financial Center,34.256193,-118.535344
+350,Northridge,U.S. Bank Branch,34.2762307,-118.5636737
+351,Northridge,Bank of the West,34.256734,-118.580139
+352,Northridge,Chase Bank,34.235208,-118.536511
+353,Northridge,Chase Bank,34.257757,-118.538642
+354,Venice,U.S. Bank,34.0152542,-118.4970844
+355,Venice,First Republic Bank,34.0198865,-118.4976662
+356,Venice,OneWest Bank,34.0198121,-118.4985971
+357,Venice,Union Bank,34.0171686,-118.4947622
+358,Venice,OneWest Bank,33.9997423,-118.4811028
+359,Venice,Chase Bank,33.9924524,-118.4441767
+360,Venice,Comerica Bank,34.0191669,-118.4979209
+361,Mayflower Village,East West Bank,34.1240171,-118.0591759
+362,Mayflower Village,OneWest Bank,34.1512704,-118.0313813
+363,Eagle Rock,U.S. Bank Branch,34.1549884,-118.2448093
+364,Eagle Rock,Citibank,34.137605,-118.214984
+365,Eagle Rock,U.S. Bank ATM - North Glendale - Vons,34.1551122,-118.2449481
+366,West Carson,Wells Fargo Bank,33.8418401,-118.284743
+367,West Carson,Bank of America Financial Center,33.8462541,-118.2593124
+368,West Carson,Chase Bank,33.844447,-118.263339
+369,Citrus,Bank of America Financial Center,33.7163205,-116.2966676
+370,Citrus,OneWest Bank Branch,33.67731920000001,-116.3034503
+371,Citrus,Wells Fargo Bank,33.7153771,-116.293069
+372,Citrus,Wells Fargo Bank,33.7081489,-116.2820864
+373,Citrus,Union Bank,33.7078714,-116.2744746
+374,Citrus,U.S. Bank Branch,33.6785164,-116.2956528
+375,Citrus,Chase Bank,33.711944,-116.292139
+376,Citrus,U.S. Bank Branch,33.7154658,-116.2968521
+377,Citrus,Provident Bank,33.7125812,-116.291282
+378,Citrus,California Bank & Trust,33.7077544,-116.2650683
+379,Citrus,U.S. Bank Branch,33.6866324,-116.2677002
+380,Citrus,Wells Fargo Bank,33.7139444,-116.2334505
+381,Citrus,Rabobank,33.7082744,-116.2479435
+382,Citrus,Rabobank,33.6761444,-116.3033776
+383,Citrus,Rabo Bank,33.7129988,-116.2372369
+384,Citrus,BBVA Compass,33.7076881,-116.2509861
+385,Citrus,U.S. Bank ATM - Indio - Ralphs,33.686495,-116.2674054
+386,Citrus,U.S. Bank ATM - La Quinta,33.7153417,-116.2969413
+387,Citrus,Bank of Southern California,33.7072253,-116.2942284
+388,Citrus,U.S. Bank Branch,33.7150869,-116.2335387
+389,Industry,Banc of California,33.9802299,-117.9751959
+390,Del Aire,Union Bank,33.8851546,-118.4083171
+391,Del Aire,Pacific Premier Bank,33.8873306,-118.4111986
+392,Covina,Cathay Bank,34.0701555,-117.8884011
+393,Covina,Chase Bank,34.074966,-117.886661
+394,Covina,Citibank,34.087616,-117.889887
+395,Covina,Sunwest Bank,34.0714835,-117.9235304
+396,Signal Hill,Farmers & Merchants Bank,33.7615039,-118.1373705
+397,Signal Hill,U.S. Bank Branch,33.8308012,-118.1651119
+398,Signal Hill,First Bank,33.8315383,-118.1847798
+399,Signal Hill,First Bank,33.7669888,-118.1171456
+400,Signal Hill,OneWest Bank,33.77511,-118.1510556
+401,Signal Hill,Wells Fargo Bank,33.7946404,-118.1246862
+402,Signal Hill,Farmers & Merchants Bank,33.7993458,-118.1249318
+403,Signal Hill,U.S. Bank Branch,33.79039640000001,-118.1373104
+404,Vincent,OneWest Bank,34.13993540000001,-117.9735239
+405,Vincent,OneWest Bank,34.0741673,-117.8816342
+406,Vincent,Wells Fargo Bank,34.086551,-117.8886023
+407,Temple City,Wells Fargo Bank,34.1073669,-118.0228546
+408,Fairfax,Chase Bank,34.079668,-118.344352
+409,Fairfax,Chase Bank,34.070276,-118.353983
+410,Fairfax,Chase Bank,34.076523,-118.361139
+411,Sylmar,Bank of America Financial Center,34.2710138,-118.501514
+412,Sylmar,Chase Bank,34.273608,-118.501774
+413,Arleta,Bank of America Financial Center,34.2222199,-118.4481979
+414,South San Jose Hills,Royal Business Bank,33.9968907,-117.891059
+415,South San Jose Hills,First General Bank,33.9858273,-117.8882591
+416,South San Jose Hills,Bank of America Financial Center,34.0305366,-117.914007
+417,South San Jose Hills,Bank of the West,33.987763,-117.889029
+418,South San Jose Hills,Bank Of Hope,33.9872724,-117.8696996
+419,South San Jose Hills,Bank of Hope,33.987314,-117.889601
+420,South San Jose Hills,East West Bank,33.9967912,-117.8906382
+421,South San Jose Hills,California Bank & Trust,34.010325,-117.858712
+422,South San Jose Hills,First Bank,33.9951485,-117.8904642
+423,Lake Balboa,U.S. Bank Branch,34.1605508,-118.5095338
+424,Lake Balboa,East West Bank,34.1560351,-118.4781978
+425,South San Gabriel,East West Bank,34.0326001,-118.1287014
+426,West Puente Valley,Bank of America Financial Center,34.023954,-117.956298
+427,West Puente Valley,Chase Bank,34.036514,-117.950391
+428,South Whittier,Bank of Whittier,33.94855030000001,-118.0037879
+429,South Whittier,Bank of America Financial Center,33.9401842,-118.0451841
+430,South Whittier,Friendly Hills Bank,33.9427638,-117.9885821
+431,South Whittier,Bank of America Financial Center,33.943854,-117.9928529
+432,South Whittier,Wells Fargo Bank,33.9499984,-118.0071724
+433,South Whittier,Pacific Western Bank,33.9469933,-117.9992363
+434,South Whittier,Chase Bank,33.945097,-117.994465
+435,Avocado Heights,OneWest Bank,34.0243856,-117.9567977
+436,Avocado Heights,Chase ATM/Bank,34.0360098,-117.9510203
+437,Avocado Heights,Provident Bank Mortgage,34.0200114,-117.9495083
+438,Avocado Heights,Wells Fargo Bank,34.0619978,-118.0210747
+439,Avocado Heights,Aob Banking,34.0057852,-117.9587883
+440,Avocado Heights,Federal Investment Center,34.0376374,-117.9850446
+441,Burbank,U.S. Bank Branch,34.1614062,-118.313449
+442,Burbank,U.S. Bank Branch,34.166414,-118.3235015
+443,Burbank,U.S. Bank Branch,34.1823194,-118.3104611
+444,Burbank,U.S. Bank Branch,34.1731515,-118.3021752
+445,Burbank,Wells Fargo Bank,34.18144100000001,-118.307649
+446,Burbank,Chase Bank,34.1863544,-118.3156836
+447,Burbank,Chase Bank,34.180189,-118.310118
+448,Burbank,Comerica Bank,34.1880623,-118.3180549
+449,Burbank,Wells Fargo Bank,34.1866306,-118.3160391
+450,East San Gabriel,First General Bank,34.0803711,-118.0905253
+451,East San Gabriel,American Plus Bank,34.142731,-118.134081
+452,East San Gabriel,Bank of America Financial Center,34.1250125,-118.0546449
+453,East San Gabriel,East West Bank,34.1206769,-118.1081921
+454,East San Gabriel,U.S. Bank Branch,34.147471,-118.1022092
+455,Pico-Robertson,Bank of America Financial Center,34.0667222,-118.3984646
+456,Pico-Robertson,First Republic Bank,34.0672316,-118.4021708
+457,Pico-Robertson,Bank of America Financial Center,34.0536844,-118.3764631
+458,Pico-Robertson,Chase Bank,34.0535244,-118.3757128
+459,Palmdale,Bank of America Financial Center,34.5798369,-118.1150567
+460,Palmdale,U.S. Bank Branch,34.5806968,-118.0964481
+461,Palmdale,Union Bank,34.6009997,-118.147116
+462,Palmdale,Wells Fargo Bank,34.6068771,-118.1472489
+463,Palmdale,Wells Fargo Bank,34.57915560000001,-118.1113811
+464,Palmdale,Chase Bank,34.580069,-118.097748
+465,Palmdale,Chase Bank,34.559467,-118.084076
+466,Palmdale,California Bank & Trust,34.6013463,-118.1458719
+467,Palmdale,Chase Bank,34.6022653,-118.1538724
+468,Palmdale,USA Gasoline,34.586837,-118.1479366
+469,Beverly Grove,Bank of America Financial Center,34.0770693,-118.380047
+470,Beverly Grove,Bank of America Financial Center,34.0665813,-118.3834614
+471,Beverly Grove,Bank of America Financial Center,34.0846271,-118.3850221
+472,Beverly Grove,U.S. Bank Branch,34.0850558,-118.3844287
+473,Beverly Grove,U.S. Bank Branch,34.0666084,-118.3976431
+474,Beverly Grove,U.S. Bank Branch,34.067529,-118.402443
+475,Beverly Grove,Chase Bank,34.0746008,-118.3762199
+476,Beverly Grove,Chase Bank,34.065026,-118.376479
+477,Mar Vista,U.S. Bank Branch,34.0268554,-118.45509
+478,Mar Vista,OneWest Bank,34.0131572,-118.4652732
+479,Mar Vista,OneWest Bank,33.9923452,-118.4445981
+480,Mar Vista,Chase Bank,34.004095,-118.433524
+481,Mar Vista,Chase Bank,34.022133,-118.438854
+482,Winnetka,Chase Bank,34.2090395,-118.5553028
+483,Winnetka,U.S. Bank ATM - Tarzana,34.1724766,-118.5583222
+484,Norwalk,Bank of America Financial Center,33.9052943,-118.0834233
+485,Norwalk,Chase Bank,33.901932,-118.0856
+486,Norwalk,Bank of the West,33.916666,-118.030664
+487,Norwalk,Wells Fargo Bank,33.9131529,-118.0833627
+488,Del Rey,Bank of America Financial Center,33.97294,-118.422704
+489,Del Rey,U.S. Bank Branch,33.9805116,-118.438704
+490,Del Rey,U.S. Bank Branch,33.9842834,-118.4432616
+491,Del Rey,Chase Bank,33.9844463,-118.4384813
+492,Del Rey,Chase Bank,33.9762539,-118.4179502
+493,Del Rey,Comerica Bank,33.9897204,-118.4468356
+494,Del Rey,First Bank,33.9830211,-118.4439669
+495,Del Rey,Citibank,33.9854408,-118.4381913
+496,Del Rey,U.S. Bank ATM - Marina Del Rey,33.9805116,-118.438704
+497,Del Rey,Bank of America Financial Center,33.9882839,-118.4718659
+498,Del Rey,Chase Bank,33.99741,-118.460405
+499,Del Rey,Chase Bank,34.026615,-118.455432
+500,Downey,Bank of America Financial Center,33.9250453,-118.1547364
+501,Downey,Citibank,33.935637,-118.124816
+502,Downey,Farmers & Merchants Bank,33.9357548,-118.1234976
+503,Downey,ATM Pacific Western Bank,33.9525903,-118.1310615
+504,Windsor Square,Chase Bank,34.062031,-118.307612
+505,West Whittier-Los Nietos,U.S. Bank Branch,33.9624808,-118.0309135
+506,West Whittier-Los Nietos,Chase Bank,33.980497,-118.049965
+507,West Whittier-Los Nietos,Bank of America Financial Center,33.9758413,-118.0377288
+508,West Whittier-Los Nietos,Wells Fargo Bank,33.9768461,-118.0370477
+509,West Whittier-Los Nietos,Chase Bank,33.979314,-118.0359492
+510,Monrovia,U.S. Bank Branch,34.1510782,-118.0052201
+511,Monrovia,Wells Fargo Bank,34.1460656,-118.0012268
+512,Monrovia,Bank of America Financial Center,34.1493344,-118.0007219
+513,Monrovia,Opus Bank,34.1465369,-118.0011331
+514,Monrovia,U.S. Bank Branch,34.1513821,-118.0280775
+515,Monrovia,Bank of the West,34.161649,-118.054888
+516,Monrovia,Chase Bank,34.151141,-118.001414
+517,Monrovia,Chase Bank,34.139932,-118.013832
+518,Monrovia,Citibank,34.149526,-118.001514
+519,Monrovia,Far East National Bank,34.1268988,-118.0527897
+520,Monrovia,U.S. Bank ATM - Monrovia,34.1510486,-118.005272
+521,Lopez/Kagel Canyons,Bank of America Financial Center,34.3002543,-118.4409506
+522,Irwindale,Bank of America Advanced Center,34.1402128,-117.9548071
+523,Irwindale,Bank of the West,34.0757165,-117.8898327
+524,Irwindale,Wells Fargo Bank,34.1399497,-117.9782483
+525,Irwindale,Wells Fargo Bank,34.0732929,-117.8892828
+526,Veterans Administration,U.S. Bank Branch,34.0588444,-118.4421313
+527,Veterans Administration,Chase Bank,34.058973,-118.444463
+528,Artesia,Bank of the West,33.874339,-118.046983
+529,Artesia,Bank of America Financial Center,33.8584832,-118.0908058
+530,Artesia,U.S. Bank Branch,33.9045337,-118.0823188
+531,Artesia,Chase Bank,33.873644,-118.081919
+532,Artesia,Bank of Hope,33.846634,-118.047771
+533,Artesia,California Bank & Trust,33.859079,-118.0380387
+534,Santa Fe Springs,Bank of Southern California,33.9415119,-118.0723276
+535,Santa Fe Springs,Bank of America Financial Center,33.9475425,-118.0894522
+536,Santa Fe Springs,Friendly Hills Bank,33.9424856,-118.0760505
+537,Santa Fe Springs,U.S. Bank Branch,33.9401791,-118.0468306
+538,Santa Fe Springs,U.S. Bank Branch,33.9412797,-118.0449036
+539,Santa Fe Springs,Wells Fargo Bank,33.9467621,-118.0835921
+540,Santa Fe Springs,Citibank,33.972397,-118.071784
+541,Santa Fe Springs,Citizens Business Bank,33.9424934,-118.0759626
+542,Santa Fe Springs,U.S. Bank ATM - Santa Fe Springs,33.9401838,-118.046889
+543,Lomita,First Bank,33.8309737,-118.3529402
+544,Lomita,Bank of Hope,33.807765,-118.360217
+545,Lomita,Bank of Hope,33.82123,-118.326613
+546,Lomita,OneWest Bank,33.7892732,-118.322915
+547,Mid-Wilshire,Bank of America Financial Center,34.06201679999999,-118.3468063
+548,Tujunga,Chase Bank,34.246683,-118.275738
+549,Tujunga,Wells Fargo Bank,34.24022,-118.2664114
+550,Tujunga,Citibank,34.259395,-118.302467
+551,Mount Washington,Chase Bank,34.13942,-118.213903
+552,Mount Washington,Bank of America Financial Center,34.1397189,-118.2156011
+553,Mount Washington,Cathay Bank,34.0622772,-118.2387527
+554,Mount Washington,Wells Fargo Bank,34.1418678,-118.2332888
+555,Mount Washington,Wells Fargo Bank,34.1370437,-118.1896037
+556,Sawtelle,Banner Bank Multifamily & Commercial Real Estate Lending,34.0401316,-118.4718609
+557,Sawtelle,HSBC Bank,34.0148746,-118.4945708
+558,Sawtelle,Union Bank,34.0542791,-118.4643612
+559,Sawtelle,Bank of America Financial Center,34.0532514,-118.4700638
+560,Sawtelle,U.S. Bank Branch,34.0435067,-118.4676457
+561,Sawtelle,U.S. Bank Branch,34.0536132,-118.4684669
+562,Sawtelle,Bank of the West,34.0091645,-118.4917265
+563,Sawtelle,OneWest Bank,34.0418583,-118.4705496
+564,Sawtelle,OneWest Bank,34.0540699,-118.4625808
+565,Sawtelle,Chase Bank,34.041397,-118.462286
+566,Sawtelle,Chase Bank,34.047931,-118.461964
+567,Sawtelle,Union Bank,34.0318648,-118.4832175
+568,Sawtelle,California Bank & Trust,34.0169125,-118.5007435
+569,Sawtelle,California Bank & Trust,34.0499967,-118.4605172
+570,Sawtelle,Pacific Premier Bank,34.0541899,-118.4644976
+571,Sawtelle,Comerica Bank,34.0525136,-118.473491
+572,San Pedro,Bank of America Financial Center,33.7235205,-118.3125418
+573,San Pedro,U.S. Bank Branch,33.7329884,-118.2936805
+574,San Pedro,Chase Bank,33.73483,-118.288224
+575,San Pedro,Citibank,33.736325,-118.288868
+576,San Pedro,Chase Bank,33.723117,-118.31358
+577,San Pedro,Malaga Bank San Pedro,33.72212,-118.310954
+578,San Pedro,South Shores,33.7235532,-118.3125374
+579,San Pedro,Crown Plaza Parking.,33.7379008,-118.2823956
+580,Glendale,Union Bank,34.1791572,-118.3012998
+581,Glendale,U.S. Bank Branch,34.1550701,-118.254581
+582,Glendale,Bank of the West,34.180902,-118.308382
+583,Glendale,HomeStreet Bank,34.184949,-118.309243
+584,Glendale,U.S. Bank ATM - Glendale,34.15491069999999,-118.2545899
+585,Glendale,Chase Bank,34.102573,-118.309015
+586,San Gabriel,East West Bank,34.1115278,-118.1280602
+587,San Gabriel,Bank of America Financial Center,34.1025493,-118.0990086
+588,Pico Rivera,Chase Bank,33.969488,-118.100829
+589,Pico Rivera,Wells Fargo Bank,33.985051,-118.0997631
+590,Pico Rivera,Chase Bank,34.000775,-118.081693
+591,Pico Rivera,Bank of the West,33.9646169,-118.0615856
+592,Pico Rivera,Chase Bank,33.938133,-118.130132
+593,Pico Rivera,Chase Bank,33.9402651,-118.0460582
+594,Baldwin Park,U.S. Bank Branch,34.0718486,-117.9635243
+595,Baldwin Park,Bank of America Financial Center,34.0704508,-117.9272167
+596,Baldwin Park,Bank of the West,34.085106,-117.963906
+597,Baldwin Park,Bank of the West,34.068055,-117.925181
+598,Baldwin Park,Chase Bank,34.087431,-117.958593
+599,Baldwin Park,Pacific Western Bank,34.0690851,-117.9265962
+600,Baldwin Park,Wells Fargo Bank,34.0723008,-117.9615669
+601,Baldwin Park,Chase Bank,34.070057,-117.926452
+602,Baldwin Park,Chase Bank,34.078804,-117.908074
+603,Baldwin Park,Wells Fargo Bank,34.0516916,-117.944427
+604,Baldwin Park,Wells Fargo Bank,34.0715549,-117.9236757
+605,Baldwin Park,Tiny Treasures Milk Bank,34.0604667,-117.9892903
+606,Baldwin Park,First Financial Corporate Center,34.068586,-117.942822
+607,North El Monte,First General Bank,34.1263034,-118.0551084
+608,North El Monte,American Plus Bank NA,34.1261377,-118.0527688
+609,North El Monte,Wells Fargo Bank,34.1258639,-118.054643
+610,North El Monte,Union Bank,34.1314135,-118.0648945
+611,North El Monte,HSBC Bank,34.1267195,-118.0552582
+612,North El Monte,Bank of the West,34.131368,-118.067254
+613,North El Monte,Banner Bank,34.1399928,-117.9944636
+614,North El Monte,Bank of America Financial Center,34.1420672,-118.0310965
+615,North El Monte,East West Bank,34.1301938,-118.024856
+616,North El Monte,California Bank & Trust,34.1267499,-118.0545668
+617,North El Monte,East West Bank,34.12759,-118.0544224
+618,North El Monte,Preferred Bank,34.1224671,-118.0554495
+619,Lancaster,Mission Bank - Lancaster,34.679544,-118.165204
+620,Lancaster,U.S. Bank Branch,34.6891196,-118.1123136
+621,Lancaster,U.S. Bank Branch,34.6898132,-118.1724704
+622,Lancaster,Wells Fargo Bank,34.6737851,-118.1676351
+623,Lancaster,Wells Fargo Bank,34.6972507,-118.1447679
+624,Lancaster,Chase Bank,34.697773,-118.144832
+625,Lancaster,Citizens Business Bank,34.6563919,-118.14731
+626,Lancaster,Chase Bank,34.674588,-118.151947
+627,Lancaster,California Bank & Trust,34.6977517,-118.1454679
+628,Lancaster,U.S. Bank Branch,34.6606405,-118.1829832
+629,Lancaster,Wells Fargo,34.6615953,-118.2023871
+630,Lancaster,U.S. Bank ATM - Valley Central,34.6897895,-118.172509
+631,Lancaster,Chase Bank,34.660613,-118.201756
+632,Lancaster,Chase Bank,34.688173,-118.113061
+633,Lancaster,Bank of Southern California,34.6984315,-118.138411
+634,Lancaster,U.S. Bank ATM - West Lancaster,34.6606014,-118.1829965
+635,Lancaster,Antelope Valley Bank Depository,34.6992778,-118.1722905
+636,Lancaster,Wells Fargo Bank,34.6892982,-118.0967724
+637,Lancaster,Antelope Valley Home Loans,34.6802477,-118.1652491
+638,Lancaster,Bank of America Financial Center,34.6610417,-118.2054023
+639,La Puente,First Choice Bank,33.9897779,-117.9253785
+640,La Puente,CTBC Bank,33.9908101,-117.9157977
+641,La Puente,Pacific City Bank,33.9883362,-117.9077183
+642,La Puente,HSBC Bank,33.9882421,-117.9058933
+643,La Puente,U.S. Bank Branch,33.9962139,-117.9676151
+644,La Puente,Union Bank,33.9903703,-117.9137889
+645,La Puente,Hanmi Bank,33.9875955,-117.8955604
+646,La Puente,Cathay Bank,33.9958905,-117.9046319
+647,La Puente,East West Bank,33.9878185,-117.9020742
+648,La Puente,California Bank & Trust,33.991146,-117.933552
+649,La Puente,East West Bank,33.9949866,-117.8961577
+650,La Puente,East West Bank,33.992151,-117.9312856
+651,La Puente,Cathay Bank,33.9898556,-117.926316
+652,La Puente,Preferred Bank,33.9916603,-117.9238641
+653,La Puente,Wells Fargo Bank,34.0216262,-117.958027
+654,La Puente,GBC International Bank,33.994964,-117.8962494
+655,La Puente,Wells Fargo Bank,33.9905864,-117.918478
+656,La Puente,Chase Bank,33.989331,-117.933236
+657,La Puente,ATM Cathay Bank,33.9958905,-117.9046319
+658,La Puente,OneWest Bank,33.9937049,-117.9691441
+659,Montecito Heights,Wells Fargo Bank,34.049678,-118.2478347
+660,Valley Village,Chase Bank,34.1520326,-118.367337
+661,Valley Village,Citibank,34.158337,-118.396747
+662,Valley Village,CapitalSource Bank - Studio City,34.1402085,-118.3688767
+663,Valley Village,Chase Bank,34.143933,-118.395001
+664,Harbor City,Union Bank,33.7934218,-118.3316752
+665,Harbor City,Union Bank,33.748867,-118.3244594
+666,Harbor City,Bank of America Financial Center,33.7926885,-118.3329079
+667,Harbor City,U.S. Bank Branch,33.7889194,-118.3225672
+668,Harbor City,Union Bank,33.8057629,-118.3506025
+669,Harbor City,Comerica Bank,33.7940998,-118.3353053
+670,Harbor City,Wells Fargo Bank,33.8339244,-118.3149594
+671,Harbor City,Chase Bank,33.791052,-118.330945
+672,Monterey Park,CTBC Bank,34.0796963,-118.104349
+673,Monterey Park,East West Bank,34.051448,-118.1382382
+674,Monterey Park,East West Bank,34.0784846,-118.1270304
+675,Monterey Park,East West Bank,34.0780519,-118.135018
+676,Monterey Park,Chase Bank,34.056674,-118.134927
+677,Monterey Park,Chase Bank,34.079216,-118.117319
+678,Reseda,Union Bank,34.23591890000001,-118.5531961
+679,Reseda,Pacific Premier Bank,34.1595139,-118.5008219
+680,Reseda,U.S. Bank Branch,34.2422704,-118.5574869
+681,Reseda,U.S. Bank Branch,34.1700223,-118.5702536
+682,Reseda,U.S. Bank Branch,34.1723767,-118.5580017
+683,Reseda,California Bank & Trust,34.1562939,-118.4848246
+684,Reseda,Grandpoint Bank,34.159496,-118.500697
+685,Reseda,First Bank,34.1633456,-118.5205862
+686,Reseda,Cathay Bank,34.235209,-118.564022
+687,Reseda,Preferred Bank,34.1673944,-118.5313435
+688,Reseda,Wells Fargo Bank,34.2008147,-118.5339224
+689,Pomona,Bank of America Financial Center,34.0557745,-117.7493405
+690,Pomona,Wells Fargo Bank,34.0628035,-117.7453507
+691,Pomona,Bank of America Financial Center,34.0290615,-117.7599228
+692,Pomona,U.S. Bank Branch,34.0552356,-117.7504092
+693,Pomona,Union Bank,34.0121479,-117.7432234
+694,Pomona,U.S. Bank Branch,34.0638986,-117.7185063
+695,Pomona,Chase Bank,34.057576,-117.750545
+696,Pomona,California Bank & Trust,34.094938,-117.717443
+697,Pomona,Citizens Business Bank,34.068639,-117.75236
+698,Pomona,U.S. Bank ATM - Pomona Mission & Garey,34.0553455,-117.75044
+699,Pomona,U.S. Bank ATM - Pomona-Indian Hill Boulevard,34.0639031,-117.7185831
+700,Pomona,Wells Fargo Bank,34.0958162,-117.7182846
+701,Pomona,Chase Bank,34.080449,-117.719633
+702,Pomona,Chase Bank,34.097859,-117.718281
+703,Pomona,Chase Bank,34.015572,-117.745044
+704,Pomona,American Continental Bank,34.010108,-117.7402808
+705,Pomona,East West Bank,34.0098781,-117.7407341
+706,Pomona,Banco Prospera,34.0567301,-117.7493065
+707,Pomona,OneWest Bank,34.1016671,-117.7695776
+708,Pomona,Wells Fargo Bank,34.0889189,-117.6935738
+709,San Fernando,Bank of America Financial Center,34.2574845,-118.4664974
+710,San Fernando,Philippine National Bank,34.2348411,-118.4836209
+711,San Fernando,Bankers Fidelity Inv,34.3058279,-118.4571974
+712,Atwater Village,Umpqua Bank,34.1571119,-118.2574416
+713,Atwater Village,First Citizens Bank,34.15554729999999,-118.2585268
+714,Atwater Village,OneWest Bank,34.1620412,-118.255332
+715,Atwater Village,Comerica Bank,34.153748,-118.2554439
+716,Bellflower,Farmers & Merchants Bank,33.8507466,-118.1431724
+717,Bellflower,Wells Fargo Bank,33.8592239,-118.1174281
+718,Bellflower,Union Bank,33.920214,-118.07302
+719,Bellflower,U.S. Bank Branch,33.8890894,-118.1240174
+720,Bellflower,OneWest Bank,33.85819780000001,-118.0850226
+721,Bellflower,Hanmi Bank - Cerritos Artesia Branch,33.8727211,-118.082582
+722,Bellflower,East West Bank,33.8580541,-118.0812336
+723,Azusa,Bank of America Financial Center,34.1332104,-117.9065462
+724,Azusa,U.S. Bank Branch,34.0978529,-117.8735779
+725,Azusa,U.S. Bank Branch,34.1248229,-117.8729917
+726,Azusa,Union Bank,34.1289823,-117.8730977
+727,Azusa,Pacific Western Bank,34.106524,-117.9399738
+728,Azusa,Chase Bank,34.128397,-117.881727
+729,Azusa,OneWest Bank,34.1284482,-117.8730112
+730,Azusa,Chase Bank,34.1331763,-117.908417
+731,Azusa,California Bank & Trust,34.1332489,-117.9325333
+732,Azusa,HomeStreet Bank and Affinity Lending Center,34.1273232,-117.8721218
+733,Azusa,Pacific Western Bank,34.1303109,-117.8719884
+734,Azusa,Wells Fargo Bank,34.1337904,-117.9072777
+735,Azusa,Wells Fargo Bank,34.1283917,-117.873551
+736,Azusa,HomeStreet Bank Home Loan Center,34.1389182,-117.8650887
+737,Azusa,ATM (Bank of America),34.1333341,-117.9065802
+738,Azusa,AltaPacific Bank,34.1142782,-117.872923
+739,Azusa,Bank of America Financial Center,34.1363207,-117.8661701
+740,Azusa,Grand Point Bank,34.1387054,-117.8651752
+741,Azusa,First California Bank,34.106524,-117.9399738
+742,Azusa,Wells Fargo Bank,34.0868426,-117.9090179
+743,Alhambra,Bank of America Financial Center,34.0957826,-118.1248403
+744,Alhambra,First Bank,34.0799611,-118.1110613
+745,Alhambra,Bank of America Financial Center,34.0786278,-118.1171598
+746,Alhambra,Chase Bank,34.092596,-118.131816
+747,Alhambra,Chase Bank,34.098589,-118.118287
+748,Alhambra,Chase Bank,34.0918654,-118.1452896
+749,Avalon,Chase Bank,34.098327,-118.326253
+750,Avalon,Wells Fargo Bank,34.0759001,-118.3239931
+751,Avalon,Bank of America Financial Center,34.0976273,-118.3270629
+752,Avalon,U.S. Bank Branch,34.1010528,-118.3409535
+753,Avalon,Union Bank,34.0877671,-118.3801348
+754,Lawndale,Bank of America Financial Center,33.8683921,-118.3531809
+755,Lawndale,OneWest Bank,33.8730874,-118.3702172
+756,Lawndale,OneWest Bank,33.9007294,-118.3861853
+757,Lawndale,Chase Bank,33.874293,-118.35205
+758,Lawndale,Wells Fargo Bank,33.8726058,-118.3268094
+759,Gardena,Union Bank,33.8673448,-118.3535406
+760,Gardena,U.S. Bank ATM - Gardena - Food 4 Less,33.8737316,-118.2948969
+761,Gardena,ATM (Union Bank),33.865336,-118.3087966
+762,West Hollywood,Wells Fargo Bank,34.0978132,-118.3639095
+763,West Hollywood,U.S. Bank Branch,34.0730443,-118.3617633
+764,West Hollywood,OneWest Bank,34.069945,-118.4051018
+765,West Hollywood,Chase Bank,34.098325,-118.360161
+766,West Hollywood,Comerica Bank,34.068545,-118.4070343
+767,West Hollywood,Comerica Bank,34.0898343,-118.392553
+768,West Hollywood,First Republic Bank,34.0610716,-118.4140217
+769,Montebello,Bank of America Financial Center,34.0101879,-118.1071929
+770,Montebello,Wells Fargo Bank,34.0097431,-118.1080672
+771,Montebello,U.S. Bank Branch,33.9849246,-118.1051342
+772,Montebello,Bank of the West,34.0015167,-118.083288
+773,Montebello,Chase Bank,34.021031,-118.123166
+774,Montebello,Chase Bank,34.01776100000001,-118.10761
+775,Montebello,Cathay Bank,34.0600649,-118.1333922
+776,Montebello,Preferred Bank,33.982937,-118.0970624
+777,Montebello,Pacific Western Bank,34.0016641,-118.0854017
+778,Montebello,Far East National Bank,34.0525443,-118.1373512
+779,North Hills,Bank of the West,34.235371,-118.500714
+780,North Hills,Hanmi Bank,34.2561234,-118.5354921
+781,North Hills,U.S. Bank Branch,34.256727,-118.501532
+782,North Hills,Bank of Hope,34.254968,-118.537106
+783,North Hills,Bank of Hope,34.223077,-118.536521
+784,North Hills,HomeStreet Bank,34.2663575,-118.5231241
+785,North Hills,Wells Fargo Bank,34.2560714,-118.5026966
+786,North Hills,Wells Fargo Bank,34.2399163,-118.526252
+787,North Hills,Wells Fargo Bank,34.27172,-118.49968
+788,North Hills,Citibank,34.235257,-118.484515
+789,North Hills,Chase Bank,34.207968,-118.507964
+790,Canoga Park,Wells Fargo Bank,34.1871045,-118.6261131
+791,Canoga Park,Bank of America Financial Center,34.2007227,-118.6062125
+792,Canoga Park,U.S. Bank Branch,34.2095618,-118.5540388
+793,Canoga Park,U.S. Bank Branch,34.2020023,-118.6135592
+794,Canoga Park,U.S. Bank Branch,34.1895279,-118.6413607
+795,Canoga Park,Bank of the West,34.1720639,-118.5656299
+796,Canoga Park,OneWest Bank,34.2291411,-118.5532259
+797,Canoga Park,Chase Bank,34.201326,-118.60465
+798,Canoga Park,Union Bank,34.1771165,-118.6056249
+799,Canoga Park,California Bank & Trust,34.1724729,-118.602447
+800,Canoga Park,Comerica Bank,34.1740355,-118.5968518
+801,Canoga Park,First Bank,34.1830822,-118.603111
+802,Canoga Park,First Bank - Not a Branch - LPO,34.1850884,-118.5969133
+803,Canoga Park,Pacific Western Bank,34.178307,-118.6002979
+804,Canoga Park,American Business Bank,34.1786177,-118.6026779
+805,Canoga Park,Wells Fargo Bank,34.2006821,-118.6041632
+806,Canoga Park,Wells Fargo Bank,34.2303023,-118.5618299
+807,Canoga Park,Citibank,34.20016,-118.606314
+808,Canoga Park,Bank Of America.,34.2007227,-118.6062124
+809,Canoga Park,U.S. Bank ATM - Canoga Park - Ralphs,34.2020023,-118.6135592
+810,Sun Valley,Bank of America Financial Center,34.2235356,-118.3970389
+811,Sun Valley,Chase Bank,34.216865,-118.369985
+812,Sun Valley,Chase Bank,34.221979,-118.396834
+813,Sun Valley,Beneficial State bank north Hollywood,34.2014672,-118.4191076
+814,Sun Valley,Land Bank Phil-L B P Remittance,34.2198587,-118.4328903
+815,Sun Valley,Brink's Inc,34.2034844,-118.4107031
+816,Sun Valley,City National Bank Branch,34.2160288,-118.3700509
+817,Sun Valley,Golden Satellite,34.2129864,-118.3874866
+818,Sun Valley,Burbank Philharmonic Orchestra,34.2279298,-118.3812562
+819,Long Beach,U.S. Bank Branch,33.7669422,-118.1858217
+820,Long Beach,Union Bank,33.7667926,-118.2015557
+821,Long Beach,First Bank - Not a Branch - C&I & LPO,33.7668095,-118.1989252
+822,Long Beach,Bank of America Financial Center,33.78202479999999,-118.1674999
+823,Long Beach,Bank of the West,33.7724667,-118.1891081
+824,Long Beach,Comerica Bank,33.7862455,-118.1405434
+825,Long Beach,Chase Bank,33.76699,-118.187315
+826,Long Beach,Chase Bank,33.770317,-118.192758
+827,Long Beach,California Bank & Trust,33.7667265,-118.1975425
+828,Long Beach,Comerica Bank,33.7674666,-118.1889305
+829,Long Beach,Wells Fargo Bank,33.80464,-118.1902146
+830,Long Beach,U.S. Bank Branch,33.8048383,-118.1679914
+831,Long Beach,Citibank,33.7676116,-118.1998751
+832,Long Beach,Chase Bank,33.77874300000001,-118.189089
+833,Long Beach,U.S. Bank ATM - Long Beach,33.7669592,-118.1854048
+834,Long Beach,Farmers & Merchants Bank,33.7707153,-118.1920193
+835,Long Beach,International City Bank NA,33.7673127,-118.1900963
+836,Long Beach,Chase Bank,33.7888953,-118.1405661
+837,Long Beach,Wells Fargo Bank,33.7673797,-118.1934755
+838,Long Beach,Wells Fargo Bank,33.8040355,-118.1672111
+839,Los Feliz,Chase Bank,34.111438,-118.287734
+840,Los Feliz,Hanmi Bank,34.0729758,-118.3088511
+841,Los Feliz,Comerica Bank,34.06197909999999,-118.3057112
+842,Los Feliz,Citibank,34.0978573,-118.2985192
+843,Los Feliz,Citibank,34.1048645,-118.2876414
+844,Palms,HSBC Bank,34.0685011,-118.4061058
+845,Palms,Bank of America Financial Center,34.0239437,-118.3949044
+846,Palms,Union Bank,34.0595231,-118.4176811
+847,Palms,Union Bank,34.0668113,-118.3995591
+848,Palms,Union Bank,33.9988388,-118.4286807
+849,Palms,Union Bank,33.9862222,-118.443258
+850,Palms,U.S. Bank Branch,34.0393263,-118.4225679
+851,Palms,Bank of America Financial Center,34.0415934,-118.4259397
+852,Palms,U.S. Bank Branch,33.9952753,-118.3956347
+853,Palms,Bank of the West,34.067427,-118.397997
+854,Palms,First Citizens Bank,34.0606462,-118.398746
+855,Palms,OneWest Bank,34.0257616,-118.4318539
+856,Palms,OneWest Bank,34.0548025,-118.3981955
+857,Palms,Chase Bank,34.022275,-118.397003
+858,Palms,Chase Bank,34.026898,-118.393343
+859,Palms,California Bank & Trust,34.037994,-118.4422212
+860,Palms,California Bank & Trust,34.063611,-118.370314
+861,Glassell Park,HSBC Bank,34.1532866,-118.2555815
+862,Glassell Park,Union Bank,34.1516141,-118.2547659
+863,Glassell Park,U.S. Bank Branch,34.1361551,-118.1895508
+864,Glassell Park,Bank of the West,34.1519533,-118.2442554
+865,Glassell Park,Pacific Western Bank,34.1521271,-118.2547955
+866,Glassell Park,Bank of America Financial Center,34.1514836,-118.2554946
+867,Glassell Park,Chase Bank,34.153099,-118.243431
+868,Paramount,Bank of America Financial Center,33.8734793,-118.1254804
+869,Paramount,Union Bank,33.8890797,-118.1259075
+870,Paramount,Bank of the West,33.853304,-118.133457
+871,Paramount,First Bank,33.8518936,-118.1431303
+872,Paramount,Chase Bank,33.881878,-118.124919
+873,Paramount,Chase Bank,33.9231801,-118.1298474
+874,Paramount,Wells Fargo Bank,33.8541165,-118.137774
+875,Paramount,Chase Bank,33.857556,-118.116707
+876,Paramount,Chase Bank,33.850159,-118.143274
+877,Rosemead,HSBC Bank,34.0798535,-118.1023725
+878,Rosemead,HSBC Bank,34.1227662,-118.1028508
+879,Rosemead,Union Bank,34.1037053,-118.0894567
+880,Rosemead,Wells Fargo Bank,34.1042427,-118.0906999
+881,Rosemead,U.S. Bank Branch,34.1239952,-118.0545371
+882,Rosemead,Bank of the West,34.123169,-118.103703
+883,Rosemead,OneWest Bank,34.1241503,-118.100976
+884,Rosemead,Union Bank,34.1220265,-118.1045646
+885,Rosemead,California Bank & Trust,34.0785303,-118.1199638
+886,Rosemead,First Bank,34.125108,-118.059212
+887,Pacoima,U.S. Bank Branch,34.3109728,-118.4344278
+888,Pacoima,Chase Bank,34.28016,-118.441382
+889,Pacoima,Chase Bank,34.2464162,-118.4199081
+890,Pacoima,Wells Fargo Bank,34.2916655,-118.4303105
+891,Pacoima,Wells Fargo Bank,34.2748901,-118.4104799
+892,Pacoima,Mission Valley Bank,34.235663,-118.36711
+893,Pacoima,Citibank,34.260291,-118.430541
+894,Pacoima,U.S. Bank ATM - Sylmar,34.3110117,-118.4344151
+895,Pacoima,Chase Bank,34.308641,-118.433487
+896,Pacoima,Chase Bank,34.282378,-118.451698
+897,Pacoima,Citibank,34.27936,-118.442239
+898,Pacoima,ATM (Wells Fargo Bank),34.27504090000001,-118.410704
+899,Pacoima,Chase Bank,34.258856,-118.466345
+900,Pacoima,Chase Bank,34.237187,-118.467086
+901,Pacoima,CHANELLE Tunstall,34.2710666,-118.4156428
+902,Pacoima,"ATM 7ELEVEN, INC.",34.26395050000001,-118.4017703
+903,Pacoima,Bank Of America,34.304429,-118.4455973
+904,Pacoima,Bus Station,34.2916717,-118.4303207
+905,Pacoima,Bank of America Financial Center,34.2338754,-118.4662654
+906,Elysian Valley,HomeStreet Bank,34.0918469,-118.2913323
+907,Elysian Valley,OneWest Bank,34.0674973,-118.2919812
+908,Elysian Valley,Citibank,34.101685,-118.258837
+909,Elysian Valley,U.S. Bank ATM - San Fernando - Super King,34.1096813,-118.2430881
+910,Elysian Valley,U.S. Bank ATM - Los Feliz,34.1019901,-118.2915209
+911,Elysian Valley,U.S. Bank ATM - West Los Feliz - Vons,34.129357,-118.2588137
+912,Elysian Valley,Chase Bank,34.099983,-118.291231
+913,Elysian Valley,Chase Bank,34.1095935,-118.1923526
+914,Elysian Valley,Chase Bank,34.12699,-118.262741
+915,Elysian Valley,Wells Fargo Bank,34.0992767,-118.2914425
+916,Elysian Valley,Chase Bank,34.142113,-118.257633
+917,West Compton,First Bank,33.889229,-118.305713
+918,Harbor Gateway,Bank of America Financial Center,33.8355908,-118.3166975
+919,Harbor Gateway,HSBC Bank,33.8281388,-118.3517167
+920,Harbor Gateway,Union Bank,33.865362,-118.3088035
+921,Harbor Gateway,U.S. Bank Branch,33.8736903,-118.2949176
+922,Harbor Gateway,Bank of the West,33.8563818,-118.2911709
+923,Harbor Gateway,Bank of the West,33.806898,-118.351543
+924,Harbor Gateway,OneWest Bank,33.830942,-118.3457311
+925,Harbor Gateway,Chase Bank,33.836741,-118.320177
+926,Harbor Gateway,"Woori America Bank, Torrance",33.8222596,-118.3281143
+927,Harbor Gateway,Hanmi Bank,33.8286986,-118.3518099
+928,Harbor Gateway,Union Bank,33.8373536,-118.3540435
+929,Harbor Gateway,California Bank & Trust,33.8330648,-118.3536784
+930,Harbor Gateway,Umpqua Bank,33.8236627,-118.3293043
+931,Harbor Gateway,American Business Bank,33.8576891,-118.2930713
+932,Harbor Gateway,Comerica Bank,33.8378434,-118.3540606
+933,Harbor Gateway,Pacific Western Bank,33.8587212,-118.2935433
+934,Harbor Gateway,Bank of America Financial Center,33.8312517,-118.3520067
+935,Larchmont,Comerica Bank,34.0983504,-118.3256614
+936,Larchmont,Bank of America Financial Center,34.0732863,-118.3234102
+937,Larchmont,U.S. Bank Branch,34.084604,-118.343828
+938,Larchmont,Chase Bank,34.0731739,-118.3240114
+939,Larchmont,Chase Bank,34.062111,-118.322534
+940,South El Monte,Union Bank,34.0802219,-118.0955336
+941,South El Monte,U.S. Bank Branch,34.050381,-118.0854473
+942,South El Monte,East West Bank,34.0622103,-118.0910543
+943,South El Monte,Wells Fargo Bank,34.050326,-118.0822241
+944,South El Monte,East West Bank,34.07985,-118.0903938
+945,South El Monte,Pacific Alliance Bank,34.080176,-118.0863129
+946,South El Monte,East West Bank,34.0775805,-118.1010164
+947,South El Monte,Cathay Bank,34.080521,-118.08977
+948,Hawaiian Gardens,Wells Fargo Bank,33.8591699,-118.0471964
+949,Hawaiian Gardens,U.S. Bank Branch,33.8723503,-118.0619689
+950,Hawaiian Gardens,U.S. Bank Branch,33.85811260000001,-118.0911898
+951,Hawaiian Gardens,HSBC Bank,33.8661112,-118.0820218
+952,Hawaiian Gardens,Union Bank,33.8579545,-118.1167132
+953,Hawaiian Gardens,Union Bank,33.8178341,-118.0606771
+954,Hawaiian Gardens,Union Bank,33.8622147,-118.0905652
+955,Hawaiian Gardens,Bank of America Financial Center,33.8194537,-118.0372256
+956,Hawaiian Gardens,U.S. Bank Branch,33.8172212,-118.0635695
+957,Hawaiian Gardens,U.S. Bank Branch,33.8037376,-118.0701605
+958,Hawaiian Gardens,Bank of Hope,33.872514,-118.04537
+959,Hawaiian Gardens,Banner Bank,33.8337618,-118.1157967
+960,Hawaiian Gardens,Comerica Bank,33.8587451,-118.0912826
+961,Hawaiian Gardens,Pacific Premier Bank,33.8034289,-118.0444808
+962,Hawaiian Gardens,East West Bank,33.8695228,-118.0829688
+963,Hawaiian Gardens,Wells Fargo Bank,33.8748102,-118.0813922
+964,Hawaiian Gardens,Wells Fargo Bank,33.7901027,-118.0297117
+965,Hawaiian Gardens,United Central Bank,33.8580007,-118.084155
+966,Hawaiian Gardens,Bank of Hope ATM,33.8725308,-118.0453696
+967,Hawaiian Gardens,U.S. Bank,33.8168086,-118.0634879
+968,Inglewood,Wells Fargo Bank,33.9566619,-118.3958669
+969,Inglewood,Chase Bank,33.92341,-118.395946
+970,Inglewood,Chase Bank,33.9888185,-118.3950179
+971,Inglewood,OneWest Bank,33.9909895,-118.3956628
+972,Commerce,Bank of America Financial Center,34.0318493,-118.124566
+973,Valley Glen,Citibank,34.187016,-118.416622
+974,Valley Glen,Bank of America Financial Center,34.1615692,-118.372948
+975,Manchester Square,Chase Bank,33.983337,-118.391567
+976,Manchester Square,Wells Fargo Bank,33.9836921,-118.3903
+977,Manchester Square,Wells Fargo Bank,33.9969775,-118.3942644
+978,Manchester Square,Chase Bank,34.002573,-118.392348
+979,Manchester Square,Wells Fargo Bank,33.97816280000001,-118.3736596
+980,El Sereno,HSBC Bank,34.0920507,-118.1329541
+981,El Sereno,U.S. Bank Branch,34.1123764,-118.1512793
+982,El Sereno,Bank of the West,34.078274,-118.13298
+983,El Sereno,Bank of the West,34.1043008,-118.1349854
+984,El Sereno,Bank of the West,34.0946736,-118.126218
+985,El Sereno,Chase Bank,34.086858,-118.17764
+986,El Sereno,Comerica Bank,34.1160216,-118.1501162
+987,El Sereno,CTBC Bank,34.0542859,-118.1358017
+988,El Sereno,Wells Fargo Bank,34.075539,-118.2165756
+989,El Sereno,U.S. Bank ATM - South Pasadena,34.1123764,-118.1512793
+990,El Sereno,Beneficial State Bank - East LA Branch,34.0358089,-118.1883147
+991,Leimert Park,Pacific City Bank,34.0521068,-118.2928592
+992,Panorama City,Bank of America Financial Center,34.2027861,-118.4318723
+993,Panorama City,U.S. Bank Branch,34.2212146,-118.4490299
+994,Panorama City,Chase Bank,34.22453,-118.448351
+995,Panorama City,Chase Bank,34.2337274,-118.4400925
+996,Panorama City,HomeStreet Bank and Affinity Lending Center,34.2249769,-118.4491765
+997,Panorama City,East West Bank,34.1882803,-118.4654292
+998,Panorama City,Wells Fargo Bank,34.2261575,-118.4489116
+999,Panorama City,Citibank,34.235669,-118.440129
+1000,Panorama City,ATM Hanmi Bank,34.2017634,-118.4471993
+1001,Panorama City,Wells Fargo Bank,34.1864634,-118.3985317
+1002,Panorama City,Chase Bank,34.199573,-118.465437
+1003,East Compton,U.S. Bank Branch,33.8882425,-118.1604956
+1004,East Compton,U.S. Bank ATM - Paramount,33.888307,-118.160462
+1005,East Compton,Wells Fargo Bank,33.8868495,-118.1595844
+1006,East Compton,Chase Bank,33.893211,-118.16047
+1007,East Compton,Chase Bank,33.904367,-118.143298
+1008,East Compton,Banc of California,33.887952,-118.1597845
+1009,El Monte,HSBC Bank,34.106952,-118.0607568
+1010,El Monte,Bank of the West,34.030023,-118.0099172
+1011,El Monte,Bank of the West,34.080397,-118.072878
+1012,El Monte,Bank of the West,34.107433,-118.054107
+1013,El Monte,Chase Bank,34.074158,-118.035125
+1014,El Monte,East West Bank,34.0766744,-118.0212631
+1015,El Monte,Chase Bank,34.06269,-118.01843
+1016,El Monte,East West Bank,34.0716776,-118.060964
+1017,El Monte,Comerica Bank,34.030087,-118.0128327
+1018,El Monte,HomeStreet Bank,34.0703945,-117.9799266
+1019,El Monte,East West Bank,34.1017288,-118.0740369
+1020,El Monte,Wells Fargo Bank,34.0726842,-118.0249375
+1021,El Monte,Preferred Bank,34.0716093,-118.0648043
+1022,El Monte,Pacific Western Bank,34.0811174,-118.074025
+1023,El Monte,Citibank,34.072897,-118.032965
+1024,El Monte,Cathay Bank,34.0718807,-118.0588308
+1025,El Monte,Chase Bank,34.103858,-118.07453
+1026,El Monte,Chase Bank,34.09173850000001,-118.0269797
+1027,El Monte,Wells Fargo Bank,34.10713920000001,-118.0597391
+1028,El Monte,Chase Bank,34.1072034,-118.059362
+1029,Mid-City,Bank of America Financial Center,34.0472015,-118.3386155
+1030,Mid-City,OneWest Bank,34.0769244,-118.3799791
+1031,Hawthorne,Wells Fargo Bank,33.9198081,-118.3969519
+1032,Hawthorne,Bank of the West,33.886865,-118.37835
+1033,Hawthorne,Wells Fargo Bank,33.8930191,-118.3624863
+1034,Hawthorne,Wells Fargo Bank,33.8724733,-118.3517808
+1035,Compton,Wells Fargo Bank,33.86657539999999,-118.2554972
+1036,Compton,Wells Fargo Bank,33.8667168,-118.2665569
+1037,Compton,Wells Fargo Bank,33.8561239,-118.1665745
+1038,Compton,Us Blanks LLC,33.8884644,-118.2172207
+1039,Compton,Mid-Cities Schools CU,33.8937442,-118.2165651
+1040,Compton,Bank of America Financial Center,33.9309772,-118.20839
+1041,Compton,Bank of America Financial Center,33.8513103,-118.1958693
+1042,North Hollywood,U.S. Bank Branch,34.183956,-118.3394374
+1043,North Hollywood,Union Bank,34.1436617,-118.398089
+1044,North Hollywood,Union Bank,34.152914,-118.342743
+1045,North Hollywood,Bank of America Financial Center,34.191321,-118.3961825
+1046,North Hollywood,Bank Of America,34.1617058,-118.3729685
+1047,North Hollywood,U.S. Bank Branch,34.1863814,-118.3958173
+1048,North Hollywood,U.S. Bank Branch,34.1518998,-118.3508073
+1049,North Hollywood,U.S. Bank Branch,34.1579117,-118.4316213
+1050,North Hollywood,Bank of the West,34.152266,-118.34118
+1051,North Hollywood,Chase Bank,34.186896,-118.396284
+1052,North Hollywood,Comerica Bank,34.1433707,-118.3942991
+1053,North Hollywood,First Republic Bank,34.143377,-118.394935
+1054,North Hollywood,Bank of America Financial Center,34.1545635,-118.3456013
+1055,North Hollywood,Bank of America Financial Center,34.168684,-118.3439935
+1056,North Hollywood,Logix Smarter Banking,34.1905427,-118.3486324
+1057,North Hollywood,Chase Bank,34.168553,-118.345764
+1058,North Hollywood,U.S. Bank ATM - Sherman Oaks,34.1579518,-118.4316697
+1059,North Hollywood,Citizens Business Bank,34.152489,-118.3447109
+1060,North Hollywood,Citizens Business Bank,34.199694,-118.348369
+1061,North Hollywood,Wells Fargo Bank,34.1519662,-118.3504638
+1062,Cypress Park,Bank of America Financial Center,34.1087096,-118.1952295
+1063,Cypress Park,U.S. Bank Branch,34.1294388,-118.2586187
+1064,Bell Gardens,Bank of America Financial Center,33.95434669999999,-118.1290462
+1065,Bell Gardens,U.S. Bank Branch,33.9498564,-118.1228127
+1066,Bell Gardens,U.S. Bank Branch,33.9418314,-118.131332
+1067,Bell Gardens,Bank of the West,33.9524789,-118.1302558
+1068,Bell Gardens,HomeStreet Bank and Affinity Lending Center,33.9214173,-118.1309696
+1069,Bell Gardens,Pacific Western Bank,33.9526196,-118.1310355
+1070,Bell Gardens,Chase Bank,33.953142,-118.129795
+1071,Bell Gardens,Wells Fargo Bank,33.9324661,-118.1167401
+1072,Bell Gardens,Wells Fargo Bank,33.93963859999999,-118.1314343
+1073,Bell Gardens,Bank of America Financial Center,33.9317663,-118.1171767
+1074,Van Nuys,National Bank of California,34.1513996,-118.4543607
+1075,Van Nuys,Wells Fargo Bank,34.1496216,-118.4389472
+1076,Van Nuys,Union Bank,34.1543557,-118.4657815
+1077,Van Nuys,Bank of America Financial Center,34.1990554,-118.4651074
+1078,Van Nuys,HSBC Bank,34.1573431,-118.4886325
+1079,Van Nuys,Bank of America Financial Center,34.1898939,-118.4492241
+1080,Van Nuys,Union Bank,34.2213365,-118.446947
+1081,Van Nuys,Union Bank,34.1584954,-118.4954576
+1082,Van Nuys,Umpqua Bank,34.1582358,-118.4928741
+1083,Van Nuys,U.S. Bank Branch,34.1713748,-118.4470678
+1084,Van Nuys,U.S. Bank Branch,34.1869252,-118.4501861
+1085,Van Nuys,Bank of the West,34.15372,-118.463646
+1086,Van Nuys,Bank of the West,34.156419,-118.482553
+1087,Van Nuys,Chase Bank,34.184866,-118.448308
+1088,Van Nuys,First Republic Bank,34.1568256,-118.4885795
+1089,Van Nuys,First Citizens Bank,34.1567835,-118.4831841
+1090,Van Nuys,OneWest Bank,34.1599955,-118.5051133
+1091,Van Nuys,Comerica Bank,34.155603,-118.466617
+1092,Van Nuys,Chase Bank,34.186953,-118.465731
+1093,Van Nuys,Hanmi Bank,34.2017379,-118.4472175
+1094,Wilmington,Bank of America Financial Center,33.8090748,-118.289981
+1095,Wilmington,Bank of America Financial Center,33.7826551,-118.2629406
+1096,Wilmington,U.S. Bank Branch,33.8065746,-118.2727317
+1097,Wilmington,U.S. Bank Branch,33.7641249,-118.3109892
+1098,Wilmington,Chase Bank,33.791253,-118.266724
+1099,Wilmington,Chase Bank,33.807713,-118.274659
+1100,Wilmington,HomeStreet Bank and Affinity Lending Center,33.779982,-118.308877
+1101,Wilmington,East West Bank,33.8276257,-118.2630817
+1102,Wilmington,U.S. Bank Branch,33.8299441,-118.3110348
+1103,Wilmington,Chase Bank,33.810074,-118.291358
+1104,Wilmington,Wells Fargo Bank,33.7802484,-118.2663801
+1105,Wilmington,Wells Fargo Bank,33.7619936,-118.3115382
+1106,Wilmington,Wells Fargo Bank,33.8140381,-118.299416
+1107,Wilmington,Chase Bank,33.751571,-118.308747
+1108,Wilmington,Bank of America Financial Center,33.7502457,-118.3086404
+1109,Wilmington,U.S. Bank Branch,33.7555529,-118.309231
+1110,Wilmington,Opus Bank,33.7524176,-118.3086653
+1111,Wilmington,Banc of California,33.7802685,-118.2615826
+1112,Wilmington,Cal National Bank,33.7556911,-118.3093219
+1113,Wilmington,"ATM 7ELEVEN, INC.",33.7913949,-118.2638965
+1114,Bell,OneWest Bank,33.9465113,-118.1509076
+1115,Hyde Park,California Bank & Trust,33.9887585,-118.3816355
+1116,Cudahy,Union Bank,33.9516543,-118.1640726
+1117,Cudahy,Wells Fargo Bank,33.971461,-118.2030496
+1118,Cudahy,Bank of the West,33.915886,-118.169305
+1119,Cudahy,Chase Bank,33.977808,-118.188309
+1120,Cudahy,Citibank,33.968766,-118.165893
+1121,Cudahy,Bank of America Financial Center,33.9853794,-118.1616407
+1122,Cudahy,Chase Bank,33.966858,-118.164329
+1123,Cudahy,Bank of America Financial Center,33.9421464,-118.1342425
+1124,East Los Angeles,Union Bank,34.031146,-118.1245478
+1125,East Los Angeles,U.S. Bank Branch,33.9879921,-118.1861836
+1126,East Los Angeles,Wells Fargo Bank,33.9864281,-118.1626189
+1127,East Los Angeles,U.S. Bank Branch,34.0192483,-118.1168855
+1128,East Los Angeles,Bank of the West,33.996889,-118.147936
+1129,East Los Angeles,Bank of the West,34.065864,-118.134576
+1130,East Los Angeles,Chase Bank,34.020342,-118.155447
+1131,East Los Angeles,Union Bank - Corporate Office,34.038645,-118.114256
+1132,East Los Angeles,California Bank & Trust,34.0390608,-118.1450311
+1133,East Los Angeles,Pacific Premier Bank,34.0139777,-118.127825
+1134,East Los Angeles,Royal Business Bank,34.0621015,-118.1323592
+1135,East Los Angeles,GBC International Bank,34.0621677,-118.1242729
+1136,East Los Angeles,Citibank,34.0200094,-118.1540138
+1137,East Los Angeles,ATM (Union Bank),34.0312025,-118.1247477
+1138,East Los Angeles,U.S. Bank ATM - Maywood,33.9880544,-118.1864357
+1139,East Los Angeles,OneWest Bank,33.9864548,-118.1627707
+1140,East Los Angeles,Bank of America Financial Center,34.0646711,-118.1337091
+1141,Willowbrook,Bank of America Financial Center,33.9016398,-118.2744516
+1142,Willowbrook,Bank of America Financial Center,33.8919572,-118.2072934
+1143,Willowbrook,Wells Fargo Bank,33.88022950000001,-118.2183489
+1144,Willowbrook,Bank of America Financial Center,33.877536,-118.2185339
+1145,Baldwin Hills/Crenshaw,Bank of America Financial Center,34.0208342,-118.3560579
+1146,Baldwin Hills/Crenshaw,Bank of the West,34.028445,-118.385684
+1147,Baldwin Hills/Crenshaw,OneWest Bank,34.0028871,-118.3937946
+1148,Lennox,First Citizens Bank,33.9288892,-118.3959885
+1149,Lennox,Union Bank,33.8950739,-118.3943468
+1150,Lennox,Pacific Premier Bank,33.9027004,-118.386921
+1151,Lennox,Comerica Bank,33.9024386,-118.3820322
+1152,Lennox,Bank of Manhattan,33.9027004,-118.386921
+1153,Lennox,Bank of America Financial Center,33.8976449,-118.3955891
+1154,Lennox,Chase Bank,33.956755,-118.396525
+1155,Lennox,Chase Bank,33.97752699999999,-118.372361
+1156,Lennox,Chase Bank,33.902411,-118.384115
+1157,Lennox,U.S. Bank Branch,33.8992757,-118.3956347
+1158,Echo Park,Bank of Hope,34.07608,-118.309345
+1159,Harvard Park,Wells Fargo Bank,34.0225845,-118.3543597
+1160,Boyle Heights,Wells Fargo Bank,34.0236481,-118.1921252
+1161,Jefferson Park,U.S. Bank Branch,34.0211101,-118.3561708
+1162,Jefferson Park,Chase Bank,34.018451,-118.333726
+1163,Jefferson Park,Hanmi Bank,34.0535732,-118.3190756
+1164,Jefferson Park,Hanmi Bank,34.0527748,-118.3028001
+1165,Jefferson Park,Hanmi Bank,34.0557129,-118.3088892
+1166,Westmont,Union Bank,33.9161142,-118.3530166
+1167,Westmont,Bank of America Financial Center,33.91838389999999,-118.3531803
+1168,Westmont,Chase Bank,33.917469,-118.353109
+1169,Westmont,Wells Fargo Bank,33.9091172,-118.3531085
+1170,Westmont,Wells Fargo Bank,33.9589078,-118.3516802
+1171,Westmont,Wells Fargo Bank,33.90249,-118.2526436
+1172,Westmont,Broadway Federal Bank,33.9643384,-118.3515798
+1173,Westmont,Citibank,33.917167,-118.351245
+1174,Westmont,Family Savings Bank FSB,33.9024803,-118.2526152
+1175,Central-Alameda,Chase Bank,34.025205,-118.219441
+1176,Central-Alameda,Bank of America Financial Center,34.0270273,-118.1985197
+1177,Arlington Heights,Bank of Hope,34.056715,-118.309869
+1178,Arlington Heights,Chase Bank,34.052356,-118.299659
+1179,Arlington Heights,Chase Bank,34.0476878,-118.3369321
+1180,Arlington Heights,Hanmi Bank,34.0615019,-118.3048409
+1181,Arlington Heights,Hanmi Bank,34.0523893,-118.3088766
+1182,Green Meadows,Intermex,33.974603,-118.2483999
+1183,Green Meadows,Icsb,33.940327,-118.2745959
+1184,Green Meadows,Bank of America Financial Center,33.9791229,-118.2255703
+1185,Vermont Vista,Bank of Hope,33.889672,-118.306352
+1186,Vermont Vista,Union Bank,33.8870786,-118.3088067
+1187,Vermont Vista,U.S. Bank Branch,33.8909786,-118.2980499
+1188,Vermont Vista,Bank of the West,33.888132,-118.309498
+1189,Vermont Vista,Hanmi Bank,33.8872642,-118.3137235
+1190,Vermont Vista,California Bank & Trust,33.8908966,-118.2986794
+1191,Vermont Vista,Citibank,33.892471,-118.29803
+1192,Vermont Vista,Citibank,33.930671,-118.325304
+1193,Vermont Vista,U.S. Bank ATM - Redondo Beach - Vons,33.8909687,-118.2980677
+1194,Vermont Vista,Bank of America Financial Center,33.8903633,-118.3015358
+1195,Vermont Vista,Chase Bank,33.89216500000001,-118.298656
+1196,Vermont Vista,Wells Fargo Bank,33.8926552,-118.296892
+1197,Vermont Vista,U.S. Bank Branch,33.8896862,-118.304413
+1198,Vermont-Slauson,Comerica Bank,34.0168917,-118.3356997
+1199,Harvard Heights,Bank of America Financial Center,34.0522472,-118.3093651
+1200,Harvard Heights,Wells Fargo Bank,34.0483703,-118.3382732
+1201,Historic South-Central,IDB Bank,34.0465475,-118.2619062
+1202,Historic South-Central,Pacific Western Bank,34.0489067,-118.2594545
+1203,Historic South-Central,Royal Business Bank,34.0494142,-118.259382
+1204,Historic South-Central,CTBC Bank,34.0479992,-118.2617135
+1205,Lincoln Heights,Union Bank,34.115905,-118.1843479
+1206,Lincoln Heights,Chase Bank,34.044334,-118.210667
+1207,Koreatown,Union Bank,34.0619445,-118.3521764
+1208,Koreatown,American Business Bank,34.0487476,-118.254718
+1209,Koreatown,U.S. Bank Branch,34.0746709,-118.3238272
+1210,East Hollywood,Bank of America Financial Center,34.1051576,-118.2876745
+1211,East Hollywood,U.S. Bank Branch,34.1013466,-118.3088084
+1212,East Hollywood,U.S. Bank Branch,34.1020344,-118.2915382
+1213,Vermont Square,California Bank & Trust,34.0168869,-118.334404
+1214,Vermont Square,National Bank Services,34.04342159999999,-118.2573019
+1215,Adams-Normandie,Banner Bank,34.0758179,-118.3460543
+1216,Adams-Normandie,OneUnited Bank,34.020259,-118.335444
+1217,Adams-Normandie,Union Bank,34.0258973,-118.3347649
+1218,South Park,Wells Fargo Bank,34.0336615,-118.2439367
+1219,South Park,Citibank,34.022536,-118.292228
+1220,South Park,Pacific City Bank,34.0326836,-118.2508358
+1221,South Park,Chase Bank,34.0223091,-118.2803542
+1222,South Park,Chase Bank,34.043285,-118.257224
+1223,South Park,Wells Fargo Bank,34.0256506,-118.2698362
+1224,South Park,Bank of America Financial Center,34.0396648,-118.2607251
+1225,Florence,Citibank,33.974486,-118.224901
+1226,Florence,Wells Fargo Bank,33.9868823,-118.2237455
+1227,Florence,Bank of America Financial Center,33.9882625,-118.2257074
+1228,Florence,Wells Fargo Bank,34.002041,-118.2249364
+1229,Florence,Chase Bank,33.974504,-118.225496
+1230,Florence,Chase Bank,33.987404,-118.224896
+1231,Florence,Broadway Federal Bank,34.0108791,-118.2830788
+1232,Elysian Park,Union Bank,34.1196735,-118.2595293
+1233,Elysian Park,Bank of America Financial Center,34.0764977,-118.257299
+1234,Elysian Park,Bank of America Financial Center,34.0732908,-118.2166149
+1235,Elysian Park,U.S. Bank Branch,34.109633,-118.2430687
+1236,Elysian Park,Union Bank,34.0515064,-118.2563898
+1237,Elysian Park,California Bank & Trust,34.0499903,-118.2415602
+1238,Elysian Park,California Bank & Trust,34.049722,-118.25565
+1239,Vermont Knolls,U.S. Bank Branch,33.9443019,-118.3305509
+1240,Vermont Knolls,U.S. Bank Branch,33.98934120000001,-118.3304427
+1241,Vermont Knolls,Chase Bank,33.960263,-118.292986
+1242,Vermont Knolls,Chase Bank,33.989866,-118.29182
+1243,Vermont Knolls,Chase Bank,33.988209,-118.2576567
+1244,Vermont Knolls,Chase Bank,33.945003,-118.33383
+1245,Vermont Knolls,Wells Fargo Bank,33.931798,-118.3268541
+1246,Vermont Knolls,Wells Fargo Bank,34.0080184,-118.3369707
+1247,Vermont Knolls,Chase Bank,33.9314343,-118.3261777
+1248,Vermont Knolls,Chase Bank,34.003233,-118.332167
+1249,Vermont Knolls,U.S. Bank Branch,33.9606996,-118.3487516
+1250,Vermont Knolls,Bank of America Financial Center,33.9424708,-118.253713
+1251,Vermont Knolls,Bank of America Financial Center,33.9901757,-118.2911404
+1252,Vermont Knolls,Bank of America Financial Center,33.9288782,-118.3268806
+1253,Vermont Knolls,Bank of America Financial Center,33.9816209,-118.2647678
+1254,Vermont Knolls,Wells Fargo Bank,33.9431958,-118.266732
+1255,Westlake,U.S. Bank Branch,34.0760369,-118.3069704
+1256,Pico-Union,Bank of Hope,34.052859,-118.308888
+1257,Pico-Union,Bank of America Financial Center,34.0482665,-118.2911906
+1258,Pico-Union,U.S. Bank Branch,34.0700012,-118.2909396
+1259,Watts,Wells Fargo Bank,33.9767415,-118.1868035
+1260,Watts,Wells Fargo Bank,33.9525303,-118.1860806
+1261,Watts,Chase Bank,33.942992,-118.19687
+1262,Watts,Chase Bank,33.955919,-118.22084
+1263,Watts,Wells Fargo Bank,33.9429606,-118.19646
+1264,Watts,U.S. Bank Branch,33.9319022,-118.202461
+1265,Watts,U.S. Bank Branch,33.9695484,-118.1868323
+1266,Watts,Bank of the West,33.907239,-118.20906
+1267,Watts,Bank of Hope,33.982235,-118.224979
+1268,Watts,Chase Bank,33.943535,-118.246737
+1269,Watts,Chase Bank,33.934555,-118.212308
+1270,Watts,OneUnited Bank,33.897414,-118.222431
+1271,Watts,Citibank,33.9444807,-118.2102224
+1272,Watts,Citibank,33.943907,-118.245839
+1273,Watts,BBVA Compass,33.9321869,-118.1839973
+1274,Watts,Chase Bank,33.8963655,-118.2216534
+1275,Watts,Wells Fargo Bank,33.9745107,-118.2550169
+1276,Watts,Bank of America Financial Center,33.9603982,-118.277923
+1277,Watts,Wells Fargo Bank,33.9305201,-118.2101493
+1278,Watts,Chase Bank,33.927221,-118.197585
+1279,Watts,Chase Bank,33.982815,-118.248247
+1280,Chinatown,Chase Bank,34.050136,-118.240869
+1281,Chinatown,Hanmi Bank,34.0395495,-118.2553084
+1282,Chinatown,Hanmi Bank,34.0330296,-118.2527194
+1283,Chinatown,Hanmi Bank,34.0546482,-118.2918209
+1284,University Park,Bank of Hope,34.061537,-118.303823
+1285,University Park,HSBC Bank,34.0629145,-118.3088463
+1286,University Park,Bank of America Financial Center,34.0252325,-118.2841764
+1287,University Park,U.S. Bank Branch,34.0319442,-118.2908122
+1288,Downtown,Commonwealth Business Bank,34.0622581,-118.2985086
+1289,Downtown,Commonwealth Business Bank,34.0342133,-118.2499694
+1290,Downtown,HSBC Bank,34.0596482,-118.2398772
+1291,Downtown,HSBC Bank,34.0494692,-118.2607851
+1292,Downtown,Union Bank,34.053263,-118.2570036
+1293,Downtown,Union Bank,34.0494086,-118.2412516
+1294,Downtown,Union Bank,34.0411654,-118.2550318
+1295,Downtown,Bank of America Financial Center,34.0475559,-118.2524339
+1296,Downtown,Preferred Bank,34.0508366,-118.2593009
+1297,Downtown,U.S. Bank Branch,34.0444178,-118.2633917
+1298,Downtown,U.S. Bank Branch,34.0510801,-118.2543526
+1299,Downtown,U.S. Bank Branch,34.0415928,-118.2060264
+1300,Downtown,Bank of the West,34.0509467,-118.2601907
+1301,Downtown,Bank of the West,34.04981679999999,-118.2419886
+1302,Downtown,Bank of the West,34.052432,-118.251213
+1303,Downtown,Zions First National Bank,34.0496492,-118.2556706
+1304,Downtown,Bank of Hope,34.05208,-118.282067
+1305,Downtown,Bank of Hope,34.052839,-118.293126
+1306,Downtown,Bank of Hope,34.0615995,-118.2918306
+1307,Downtown,Bank of Hope,34.03571,-118.254615

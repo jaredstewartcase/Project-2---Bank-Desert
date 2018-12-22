@@ -1,0 +1,266 @@
+LA Neighborhood,Median Rank,Median Income,Diversity Rank,Diversity Index
+Bel-Air,1,"$207,938",228,0.301
+Hidden Hills,2,"$203,199",251,0.207
+Rolling Hills,3,"$184,777",193,0.396
+Beverly Crest,4,"$169,282",245,0.230
+Pacific Palisades,5,"$168,008",250,0.210
+Palos Verdes Estates,6,"$167,344",192,0.398
+San Marino,7,"$158,855",90,0.584
+La Cañada Flintridge,8,"$148,996",168,0.457
+Rolling Hills Estates,9,"$145,628",162,0.469
+Malibu,10,"$138,215",252,0.207
+La Habra Heights,11,"$137,034",121,0.539
+Manhattan Beach,12,"$136,481",237,0.262
+Unincorporated Santa Monica Mountains,13,"$132,997",223,0.309
+Rancho Palos Verdes,14,"$128,321",125,0.537
+Westlake Village,15,"$126,550",238,0.261
+Calabasas,16,"$126,178",229,0.298
+West San Dimas,17,"$125,984",93,0.581
+Bradbury,18,"$123,773",145,0.513
+Stevenson Ranch,19,"$122,833",127,0.534
+Porter Ranch,20,"$121,428",107,0.551
+Topanga,21,"$120,319",247,0.227
+Ladera Heights,22,"$117,925",170,0.456
+Agoura Hills,23,"$117,608",226,0.304
+Leona Valley,24,"$117,526",208,0.353
+Brentwood,25,"$112,927",230,0.283
+Cheviot Hills,26,"$111,813",204,0.364
+Hermosa Beach,27,"$109,509",234,0.272
+Castaic,28,"$108,693",43,0.654
+Hollywood Hills West,29,"$108,199",233,0.273
+Walnut,30,"$106,893",74,0.612
+Hasley Canyon,31,"$106,489",110,0.547
+Agua Dulce,32,"$106,078",231,0.282
+Beverlywood,33,"$105,253",210,0.348
+Northwest Palmdale,34,"$103,013",188,0.421
+West Hills,35,"$103,008",161,0.470
+Cerritos,36,"$98,212",82,0.599
+Beverly Hills,37,"$96,312",217,0.320
+Century City,38,"$95,135",222,0.309
+North Whittier,39,"$93,841",88,0.588
+Unincorporated Santa Susana Mountains,40,"$93,825",79,0.602
+Castaic Canyons,41,"$93,248",187,0.430
+San Pasqual,42,"$92,917",80,0.601
+Ridge Route,43,"$92,822",165,0.462
+Marina del Rey,44,"$92,763",201,0.377
+Diamond Bar,45,"$92,414",21,0.687
+Redondo Beach,46,"$92,263",158,0.474
+Playa del Rey,47,"$91,339",173,0.451
+Woodland Hills,48,"$89,946",202,0.374
+Claremont,49,"$89,804",113,0.545
+Santa Clarita,50,"$88,987",155,0.479
+Sierra Madre,51,"$88,008",207,0.353
+West Los Angeles,52,"$86,403",195,0.393
+Ramona,53,"$86,325",15,0.702
+Tujunga Canyons,54,"$85,625",198,0.384
+Hancock Park,55,"$85,277",159,0.473
+San Dimas,56,"$84,953",100,0.565
+Chatsworth,57,"$84,456",130,0.527
+Acton,58,"$83,983",219,0.316
+El Segundo,59,"$83,925",199,0.380
+Granada Hills,60,"$83,911",70,0.620
+La Mirada,61,"$83,514",53,0.644
+La Verne,62,"$83,352",129,0.530
+Shadow Hills,63,"$82,796",102,0.562
+La Crescenta-Montrose,64,"$82,693",143,0.514
+Altadena,65,"$82,676",14,0.702
+Glendora,66,"$81,336",151,0.495
+Vernon,67,"$81,279",257,0.140
+View Park-Windsor Hills,68,"$81,214",241,0.246
+Desert View Highlands,69,"$80,867",51,0.645
+Hacienda Heights,70,"$80,762",31,0.674
+Lakewood,71,"$78,764",48,0.649
+Green Valley,72,"$78,712",189,0.420
+Encino,73,"$78,529",211,0.346
+Quartz Hill,74,"$77,498",186,0.430
+Westchester,75,"$77,473",37,0.660
+Torrance,76,"$76,866",67,0.628
+South Pasadena,77,"$76,229",45,0.651
+Elizabeth Lake,78,"$75,951",196,0.390
+Arcadia,79,"$75,808",69,0.620
+Mission Hills,80,"$75,675",72,0.615
+Studio City,81,"$75,657",200,0.378
+Lake Hughes,82,"$74,918",197,0.389
+East Pasadena,83,"$73,690",18,0.692
+Tarzana,84,"$73,195",160,0.471
+Toluca Lake,85,"$73,111",167,0.457
+Angeles Crest,86,"$72,841",172,0.452
+Rowland Heights,87,"$72,638",63,0.632
+Rancho Dominguez,88,"$72,097",16,0.701
+West Covina,89,"$71,898",23,0.682
+Carthay,90,"$71,398",73,0.615
+Culver City,91,"$70,774",24,0.681
+Carson,92,"$70,645",6,0.741
+Southeast Antelope Valley,93,"$70,134",194,0.393
+Valinda,94,"$70,037",153,0.482
+East La Mirada,95,"$69,930",103,0.561
+Rancho Park,96,"$69,724",83,0.598
+Sherman Oaks,97,"$69,651",182,0.434
+Hollywood Hills,98,"$69,277",184,0.433
+Santa Monica,99,"$69,013",164,0.465
+Sunland,100,"$68,720",133,0.526
+Westwood,101,"$68,716",117,0.543
+Playa Vista,102,"$68,597",10,0.722
+Duarte,103,"$68,539",20,0.687
+Charter Oak,104,"$68,092",39,0.659
+Val Verde,105,"$68,073",77,0.602
+Lake View Terrace,106,"$67,985",58,0.636
+Northridge,107,"$67,906",35,0.661
+Venice,108,"$67,647",126,0.534
+Mayflower Village,109,"$67,592",40,0.658
+Eagle Rock,110,"$67,253",19,0.690
+Whittier,111,"$66,891",108,0.548
+West Carson,112,"$66,805",3,0.748
+Citrus,113,"$66,638",139,0.519
+Industry,114,"$66,616",112,0.546
+Del Aire,115,"$66,442",41,0.657
+Covina,116,"$66,438",44,0.653
+Signal Hill,117,"$66,283",8,0.737
+Vincent,118,"$66,221",97,0.574
+Temple City,119,"$65,965",34,0.665
+Fairfax,120,"$65,938",232,0.277
+Sylmar,121,"$65,783",163,0.466
+Arleta,122,"$65,649",171,0.455
+South San Jose Hills,123,"$65,527",227,0.304
+Lake Balboa,124,"$65,336",61,0.632
+South San Gabriel,125,"$64,827",86,0.590
+West Puente Valley,126,"$64,809",214,0.334
+South Whittier,127,"$64,670",169,0.457
+Avocado Heights,128,"$64,544",205,0.362
+Burbank,129,"$64,416",92,0.581
+East San Gabriel,130,"$64,365",22,0.683
+Pico-Robertson,131,"$63,356",178,0.442
+Palmdale,132,"$63,317",32,0.670
+Beverly Grove,133,"$63,039",218,0.319
+Pasadena,134,"$62,825",12,0.706
+Mar Vista,135,"$62,611",60,0.634
+Winnetka,136,"$62,535",26,0.678
+Norwalk,137,"$62,412",105,0.554
+Del Rey,138,"$62,259",33,0.666
+Downey,139,"$61,839",96,0.577
+Windsor Square,140,"$61,767",36,0.661
+West Whittier-Los Nietos,141,"$61,504",224,0.307
+Monrovia,142,"$61,504",47,0.650
+Lopez/Kagel Canyons,143,"$61,398",118,0.543
+Irwindale,144,"$60,959",249,0.212
+Littlerock,145,"$60,781",84,0.592
+Veterans Administration,146,"$60,561",85,0.592
+Artesia,147,"$60,538",13,0.706
+Santa Fe Springs,148,"$60,445",175,0.448
+Lomita,149,"$59,059",68,0.626
+Northwest Antelope Valley,150,"$58,899",203,0.372
+Mid-Wilshire,151,"$58,483",1,0.755
+Tujunga,152,"$58,001",104,0.557
+Gramercy Park,153,"$57,983",244,0.241
+Mount Washington,154,"$57,725",101,0.565
+Sawtelle,155,"$57,710",38,0.659
+San Pedro,156,"$57,508",66,0.630
+Alondra Park,157,"$57,177",2,0.748
+Glendale,158,"$57,112",59,0.635
+San Gabriel,159,"$56,687",56,0.637
+Pico Rivera,160,"$56,683",248,0.221
+Baldwin Park,161,"$56,585",206,0.360
+North El Monte,162,"$56,577",25,0.678
+Unincorporated Catalina Island,163,"$56,295",150,0.495
+Sun Village,164,"$56,175",71,0.619
+Lancaster,165,"$56,069",55,0.638
+La Puente,166,"$55,902",225,0.306
+Montecito Heights,167,"$55,901",134,0.524
+Valley Village,168,"$55,470",146,0.512
+Harbor City,169,"$55,454",30,0.674
+Monterey Park,170,"$55,210",124,0.537
+Reseda,171,"$54,771",42,0.656
+Silver Lake,172,"$54,339",28,0.676
+Pomona,173,"$54,242",116,0.543
+San Fernando,174,"$54,068",254,0.192
+Atwater Village,175,"$53,872",50,0.645
+Bellflower,176,"$53,325",17,0.694
+Azusa,177,"$53,299",137,0.521
+Alhambra,178,"$53,224",65,0.631
+Avalon,179,"$53,200",115,0.543
+Lawndale,180,"$53,150",46,0.651
+Gardena,181,"$52,897",4,0.748
+West Hollywood,182,"$52,855",215,0.330
+Montebello,183,"$52,623",190,0.417
+North Hills,184,"$52,456",76,0.604
+Northeast Antelope Valley,185,"$52,234",109,0.548
+Lake Los Angeles,186,"$52,146",54,0.639
+Canoga Park,187,"$51,601",62,0.632
+Sun Valley,188,"$51,290",157,0.479
+Long Beach,189,"$50,985",9,0.723
+Los Feliz,190,"$50,793",75,0.610
+Palms,191,"$50,684",7,0.739
+Glassell Park,192,"$50,098",144,0.513
+Paramount,193,"$49,815",177,0.445
+Rosemead,194,"$49,387",87,0.589
+Pacoima,195,"$49,066",239,0.259
+Elysian Valley,196,"$49,013",106,0.552
+Athens,197,"$48,824",111,0.547
+Walnut Park,198,"$48,750",263,0.089
+Lynwood,199,"$48,518",221,0.309
+South Gate,200,"$48,312",256,0.147
+West Compton,201,"$48,093",122,0.539
+Harbor Gateway,202,"$47,849",49,0.648
+Larchmont,203,"$47,780",11,0.708
+South El Monte,204,"$46,912",240,0.248
+Hawaiian Gardens,205,"$46,853",179,0.436
+Inglewood,206,"$46,574",99,0.571
+Commerce,207,"$46,245",258,0.125
+Valley Glen,208,"$46,175",64,0.632
+Manchester Square,209,"$46,093",212,0.346
+El Sereno,210,"$45,866",216,0.325
+Leimert Park,211,"$45,865",209,0.351
+Highland Park,212,"$45,478",174,0.449
+Panorama City,213,"$44,468",156,0.479
+East Compton,214,"$44,439",191,0.416
+El Monte,215,"$44,415",181,0.435
+Mid-City,216,"$43,711",57,0.637
+Hawthorne,217,"$43,602",27,0.676
+Compton,218,"$43,157",140,0.519
+North Hollywood,219,"$42,791",89,0.586
+Cypress Park,220,"$42,615",220,0.311
+Bell Gardens,221,"$41,532",259,0.119
+Maywood,222,"$41,203",264,0.069
+Van Nuys,223,"$41,134",98,0.571
+Wilmington,224,"$40,627",242,0.245
+Bell,225,"$40,556",255,0.173
+Hyde Park,226,"$39,460",152,0.488
+Huntington Park,227,"$39,185",262,0.094
+Cudahy,228,"$39,048",260,0.117
+East Los Angeles,229,"$38,621",265,0.065
+Willowbrook,230,"$38,224",135,0.523
+West Adams,231,"$38,209",119,0.541
+Baldwin Hills/Crenshaw,232,"$37,948",166,0.457
+Lennox,233,"$37,937",253,0.197
+Chesterfield Square,234,"$37,737",138,0.520
+Echo Park,235,"$37,708",123,0.538
+Harvard Park,236,"$37,013",128,0.533
+Florence-Firestone,237,"$34,408",243,0.243
+Exposition Park,238,"$33,999",120,0.539
+Hollywood,239,"$33,694",52,0.644
+Boyle Heights,240,"$33,235",261,0.115
+Jefferson Park,241,"$32,654",95,0.577
+Westmont,242,"$31,572",142,0.514
+Central-Alameda,243,"$31,559",235,0.267
+Arlington Heights,244,"$31,421",81,0.600
+Green Meadows,245,"$31,347",147,0.512
+Vermont Vista,246,"$31,272",132,0.526
+Vermont-Slauson,247,"$31,236",149,0.498
+Harvard Heights,248,"$31,173",141,0.517
+Historic South-Central,249,"$30,882",246,0.229
+Lincoln Heights,250,"$30,579",180,0.436
+Koreatown,251,"$30,558",78,0.602
+East Hollywood,252,"$29,927",94,0.578
+Vermont Square,253,"$29,904",131,0.527
+Broadway-Manchester,254,"$29,897",148,0.502
+Adams-Normandie,255,"$29,606",114,0.545
+South Park,256,"$29,518",213,0.345
+Florence,257,"$29,447",183,0.434
+Elysian Park,258,"$28,263",91,0.582
+Vermont Knolls,259,"$27,730",136,0.521
+Westlake,260,"$26,757",185,0.430
+Pico-Union,261,"$26,424",236,0.264
+Watts,262,"$25,161",154,0.482
+Chinatown,263,"$22,754",176,0.445
+University Park,264,"$18,533",29,0.676
+Downtown,265,"$15,003",5,0.743
