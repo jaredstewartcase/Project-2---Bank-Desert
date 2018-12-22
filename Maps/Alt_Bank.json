@@ -1,0 +1,5626 @@
+[{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017924"
+	},
+	"Neighborhood": "La Habra Heights",
+	"Alt Bank Name": "Cashback Loans",
+	"Alt Bank Lat": "33.9253098",
+	"Alt Bank Long": "-117.8961903"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017925"
+	},
+	"Neighborhood": "La Habra Heights",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "33.9314409",
+	"Alt Bank Long": "-117.9684327"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017926"
+	},
+	"Neighborhood": "Westlake Village",
+	"Alt Bank Name": "Union Bank",
+	"Alt Bank Lat": "34.1629999",
+	"Alt Bank Long": "-118.825759"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017927"
+	},
+	"Neighborhood": "Westlake Village",
+	"Alt Bank Name": "Kinecta Federal Credit Union",
+	"Alt Bank Lat": "34.152877",
+	"Alt Bank Long": "-118.829536"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017928"
+	},
+	"Neighborhood": "Ladera Heights",
+	"Alt Bank Name": "Union Bank",
+	"Alt Bank Lat": "34.1546014",
+	"Alt Bank Long": "-118.7578941"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017929"
+	},
+	"Neighborhood": "Walnut",
+	"Alt Bank Name": "Western Union",
+	"Alt Bank Lat": "33.9877818",
+	"Alt Bank Long": "-117.9015977"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401792a"
+	},
+	"Neighborhood": "Cerritos",
+	"Alt Bank Name": "City Cash Services",
+	"Alt Bank Lat": "33.851296",
+	"Alt Bank Long": "-118.0116322"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401792b"
+	},
+	"Neighborhood": "North Whittier",
+	"Alt Bank Name": "Keith Benson CPA",
+	"Alt Bank Lat": "34.4516613",
+	"Alt Bank Long": "-118.5755987"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401792c"
+	},
+	"Neighborhood": "Castaic Canyons",
+	"Alt Bank Name": "Cardtronics ATM",
+	"Alt Bank Lat": "34.4930702",
+	"Alt Bank Long": "-118.6193247"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401792d"
+	},
+	"Neighborhood": "Claremont",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "34.0903933",
+	"Alt Bank Long": "-117.6692761"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401792e"
+	},
+	"Neighborhood": "Claremont",
+	"Alt Bank Name": "Ontario Check N' Loan",
+	"Alt Bank Lat": "34.0786672",
+	"Alt Bank Long": "-117.670797"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401792f"
+	},
+	"Neighborhood": "Claremont",
+	"Alt Bank Name": "EZ Cash",
+	"Alt Bank Lat": "34.076344",
+	"Alt Bank Long": "-117.6907154"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017930"
+	},
+	"Neighborhood": "Claremont",
+	"Alt Bank Name": "AAA Check Cashing",
+	"Alt Bank Lat": "34.0807101",
+	"Alt Bank Long": "-117.6894337"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017931"
+	},
+	"Neighborhood": "Claremont",
+	"Alt Bank Name": "EZ Services",
+	"Alt Bank Lat": "34.0568608",
+	"Alt Bank Long": "-117.6703747"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017932"
+	},
+	"Neighborhood": "Claremont",
+	"Alt Bank Name": "Mundo Check Cashing #7",
+	"Alt Bank Lat": "34.0670737",
+	"Alt Bank Long": "-117.6889961"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017933"
+	},
+	"Neighborhood": "Claremont",
+	"Alt Bank Name": "Cash 2 Go",
+	"Alt Bank Lat": "34.0553789",
+	"Alt Bank Long": "-117.6901876"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017934"
+	},
+	"Neighborhood": "Claremont",
+	"Alt Bank Name": "Walmart Money Center",
+	"Alt Bank Lat": "34.10616570000001",
+	"Alt Bank Long": "-117.6781846"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017935"
+	},
+	"Neighborhood": "Claremont",
+	"Alt Bank Name": "Check Cash Loans",
+	"Alt Bank Lat": "34.37913169999999",
+	"Alt Bank Long": "-118.5284982"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017936"
+	},
+	"Neighborhood": "Claremont",
+	"Alt Bank Name": "Vallarta Supermarkets",
+	"Alt Bank Lat": "34.380476",
+	"Alt Bank Long": "-118.543501"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017937"
+	},
+	"Neighborhood": "Santa Clarita",
+	"Alt Bank Name": "Advance America",
+	"Alt Bank Lat": "34.379307",
+	"Alt Bank Long": "-118.542241"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017938"
+	},
+	"Neighborhood": "Santa Clarita",
+	"Alt Bank Name": "Union Bank",
+	"Alt Bank Lat": "34.4121213",
+	"Alt Bank Long": "-118.5585027"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017939"
+	},
+	"Neighborhood": "Chatsworth",
+	"Alt Bank Name": "Holmes Investment Inc",
+	"Alt Bank Lat": "34.2568902",
+	"Alt Bank Long": "-118.60206"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401793a"
+	},
+	"Neighborhood": "La Mirada",
+	"Alt Bank Name": "Cambio Plus Check Cashing",
+	"Alt Bank Lat": "33.8713203",
+	"Alt Bank Long": "-117.9980344"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401793b"
+	},
+	"Neighborhood": "La Mirada",
+	"Alt Bank Name": "Tienda Mexico Inc",
+	"Alt Bank Lat": "33.8713236",
+	"Alt Bank Long": "-117.9979655"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401793c"
+	},
+	"Neighborhood": "La Mirada",
+	"Alt Bank Name": "Action One Check Cashing",
+	"Alt Bank Lat": "34.1046967",
+	"Alt Bank Long": "-117.7493904"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401793d"
+	},
+	"Neighborhood": "La Mirada",
+	"Alt Bank Name": "Express Cash Network",
+	"Alt Bank Lat": "34.11030909999999",
+	"Alt Bank Long": "-117.7607396"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401793e"
+	},
+	"Neighborhood": "La Verne",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.1075072",
+	"Alt Bank Long": "-117.7386379"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401793f"
+	},
+	"Neighborhood": "Altadena",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.1789403",
+	"Alt Bank Long": "-118.131622"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017940"
+	},
+	"Neighborhood": "Encino",
+	"Alt Bank Name": "MoneyGram",
+	"Alt Bank Lat": "34.6295039",
+	"Alt Bank Long": "-118.2206091"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017941"
+	},
+	"Neighborhood": "Encino",
+	"Alt Bank Name": "Advance America",
+	"Alt Bank Lat": "34.66154",
+	"Alt Bank Long": "-118.20356"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017942"
+	},
+	"Neighborhood": "Encino",
+	"Alt Bank Name": "Western Union",
+	"Alt Bank Lat": "34.6616319",
+	"Alt Bank Long": "-118.2024158"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017943"
+	},
+	"Neighborhood": "Quartz Hill",
+	"Alt Bank Name": "Cardtronics ATM",
+	"Alt Bank Lat": "34.6458414",
+	"Alt Bank Long": "-118.2200345"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017944"
+	},
+	"Neighborhood": "Quartz Hill",
+	"Alt Bank Name": "ATM Network, Inc.",
+	"Alt Bank Lat": "34.6481085",
+	"Alt Bank Long": "-118.2187852"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017945"
+	},
+	"Neighborhood": "Torrance",
+	"Alt Bank Name": "Ruby Liquor",
+	"Alt Bank Lat": "33.8349799",
+	"Alt Bank Long": "-118.3854374"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017946"
+	},
+	"Neighborhood": "Arcadia",
+	"Alt Bank Name": "In \u0026 Out Cash",
+	"Alt Bank Lat": "34.1408649",
+	"Alt Bank Long": "-118.0730732"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017947"
+	},
+	"Neighborhood": "Rowland Heights",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.932884",
+	"Alt Bank Long": "-117.916409"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017948"
+	},
+	"Neighborhood": "Valinda",
+	"Alt Bank Name": "Lambert Check Cashing",
+	"Alt Bank Lat": "33.9320942",
+	"Alt Bank Long": "-117.9427925"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017949"
+	},
+	"Neighborhood": "Valinda",
+	"Alt Bank Name": "La Habra Check Cashing",
+	"Alt Bank Lat": "33.9390164",
+	"Alt Bank Long": "-117.9627817"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401794a"
+	},
+	"Neighborhood": "Valinda",
+	"Alt Bank Name": "Enviomex",
+	"Alt Bank Lat": "33.9321841",
+	"Alt Bank Long": "-117.9356251"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401794b"
+	},
+	"Neighborhood": "East La Mirada",
+	"Alt Bank Name": "ABC Check Cashing \u0026 Payday Loans",
+	"Alt Bank Lat": "33.9341631",
+	"Alt Bank Long": "-117.9325341"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401794c"
+	},
+	"Neighborhood": "East La Mirada",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9402493",
+	"Alt Bank Long": "-117.9635872"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401794d"
+	},
+	"Neighborhood": "Playa Vista",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.107733",
+	"Alt Bank Long": "-117.8240918"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401794e"
+	},
+	"Neighborhood": "Duarte",
+	"Alt Bank Name": "CityLight BulletProof Inc",
+	"Alt Bank Lat": "34.4517321",
+	"Alt Bank Long": "-118.617226"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401794f"
+	},
+	"Neighborhood": "West Carson",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.715092",
+	"Alt Bank Long": "-116.2293627"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017950"
+	},
+	"Neighborhood": "West Carson",
+	"Alt Bank Name": "Global Cash Access",
+	"Alt Bank Lat": "33.7065475",
+	"Alt Bank Long": "-116.2251467"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017951"
+	},
+	"Neighborhood": "West Carson",
+	"Alt Bank Name": "Cashback Loans",
+	"Alt Bank Lat": "33.7152016",
+	"Alt Bank Long": "-116.2318888"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017952"
+	},
+	"Neighborhood": "West Carson",
+	"Alt Bank Name": "Union Bank",
+	"Alt Bank Lat": "33.7078714",
+	"Alt Bank Long": "-116.2744746"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017953"
+	},
+	"Neighborhood": "West Carson",
+	"Alt Bank Name": "Advance America",
+	"Alt Bank Lat": "33.7076603",
+	"Alt Bank Long": "-116.2402761"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017954"
+	},
+	"Neighborhood": "West Carson",
+	"Alt Bank Name": "Cardtronics ATM",
+	"Alt Bank Lat": "33.678494",
+	"Alt Bank Long": "-116.303129"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017955"
+	},
+	"Neighborhood": "West Carson",
+	"Alt Bank Name": "Cardtronics ATM",
+	"Alt Bank Lat": "33.6303661",
+	"Alt Bank Long": "-116.2764752"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017956"
+	},
+	"Neighborhood": "Citrus",
+	"Alt Bank Name": "Cardtronics ATM",
+	"Alt Bank Lat": "33.7126196",
+	"Alt Bank Long": "-116.2922652"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017957"
+	},
+	"Neighborhood": "Citrus",
+	"Alt Bank Name": "Cardtronics ATM",
+	"Alt Bank Lat": "33.7080322",
+	"Alt Bank Long": "-116.2780309"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017958"
+	},
+	"Neighborhood": "Citrus",
+	"Alt Bank Name": "Cardtronics ATM",
+	"Alt Bank Lat": "33.7086156",
+	"Alt Bank Long": "-116.2905295"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017959"
+	},
+	"Neighborhood": "Citrus",
+	"Alt Bank Name": "Western Union",
+	"Alt Bank Lat": "33.715334",
+	"Alt Bank Long": "-116.22964"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401795a"
+	},
+	"Neighborhood": "Citrus",
+	"Alt Bank Name": "Walmart Money Center",
+	"Alt Bank Lat": "33.7032763",
+	"Alt Bank Long": "-116.2812017"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401795b"
+	},
+	"Neighborhood": "Citrus",
+	"Alt Bank Name": "Cardtronics ATM",
+	"Alt Bank Lat": "33.680074",
+	"Alt Bank Long": "-116.302672"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401795c"
+	},
+	"Neighborhood": "Citrus",
+	"Alt Bank Name": "Cardtronics ATM",
+	"Alt Bank Lat": "33.707777",
+	"Alt Bank Long": "-116.251777"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401795d"
+	},
+	"Neighborhood": "Signal Hill",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.8328515",
+	"Alt Bank Long": "-118.1846665"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401795e"
+	},
+	"Neighborhood": "Signal Hill",
+	"Alt Bank Name": "E Z Check Advance",
+	"Alt Bank Lat": "33.84751850000001",
+	"Alt Bank Long": "-118.1246003"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401795f"
+	},
+	"Neighborhood": "Arleta",
+	"Alt Bank Name": "Golden Check Cashing",
+	"Alt Bank Lat": "34.0037627",
+	"Alt Bank Long": "-117.8702519"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017960"
+	},
+	"Neighborhood": "Arleta",
+	"Alt Bank Name": "Valley Check Cashers",
+	"Alt Bank Lat": "34.009957",
+	"Alt Bank Long": "-117.8601584"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017961"
+	},
+	"Neighborhood": "West Puente Valley",
+	"Alt Bank Name": "JMS Cash Service",
+	"Alt Bank Lat": "33.9302291",
+	"Alt Bank Long": "-117.9952078"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017962"
+	},
+	"Neighborhood": "West Puente Valley",
+	"Alt Bank Name": "Rashid Check Cashing",
+	"Alt Bank Lat": "33.9249146",
+	"Alt Bank Long": "-118.0237754"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017963"
+	},
+	"Neighborhood": "West Puente Valley",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.918035",
+	"Alt Bank Long": "-117.99583"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017964"
+	},
+	"Neighborhood": "South Whittier",
+	"Alt Bank Name": "Speed Check Cashing",
+	"Alt Bank Lat": "33.9190938",
+	"Alt Bank Long": "-118.0105522"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017965"
+	},
+	"Neighborhood": "Pico-Robertson",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "34.579752",
+	"Alt Bank Long": "-118.1155947"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017966"
+	},
+	"Neighborhood": "Pico-Robertson",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.580089",
+	"Alt Bank Long": "-118.094966"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017967"
+	},
+	"Neighborhood": "Pico-Robertson",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.5788132",
+	"Alt Bank Long": "-118.1266628"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017968"
+	},
+	"Neighborhood": "Pico-Robertson",
+	"Alt Bank Name": "Payday Advance",
+	"Alt Bank Lat": "34.578974",
+	"Alt Bank Long": "-118.110535"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017969"
+	},
+	"Neighborhood": "Pico-Robertson",
+	"Alt Bank Name": "Vallarta Supermarkets",
+	"Alt Bank Lat": "34.580753",
+	"Alt Bank Long": "-118.0959787"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401796a"
+	},
+	"Neighborhood": "Pico-Robertson",
+	"Alt Bank Name": "Advance America",
+	"Alt Bank Lat": "34.57913",
+	"Alt Bank Long": "-118.083252"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401796b"
+	},
+	"Neighborhood": "Pico-Robertson",
+	"Alt Bank Name": "Walmart Money Center",
+	"Alt Bank Lat": "34.611589",
+	"Alt Bank Long": "-118.1449202"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401796c"
+	},
+	"Neighborhood": "Beverly Grove",
+	"Alt Bank Name": "Mundo Check Cashing #1",
+	"Alt Bank Lat": "34.181604",
+	"Alt Bank Long": "-118.151071"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401796d"
+	},
+	"Neighborhood": "Beverly Grove",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.1683081",
+	"Alt Bank Long": "-118.1319604"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401796e"
+	},
+	"Neighborhood": "Beverly Grove",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.1834453",
+	"Alt Bank Long": "-118.1502713"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401796f"
+	},
+	"Neighborhood": "Beverly Grove",
+	"Alt Bank Name": "Have Cash Advance",
+	"Alt Bank Lat": "34.1692061",
+	"Alt Bank Long": "-118.1323837"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017970"
+	},
+	"Neighborhood": "Beverly Grove",
+	"Alt Bank Name": "Hical Financial Group",
+	"Alt Bank Lat": "34.1570521",
+	"Alt Bank Long": "-118.132634"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017971"
+	},
+	"Neighborhood": "Beverly Grove",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.136502",
+	"Alt Bank Long": "-118.1527877"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017972"
+	},
+	"Neighborhood": "Beverly Grove",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.1122175",
+	"Alt Bank Long": "-118.1874801"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017973"
+	},
+	"Neighborhood": "Pasadena",
+	"Alt Bank Name": "EZ Check Advance",
+	"Alt Bank Lat": "33.9903943",
+	"Alt Bank Long": "-118.4472275"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017974"
+	},
+	"Neighborhood": "Winnetka",
+	"Alt Bank Name": "Friendly Express Liquor",
+	"Alt Bank Lat": "34.2197904",
+	"Alt Bank Long": "-118.5729261"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017975"
+	},
+	"Neighborhood": "Norwalk",
+	"Alt Bank Name": "Freedom 1 Capital",
+	"Alt Bank Lat": "33.9803275",
+	"Alt Bank Long": "-118.4677141"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017976"
+	},
+	"Neighborhood": "West Whittier-Los Nietos",
+	"Alt Bank Name": "Monrovia Financial Center",
+	"Alt Bank Lat": "34.1509212",
+	"Alt Bank Long": "-118.0085074"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017977"
+	},
+	"Neighborhood": "Lopez/Kagel Canyons",
+	"Alt Bank Name": "Vallarta Supermarkets",
+	"Alt Bank Lat": "34.083206",
+	"Alt Bank Long": "-117.968746"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017978"
+	},
+	"Neighborhood": "Artesia",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "33.9578253",
+	"Alt Bank Long": "-118.0376668"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017979"
+	},
+	"Neighborhood": "Artesia",
+	"Alt Bank Name": "Memo's Servicios Latinos",
+	"Alt Bank Lat": "33.9189691",
+	"Alt Bank Long": "-118.0469896"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401797a"
+	},
+	"Neighborhood": "Santa Fe Springs",
+	"Alt Bank Name": "Payday Money Centers- Whittier",
+	"Alt Bank Lat": "33.964675",
+	"Alt Bank Long": "-118.034851"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401797b"
+	},
+	"Neighborhood": "Santa Fe Springs",
+	"Alt Bank Name": "eDebitDirect",
+	"Alt Bank Lat": "33.9818714",
+	"Alt Bank Long": "-118.0368597"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401797c"
+	},
+	"Neighborhood": "Santa Fe Springs",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.9370236",
+	"Alt Bank Long": "-118.042337"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401797d"
+	},
+	"Neighborhood": "Santa Fe Springs",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.838913",
+	"Alt Bank Long": "-118.3632"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401797e"
+	},
+	"Neighborhood": "Santa Fe Springs",
+	"Alt Bank Name": "Merchants Quest",
+	"Alt Bank Lat": "33.7714101",
+	"Alt Bank Long": "-118.3698241"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401797f"
+	},
+	"Neighborhood": "Mid-Wilshire",
+	"Alt Bank Name": "Catalina Structured Funding",
+	"Alt Bank Lat": "34.2469377",
+	"Alt Bank Long": "-118.2786382"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017980"
+	},
+	"Neighborhood": "Mid-Wilshire",
+	"Alt Bank Name": "SDV Liquor Market",
+	"Alt Bank Lat": "34.260003",
+	"Alt Bank Long": "-118.31365"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017981"
+	},
+	"Neighborhood": "Mount Washington",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0008871",
+	"Alt Bank Long": "-118.4680163"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017982"
+	},
+	"Neighborhood": "Mount Washington",
+	"Alt Bank Name": "A Plus Exchange Inc",
+	"Alt Bank Lat": "34.0157047",
+	"Alt Bank Long": "-118.4948061"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017983"
+	},
+	"Neighborhood": "Mount Washington",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.7356899",
+	"Alt Bank Long": "-118.2921595"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017984"
+	},
+	"Neighborhood": "Sawtelle",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.7318774",
+	"Alt Bank Long": "-118.2876853"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017985"
+	},
+	"Neighborhood": "Alondra Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.1660459",
+	"Alt Bank Long": "-118.2876939"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017986"
+	},
+	"Neighborhood": "Glendale",
+	"Alt Bank Name": "Telegraph Checks SuiteB",
+	"Alt Bank Lat": "33.9383313",
+	"Alt Bank Long": "-118.0428391"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017987"
+	},
+	"Neighborhood": "Glendale",
+	"Alt Bank Name": "Su Casa De Cambio",
+	"Alt Bank Lat": "33.964421",
+	"Alt Bank Long": "-118.0697764"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017988"
+	},
+	"Neighborhood": "San Gabriel",
+	"Alt Bank Name": "Cash N More",
+	"Alt Bank Lat": "33.9477526",
+	"Alt Bank Long": "-118.088621"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017989"
+	},
+	"Neighborhood": "Pico Rivera",
+	"Alt Bank Name": "Texcoman Corporation",
+	"Alt Bank Lat": "34.0693621",
+	"Alt Bank Long": "-117.9366622"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401798a"
+	},
+	"Neighborhood": "Pico Rivera",
+	"Alt Bank Name": "Cashback Loans",
+	"Alt Bank Lat": "34.0768756",
+	"Alt Bank Long": "-117.9072994"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401798b"
+	},
+	"Neighborhood": "Pico Rivera",
+	"Alt Bank Name": "DolEx Dollar Express",
+	"Alt Bank Lat": "34.0854894",
+	"Alt Bank Long": "-117.9672539"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401798c"
+	},
+	"Neighborhood": "Pico Rivera",
+	"Alt Bank Name": "Jims Check Cashing",
+	"Alt Bank Lat": "34.1306997",
+	"Alt Bank Long": "-118.0258133"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401798d"
+	},
+	"Neighborhood": "Pico Rivera",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "34.1426018",
+	"Alt Bank Long": "-118.0738191"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401798e"
+	},
+	"Neighborhood": "Pico Rivera",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.146663",
+	"Alt Bank Long": "-118.07395"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401798f"
+	},
+	"Neighborhood": "Baldwin Park",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.140743",
+	"Alt Bank Long": "-117.977855"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017990"
+	},
+	"Neighborhood": "Baldwin Park",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.1391505",
+	"Alt Bank Long": "-117.9816587"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017991"
+	},
+	"Neighborhood": "Baldwin Park",
+	"Alt Bank Name": "Joshua Liquor \u0026 Deli \u0026 Jr Market",
+	"Alt Bank Lat": "34.5426775",
+	"Alt Bank Long": "-117.974035"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017992"
+	},
+	"Neighborhood": "Baldwin Park",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "34.6887471",
+	"Alt Bank Long": "-118.1335263"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017993"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Pay It Back Check Cashing",
+	"Alt Bank Lat": "34.6894503",
+	"Alt Bank Long": "-118.1234467"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017994"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Checks Cashed Eastside",
+	"Alt Bank Lat": "34.6892408",
+	"Alt Bank Long": "-118.1112993"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017995"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.690357",
+	"Alt Bank Long": "-118.110854"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017996"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "West Side Checks Cashed",
+	"Alt Bank Lat": "34.7049163",
+	"Alt Bank Long": "-118.148928"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017997"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Check Cash Loans",
+	"Alt Bank Lat": "34.6788114",
+	"Alt Bank Long": "-118.1486239"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017998"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.689767",
+	"Alt Bank Long": "-118.173302"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017999"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Order Express",
+	"Alt Bank Lat": "34.6745496",
+	"Alt Bank Long": "-118.1129781"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401799a"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.689555",
+	"Alt Bank Long": "-118.1461079"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401799b"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Cash B4 Payday",
+	"Alt Bank Lat": "34.688721",
+	"Alt Bank Long": "-118.097741"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401799c"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Cash 1",
+	"Alt Bank Lat": "34.6745653",
+	"Alt Bank Long": "-118.1507408"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401799d"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Cash It Quick",
+	"Alt Bank Lat": "34.67439299999999",
+	"Alt Bank Long": "-118.1440417"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401799e"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "A Data Check",
+	"Alt Bank Lat": "34.6971655",
+	"Alt Bank Long": "-118.1383104"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d6401799f"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.7053217",
+	"Alt Bank Long": "-118.1641868"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179a0"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.7043166",
+	"Alt Bank Long": "-118.1492524"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179a1"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.67270269999999",
+	"Alt Bank Long": "-118.1471621"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179a2"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.6743266",
+	"Alt Bank Long": "-118.1675781"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179a3"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "Check Cashing Payday Advance",
+	"Alt Bank Lat": "34.6892176",
+	"Alt Bank Long": "-118.1112137"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179a4"
+	},
+	"Neighborhood": "North El Monte",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "34.0472239",
+	"Alt Bank Long": "-117.9490484"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179a5"
+	},
+	"Neighborhood": "Sun Village",
+	"Alt Bank Name": "Su Casa De Cambio",
+	"Alt Bank Lat": "34.0124271",
+	"Alt Bank Long": "-117.9242273"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179a6"
+	},
+	"Neighborhood": "Lancaster",
+	"Alt Bank Name": "Pay It Back Check Cashing",
+	"Alt Bank Lat": "34.0360891",
+	"Alt Bank Long": "-117.9258684"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179a7"
+	},
+	"Neighborhood": "Lancaster",
+	"Alt Bank Name": "Check And Cash",
+	"Alt Bank Lat": "34.0365032",
+	"Alt Bank Long": "-117.94995"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179a8"
+	},
+	"Neighborhood": "Lancaster",
+	"Alt Bank Name": "Qua Mart Group Co",
+	"Alt Bank Lat": "34.0534297",
+	"Alt Bank Long": "-117.953879"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179a9"
+	},
+	"Neighborhood": "Lancaster",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.0458544",
+	"Alt Bank Long": "-117.9632567"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179aa"
+	},
+	"Neighborhood": "Lancaster",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0458552",
+	"Alt Bank Long": "-117.9492398"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ab"
+	},
+	"Neighborhood": "Lancaster",
+	"Alt Bank Name": "Cashback Loans",
+	"Alt Bank Lat": "34.0333692",
+	"Alt Bank Long": "-117.9145951"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ac"
+	},
+	"Neighborhood": "Lancaster",
+	"Alt Bank Name": "Moneytree",
+	"Alt Bank Lat": "34.0521656",
+	"Alt Bank Long": "-117.9441591"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ad"
+	},
+	"Neighborhood": "Lancaster",
+	"Alt Bank Name": "Cashback Loans",
+	"Alt Bank Lat": "34.0639267",
+	"Alt Bank Long": "-117.9671328"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ae"
+	},
+	"Neighborhood": "Lancaster",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.0522676",
+	"Alt Bank Long": "-117.9431858"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179af"
+	},
+	"Neighborhood": "Montecito Heights",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "34.1849513",
+	"Alt Bank Long": "-118.3387393"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179b0"
+	},
+	"Neighborhood": "Monterey Park",
+	"Alt Bank Name": "Cash It Quick",
+	"Alt Bank Lat": "34.1870896",
+	"Alt Bank Long": "-118.536555"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179b1"
+	},
+	"Neighborhood": "Monterey Park",
+	"Alt Bank Name": "Payday Advance",
+	"Alt Bank Lat": "34.1722193",
+	"Alt Bank Long": "-118.5364929"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179b2"
+	},
+	"Neighborhood": "Monterey Park",
+	"Alt Bank Name": "Payday Advance",
+	"Alt Bank Lat": "34.1870453",
+	"Alt Bank Long": "-118.536217"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179b3"
+	},
+	"Neighborhood": "Monterey Park",
+	"Alt Bank Name": "Payroll Advance",
+	"Alt Bank Lat": "34.2007043",
+	"Alt Bank Long": "-118.5362278"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179b4"
+	},
+	"Neighborhood": "Monterey Park",
+	"Alt Bank Name": "Gift Card EXCHANGE",
+	"Alt Bank Lat": "34.1870896",
+	"Alt Bank Long": "-118.536555"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179b5"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0436883",
+	"Alt Bank Long": "-117.7504171"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179b6"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "C-1 Check Cashing",
+	"Alt Bank Lat": "34.0642988",
+	"Alt Bank Long": "-117.7186457"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179b7"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "MMZ Check Cashing \u0026 Western Union",
+	"Alt Bank Lat": "34.0619147",
+	"Alt Bank Long": "-117.7384144"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179b8"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "MLA Payday Advance",
+	"Alt Bank Lat": "34.0326796",
+	"Alt Bank Long": "-117.7076424"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179b9"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "Quick Cash Advance",
+	"Alt Bank Lat": "34.0482731",
+	"Alt Bank Long": "-117.7503025"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ba"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.074684",
+	"Alt Bank Long": "-117.718734"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179bb"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "Quick Cash Service",
+	"Alt Bank Lat": "34.0635669",
+	"Alt Bank Long": "-117.6966595"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179bc"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "Varr Jon",
+	"Alt Bank Lat": "34.05713",
+	"Alt Bank Long": "-117.75203"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179bd"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "American Check Cashing",
+	"Alt Bank Lat": "34.0624915",
+	"Alt Bank Long": "-117.7872462"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179be"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "A A Check Cashing",
+	"Alt Bank Lat": "34.0309521",
+	"Alt Bank Long": "-117.7484778"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179bf"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "Aloe Loan Services",
+	"Alt Bank Lat": "34.0798746",
+	"Alt Bank Long": "-117.7203411"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179c0"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0553694",
+	"Alt Bank Long": "-117.7548064"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179c1"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0897022",
+	"Alt Bank Long": "-117.7375732"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179c2"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.0882564",
+	"Alt Bank Long": "-117.6975288"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179c3"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "Check 2 Cash Garey",
+	"Alt Bank Lat": "34.0618661",
+	"Alt Bank Long": "-117.7500601"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179c4"
+	},
+	"Neighborhood": "Silver Lake",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0637058",
+	"Alt Bank Long": "-117.719871"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179c5"
+	},
+	"Neighborhood": "San Fernando",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9127076",
+	"Alt Bank Long": "-118.0812643"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179c6"
+	},
+	"Neighborhood": "Atwater Village",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "33.9028536",
+	"Alt Bank Long": "-118.0986295"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179c7"
+	},
+	"Neighborhood": "Atwater Village",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.902792",
+	"Alt Bank Long": "-118.08861"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179c8"
+	},
+	"Neighborhood": "Atwater Village",
+	"Alt Bank Name": "Dhaka Liquor \u0026 Market",
+	"Alt Bank Lat": "33.91687599999999",
+	"Alt Bank Long": "-118.100012"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179c9"
+	},
+	"Neighborhood": "Atwater Village",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.917382",
+	"Alt Bank Long": "-118.0820613"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ca"
+	},
+	"Neighborhood": "Atwater Village",
+	"Alt Bank Name": "Rosecrans Spirit Shop",
+	"Alt Bank Lat": "33.9018253",
+	"Alt Bank Long": "-118.0994438"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179cb"
+	},
+	"Neighborhood": "Bellflower",
+	"Alt Bank Name": "Pay It Back Check Cashing",
+	"Alt Bank Lat": "34.0893934",
+	"Alt Bank Long": "-117.9260966"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179cc"
+	},
+	"Neighborhood": "Bellflower",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.090686",
+	"Alt Bank Long": "-117.908272"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179cd"
+	},
+	"Neighborhood": "Bellflower",
+	"Alt Bank Name": "H \u0026 J Chekcashing",
+	"Alt Bank Lat": "34.11488569999999",
+	"Alt Bank Long": "-117.9040727"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ce"
+	},
+	"Neighborhood": "Bellflower",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.1070265",
+	"Alt Bank Long": "-117.8908244"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179cf"
+	},
+	"Neighborhood": "Bellflower",
+	"Alt Bank Name": "Cashback Loans",
+	"Alt Bank Lat": "34.1064556",
+	"Alt Bank Long": "-117.8907718"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179d0"
+	},
+	"Neighborhood": "Bellflower",
+	"Alt Bank Name": "Cash In A Flash",
+	"Alt Bank Lat": "34.12919280000001",
+	"Alt Bank Long": "-117.8642391"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179d1"
+	},
+	"Neighborhood": "Bellflower",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.0976863",
+	"Alt Bank Long": "-117.8899688"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179d2"
+	},
+	"Neighborhood": "Bellflower",
+	"Alt Bank Name": "Western Union",
+	"Alt Bank Lat": "34.1148469",
+	"Alt Bank Long": "-117.9042343"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179d3"
+	},
+	"Neighborhood": "Bellflower",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.0878977",
+	"Alt Bank Long": "-117.957972"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179d4"
+	},
+	"Neighborhood": "Bellflower",
+	"Alt Bank Name": "E Z Check Advance",
+	"Alt Bank Lat": "34.1310636",
+	"Alt Bank Long": "-118.0729735"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179d5"
+	},
+	"Neighborhood": "Avalon",
+	"Alt Bank Name": "Moo Loans LLC",
+	"Alt Bank Lat": "34.1363812",
+	"Alt Bank Long": "-118.362165"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179d6"
+	},
+	"Neighborhood": "Avalon",
+	"Alt Bank Name": "No 1 Liquor Mart",
+	"Alt Bank Lat": "33.8687434",
+	"Alt Bank Long": "-118.3823549"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179d7"
+	},
+	"Neighborhood": "Gardena",
+	"Alt Bank Name": "CFIN",
+	"Alt Bank Lat": "34.0873273",
+	"Alt Bank Long": "-118.3807165"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179d8"
+	},
+	"Neighborhood": "Gardena",
+	"Alt Bank Name": "New Tower Check Cashing Pico Rivera",
+	"Alt Bank Lat": "34.0002121",
+	"Alt Bank Long": "-118.0806548"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179d9"
+	},
+	"Neighborhood": "West Hollywood",
+	"Alt Bank Name": "Cash \u0026 Go",
+	"Alt Bank Lat": "34.002278",
+	"Alt Bank Long": "-118.085541"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179da"
+	},
+	"Neighborhood": "West Hollywood",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.0185165",
+	"Alt Bank Long": "-118.1106633"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179db"
+	},
+	"Neighborhood": "West Hollywood",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9710996",
+	"Alt Bank Long": "-118.0659466"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179dc"
+	},
+	"Neighborhood": "West Hollywood",
+	"Alt Bank Name": "Pay It Back Check Cashing",
+	"Alt Bank Lat": "33.9706833",
+	"Alt Bank Long": "-118.0687857"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179dd"
+	},
+	"Neighborhood": "West Hollywood",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.9855282",
+	"Alt Bank Long": "-118.1007781"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179de"
+	},
+	"Neighborhood": "Montebello",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "34.2210004",
+	"Alt Bank Long": "-118.5355901"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179df"
+	},
+	"Neighborhood": "Montebello",
+	"Alt Bank Name": "Natalie Payday Advance Inc",
+	"Alt Bank Lat": "34.2007043",
+	"Alt Bank Long": "-118.5362278"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179e0"
+	},
+	"Neighborhood": "Montebello",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.221142",
+	"Alt Bank Long": "-118.537484"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179e1"
+	},
+	"Neighborhood": "Montebello",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.273147",
+	"Alt Bank Long": "-118.485271"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179e2"
+	},
+	"Neighborhood": "Montebello",
+	"Alt Bank Name": "Vista Check Cashing",
+	"Alt Bank Lat": "34.2015718",
+	"Alt Bank Long": "-118.5200128"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179e3"
+	},
+	"Neighborhood": "Montebello",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.2009285",
+	"Alt Bank Long": "-118.5358687"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179e4"
+	},
+	"Neighborhood": "Montebello",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.1933392",
+	"Alt Bank Long": "-118.535883"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179e5"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Cardtronics ATM",
+	"Alt Bank Lat": "34.7549443",
+	"Alt Bank Long": "-118.2902606"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179e6"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Topanga Check Cashing Services",
+	"Alt Bank Lat": "34.202237",
+	"Alt Bank Long": "-118.6061851"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179e7"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "The Check Cashing Co.",
+	"Alt Bank Lat": "34.2215091",
+	"Alt Bank Long": "-118.6053882"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179e8"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Cash Plus",
+	"Alt Bank Lat": "34.2189598",
+	"Alt Bank Long": "-118.5889048"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179e9"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.200663",
+	"Alt Bank Long": "-118.561295"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ea"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Thrifty Check Cashing",
+	"Alt Bank Lat": "34.220633",
+	"Alt Bank Long": "-118.569595"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179eb"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Canoga Park - Los Angeles Check Cashing",
+	"Alt Bank Lat": "34.2342348",
+	"Alt Bank Long": "-118.5889291"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ec"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Asap Tampa",
+	"Alt Bank Lat": "34.2080285",
+	"Alt Bank Long": "-118.5530868"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ed"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Title Loan",
+	"Alt Bank Lat": "34.2015595",
+	"Alt Bank Long": "-118.597408"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ee"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.2014263",
+	"Alt Bank Long": "-118.5973956"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ef"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Dynamic Merchant Solutions",
+	"Alt Bank Lat": "34.2007256",
+	"Alt Bank Long": "-118.607771"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179f0"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.2093843",
+	"Alt Bank Long": "-118.5717289"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179f1"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.2286568",
+	"Alt Bank Long": "-118.5625523"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179f2"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Green River Industries",
+	"Alt Bank Lat": "34.2080724",
+	"Alt Bank Long": "-118.5747226"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179f3"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Dorose Liquors # 2",
+	"Alt Bank Lat": "34.2495893",
+	"Alt Bank Long": "-118.5896806"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179f4"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.2350409",
+	"Alt Bank Long": "-118.5522095"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179f5"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.2006776",
+	"Alt Bank Long": "-118.56415"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179f6"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.7754841",
+	"Alt Bank Long": "-118.1884402"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179f7"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Amigo Check Cashing",
+	"Alt Bank Lat": "33.7819229",
+	"Alt Bank Long": "-118.187584"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179f8"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "33.7986948",
+	"Alt Bank Long": "-118.1899325"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179f9"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.7827424",
+	"Alt Bank Long": "-118.1898942"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179fa"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "The Check Cashers # 1",
+	"Alt Bank Lat": "33.782858",
+	"Alt Bank Long": "-118.191923"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179fb"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "33.7902821",
+	"Alt Bank Long": "-118.1801316"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179fc"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "Any Kind Check Cashing",
+	"Alt Bank Lat": "33.7904712",
+	"Alt Bank Long": "-118.1799657"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179fd"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.7820618",
+	"Alt Bank Long": "-118.1543982"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179fe"
+	},
+	"Neighborhood": "North Hills",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.7896684",
+	"Alt Bank Long": "-118.1953212"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d640179ff"
+	},
+	"Neighborhood": "Northeast Antelope Valley",
+	"Alt Bank Name": "Electracash, Inc.",
+	"Alt Bank Lat": "33.8030452",
+	"Alt Bank Long": "-118.1683724"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a00"
+	},
+	"Neighborhood": "Canoga Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.7828705",
+	"Alt Bank Long": "-118.1521653"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a01"
+	},
+	"Neighborhood": "Canoga Park",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "33.7882481",
+	"Alt Bank Long": "-118.1888232"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a02"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0163704",
+	"Alt Bank Long": "-118.4056484"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a03"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "Westwood Check Cashing Etc",
+	"Alt Bank Lat": "34.044486",
+	"Alt Bank Long": "-118.431904"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a04"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "Ralph's Money Services",
+	"Alt Bank Lat": "34.0633798",
+	"Alt Bank Long": "-118.4437048"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a05"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "Valencia Loan Co",
+	"Alt Bank Lat": "34.0683809",
+	"Alt Bank Long": "-118.4057856"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a06"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "34.04080709999999",
+	"Alt Bank Long": "-118.463821"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a07"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "City Credit Co",
+	"Alt Bank Lat": "34.0652006",
+	"Alt Bank Long": "-118.3987662"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a08"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "U-Cash Systems Inc",
+	"Alt Bank Lat": "34.0509222",
+	"Alt Bank Long": "-118.4600058"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a09"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.02066200000001",
+	"Alt Bank Long": "-118.404567"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a0a"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.027604",
+	"Alt Bank Long": "-118.4291652"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a0b"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.99323940000001",
+	"Alt Bank Long": "-118.4143476"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a0c"
+	},
+	"Neighborhood": "Los Feliz",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.0198981",
+	"Alt Bank Long": "-118.4038873"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a0d"
+	},
+	"Neighborhood": "Palms",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "33.8897425",
+	"Alt Bank Long": "-118.1248715"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a0e"
+	},
+	"Neighborhood": "Palms",
+	"Alt Bank Name": "E-Z Cash Advance",
+	"Alt Bank Lat": "33.8464671",
+	"Alt Bank Long": "-118.1590215"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a0f"
+	},
+	"Neighborhood": "Glassell Park",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.902574",
+	"Alt Bank Long": "-118.135196"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a10"
+	},
+	"Neighborhood": "Glassell Park",
+	"Alt Bank Name": "4 in One Store",
+	"Alt Bank Lat": "33.859421",
+	"Alt Bank Long": "-118.143533"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a11"
+	},
+	"Neighborhood": "Glassell Park",
+	"Alt Bank Name": "Any Kind Check Cashing Ce",
+	"Alt Bank Lat": "33.8897425",
+	"Alt Bank Long": "-118.1248715"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a12"
+	},
+	"Neighborhood": "Glassell Park",
+	"Alt Bank Name": "Golden Check Cashing",
+	"Alt Bank Lat": "33.8476113",
+	"Alt Bank Long": "-118.2124428"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a13"
+	},
+	"Neighborhood": "Glassell Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.8743818",
+	"Alt Bank Long": "-118.14237"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a14"
+	},
+	"Neighborhood": "Paramount",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "33.9175546",
+	"Alt Bank Long": "-118.1405441"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a15"
+	},
+	"Neighborhood": "Paramount",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "33.8518052",
+	"Alt Bank Long": "-118.144175"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a16"
+	},
+	"Neighborhood": "Paramount",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.1027517",
+	"Alt Bank Long": "-118.1031875"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a17"
+	},
+	"Neighborhood": "Paramount",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "34.2758879",
+	"Alt Bank Long": "-118.3969798"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a18"
+	},
+	"Neighborhood": "Paramount",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.2750342",
+	"Alt Bank Long": "-118.4125222"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a19"
+	},
+	"Neighborhood": "Paramount",
+	"Alt Bank Name": "Sharmeen Enterprises Inc",
+	"Alt Bank Lat": "34.2592044",
+	"Alt Bank Long": "-118.4319707"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ebd82b5b5d64017a1a"
+	},
+	"Neighborhood": "Paramount",
+	"Alt Bank Name": "City Cash Checkers",
+	"Alt Bank Lat": "34.2767691",
+	"Alt Bank Long": "-118.4104684"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a1b"
+	},
+	"Neighborhood": "Paramount",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.2829242",
+	"Alt Bank Long": "-118.4398644"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a1c"
+	},
+	"Neighborhood": "Paramount",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.3092397",
+	"Alt Bank Long": "-118.4318222"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a1d"
+	},
+	"Neighborhood": "Paramount",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.2660882",
+	"Alt Bank Long": "-118.4223883"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a1e"
+	},
+	"Neighborhood": "Rosemead",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.143037",
+	"Alt Bank Long": "-118.247316"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a1f"
+	},
+	"Neighborhood": "Rosemead",
+	"Alt Bank Name": "A to Z Check Cashing / Translator",
+	"Alt Bank Lat": "34.1460271",
+	"Alt Bank Long": "-118.2470629"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a20"
+	},
+	"Neighborhood": "Rosemead",
+	"Alt Bank Name": "E Z Services Call",
+	"Alt Bank Lat": "34.1449004",
+	"Alt Bank Long": "-118.2483232"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a21"
+	},
+	"Neighborhood": "Pacoima",
+	"Alt Bank Name": "1 800 Title Loan",
+	"Alt Bank Lat": "34.1430415",
+	"Alt Bank Long": "-118.2472073"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a22"
+	},
+	"Neighborhood": "South Gate",
+	"Alt Bank Name": "Digital Currency",
+	"Alt Bank Lat": "33.8331739",
+	"Alt Bank Long": "-118.2590659"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a23"
+	},
+	"Neighborhood": "West Compton",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.8478648",
+	"Alt Bank Long": "-118.2635735"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a24"
+	},
+	"Neighborhood": "West Compton",
+	"Alt Bank Name": "Western Avenue Check Cashing",
+	"Alt Bank Lat": "33.8670499",
+	"Alt Bank Long": "-118.3089957"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a25"
+	},
+	"Neighborhood": "West Compton",
+	"Alt Bank Name": "Red Door Investment's Notary Public, Income Tax, Live Scan services, and wedding officiants.",
+	"Alt Bank Lat": "33.8814264",
+	"Alt Bank Long": "-118.2908783"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a26"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0649544",
+	"Alt Bank Long": "-118.0901102"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a27"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Endless Trading Co",
+	"Alt Bank Lat": "34.0631444",
+	"Alt Bank Long": "-118.0668224"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a28"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "G and Z Market and Check Cashing",
+	"Alt Bank Lat": "34.0417789",
+	"Alt Bank Long": "-118.0919267"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a29"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Jack's Check Cashing",
+	"Alt Bank Lat": "33.8322091",
+	"Alt Bank Long": "-118.0715892"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a2a"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "E Money Express Inc",
+	"Alt Bank Lat": "33.8317431",
+	"Alt Bank Long": "-118.0728579"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a2b"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Cash 1",
+	"Alt Bank Lat": "33.8742813",
+	"Alt Bank Long": "-118.1256254"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a2c"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Casa De Cambio Duron",
+	"Alt Bank Lat": "33.8305949",
+	"Alt Bank Long": "-118.0725328"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a2d"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "More Than Cash Inc",
+	"Alt Bank Lat": "33.8425506",
+	"Alt Bank Long": "-118.1233856"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a2e"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.816455",
+	"Alt Bank Long": "-118.04522"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a2f"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.857317",
+	"Alt Bank Long": "-118.117538"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a30"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.8321016",
+	"Alt Bank Long": "-118.0743166"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a31"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "E Z Money Solutions",
+	"Alt Bank Lat": "33.8103362",
+	"Alt Bank Long": "-118.0639351"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a32"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Payday Money Centers- Los Alamitos",
+	"Alt Bank Lat": "33.803557",
+	"Alt Bank Long": "-118.075448"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a33"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.8605158",
+	"Alt Bank Long": "-118.1264621"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a34"
+	},
+	"Neighborhood": "Larchmont",
+	"Alt Bank Name": "Kling \u0026 Pathak LLP",
+	"Alt Bank Lat": "33.8687061",
+	"Alt Bank Long": "-118.0618233"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a35"
+	},
+	"Neighborhood": "Inglewood",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0104326",
+	"Alt Bank Long": "-118.1110578"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a36"
+	},
+	"Neighborhood": "Commerce",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "34.1646262",
+	"Alt Bank Long": "-118.370823"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a37"
+	},
+	"Neighborhood": "Commerce",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.2165196",
+	"Alt Bank Long": "-118.3700783"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a38"
+	},
+	"Neighborhood": "Commerce",
+	"Alt Bank Name": "Vineland Wine Cellar",
+	"Alt Bank Lat": "34.1799276",
+	"Alt Bank Long": "-118.3701126"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a39"
+	},
+	"Neighborhood": "Commerce",
+	"Alt Bank Name": "Checker Cash",
+	"Alt Bank Lat": "34.2147736",
+	"Alt Bank Long": "-118.3631349"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a3a"
+	},
+	"Neighborhood": "Commerce",
+	"Alt Bank Name": "Golden Check Cashing Inc.",
+	"Alt Bank Lat": "34.22822",
+	"Alt Bank Long": "-118.365802"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a3b"
+	},
+	"Neighborhood": "Commerce",
+	"Alt Bank Name": "Vineland Check Cashing-Sun Valley",
+	"Alt Bank Lat": "34.2087324",
+	"Alt Bank Long": "-118.3698666"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a3c"
+	},
+	"Neighborhood": "Commerce",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.1813624",
+	"Alt Bank Long": "-118.3843078"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a3d"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "Check Cashing",
+	"Alt Bank Lat": "34.1394643",
+	"Alt Bank Long": "-118.2133752"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a3e"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.15837",
+	"Alt Bank Long": "-118.1409259"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a3f"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "Digital Currency",
+	"Alt Bank Lat": "34.09576730000001",
+	"Alt Bank Long": "-118.1579318"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a40"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "Lucky Money",
+	"Alt Bank Lat": "34.1412091",
+	"Alt Bank Long": "-118.2253571"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a41"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "Cash 1",
+	"Alt Bank Lat": "34.1581921",
+	"Alt Bank Long": "-118.132705"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a42"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0770677",
+	"Alt Bank Long": "-118.1420454"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a43"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "Cashback Loans",
+	"Alt Bank Lat": "34.1147989",
+	"Alt Bank Long": "-118.1814319"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a44"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "Lankershim Check Cashing Services",
+	"Alt Bank Lat": "34.2043182",
+	"Alt Bank Long": "-118.3886443"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a45"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "34.2468629",
+	"Alt Bank Long": "-118.447763"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a46"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "The Check Cashing Place",
+	"Alt Bank Lat": "34.2471689",
+	"Alt Bank Long": "-118.420198"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a47"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "34.1942773",
+	"Alt Bank Long": "-118.3882869"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a48"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "CFSC",
+	"Alt Bank Lat": "34.247169",
+	"Alt Bank Long": "-118.420198"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a49"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "La Mexicana Check Cashing",
+	"Alt Bank Lat": "34.2704397",
+	"Alt Bank Long": "-118.4169129"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a4a"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "Bronco's Check Cashing",
+	"Alt Bank Lat": "34.257922",
+	"Alt Bank Long": "-118.431711"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a4b"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "Laura's Services",
+	"Alt Bank Lat": "34.2642656",
+	"Alt Bank Long": "-118.4241858"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a4c"
+	},
+	"Neighborhood": "Leimert Park",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.2561037",
+	"Alt Bank Long": "-118.4677272"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a4d"
+	},
+	"Neighborhood": "Highland Park",
+	"Alt Bank Name": "Payday Plus",
+	"Alt Bank Lat": "34.2571646",
+	"Alt Bank Long": "-118.4681364"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a4e"
+	},
+	"Neighborhood": "Highland Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.2167162",
+	"Alt Bank Long": "-118.3880107"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a4f"
+	},
+	"Neighborhood": "Highland Park",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "34.2465671",
+	"Alt Bank Long": "-118.446356"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a50"
+	},
+	"Neighborhood": "Highland Park",
+	"Alt Bank Name": "Alondra Quick Check",
+	"Alt Bank Lat": "33.888467",
+	"Alt Bank Long": "-118.15109"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a51"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.875673",
+	"Alt Bank Long": "-118.1527709"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a52"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9039823",
+	"Alt Bank Long": "-118.1426247"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a53"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "E Money Express, Inc.",
+	"Alt Bank Lat": "33.904121",
+	"Alt Bank Long": "-118.1512662"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a54"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "A Plus Check Cashing And Western Union",
+	"Alt Bank Lat": "34.0808669",
+	"Alt Bank Long": "-118.0580682"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a55"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "Cambio Plus Check Cashing",
+	"Alt Bank Lat": "34.0648504",
+	"Alt Bank Long": "-118.0227354"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a56"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "El Monte Check Cashing",
+	"Alt Bank Lat": "34.0785512",
+	"Alt Bank Long": "-118.0502671"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a57"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "Dos Amigos Check Cashing",
+	"Alt Bank Lat": "34.0472617",
+	"Alt Bank Long": "-118.029796"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a58"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "Giromex Check Cashing",
+	"Alt Bank Lat": "34.0757051",
+	"Alt Bank Long": "-118.0395548"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a59"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.061791",
+	"Alt Bank Long": "-118.018526"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a5a"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0625209",
+	"Alt Bank Long": "-118.0441119"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a5b"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "Order Express",
+	"Alt Bank Lat": "34.074873",
+	"Alt Bank Long": "-118.0389927"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a5c"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "Multi-Services",
+	"Alt Bank Lat": "34.062188",
+	"Alt Bank Long": "-118.0466293"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a5d"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.114086",
+	"Alt Bank Long": "-118.072535"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a5e"
+	},
+	"Neighborhood": "Panorama City",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0635745",
+	"Alt Bank Long": "-118.020828"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a5f"
+	},
+	"Neighborhood": "East Compton",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.0918427",
+	"Alt Bank Long": "-118.0261662"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a60"
+	},
+	"Neighborhood": "East Compton",
+	"Alt Bank Name": "Cashback Loans",
+	"Alt Bank Lat": "34.1131552",
+	"Alt Bank Long": "-118.0740587"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a61"
+	},
+	"Neighborhood": "Mid-City",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "33.8731601",
+	"Alt Bank Long": "-118.3261011"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a62"
+	},
+	"Neighborhood": "Mid-City",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "33.883349",
+	"Alt Bank Long": "-118.3521625"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a63"
+	},
+	"Neighborhood": "Mid-City",
+	"Alt Bank Name": "Safe Check",
+	"Alt Bank Lat": "33.8881051",
+	"Alt Bank Long": "-118.3751002"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a64"
+	},
+	"Neighborhood": "Mid-City",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "33.8737671",
+	"Alt Bank Long": "-118.3540212"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a65"
+	},
+	"Neighborhood": "Mid-City",
+	"Alt Bank Name": "Community Check Cashing",
+	"Alt Bank Lat": "33.854772",
+	"Alt Bank Long": "-118.1853471"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a66"
+	},
+	"Neighborhood": "Mid-City",
+	"Alt Bank Name": "Ace Money Order",
+	"Alt Bank Lat": "33.9029322",
+	"Alt Bank Long": "-118.1681064"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a67"
+	},
+	"Neighborhood": "Mid-City",
+	"Alt Bank Name": "Easy Cash Systems LLC",
+	"Alt Bank Lat": "33.889395",
+	"Alt Bank Long": "-118.184509"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a68"
+	},
+	"Neighborhood": "Hawthorne",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.8736196",
+	"Alt Bank Long": "-118.1869587"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a69"
+	},
+	"Neighborhood": "Hawthorne",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.8584624",
+	"Alt Bank Long": "-118.2656898"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a6a"
+	},
+	"Neighborhood": "Hawthorne",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.888371",
+	"Alt Bank Long": "-118.2078745"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a6b"
+	},
+	"Neighborhood": "Hawthorne",
+	"Alt Bank Name": "Moneytree",
+	"Alt Bank Lat": "33.861097",
+	"Alt Bank Long": "-118.166906"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a6c"
+	},
+	"Neighborhood": "Compton",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.13617139999999",
+	"Alt Bank Long": "-118.2160797"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a6d"
+	},
+	"Neighborhood": "Compton",
+	"Alt Bank Name": "Su Casa de Cambio",
+	"Alt Bank Lat": "33.9690551",
+	"Alt Bank Long": "-118.0974929"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a6e"
+	},
+	"Neighborhood": "Compton",
+	"Alt Bank Name": "Payday Money Centers- Downey",
+	"Alt Bank Lat": "33.966315",
+	"Alt Bank Long": "-118.116378"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a6f"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "The Check Cashing Co.",
+	"Alt Bank Lat": "34.2008842",
+	"Alt Bank Long": "-118.418687"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a70"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "34.1940649",
+	"Alt Bank Long": "-118.4489902"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a71"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Louies Liquor \u0026 Check Cashing",
+	"Alt Bank Lat": "34.1942023",
+	"Alt Bank Long": "-118.4921795"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a72"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "24-7cashadvance",
+	"Alt Bank Lat": "34.154794",
+	"Alt Bank Long": "-118.476573"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a73"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Super Plus Check Cashing",
+	"Alt Bank Lat": "34.2284465",
+	"Alt Bank Long": "-118.4648702"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a74"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "34.220819",
+	"Alt Bank Long": "-118.4681137"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a75"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Community Check Cashing",
+	"Alt Bank Lat": "34.1936741",
+	"Alt Bank Long": "-118.4394595"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a76"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "La Check Cashers",
+	"Alt Bank Lat": "34.2323372",
+	"Alt Bank Long": "-118.468095"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a77"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Sherman Oaks - Los Angeles Check Cashing",
+	"Alt Bank Lat": "34.1523723",
+	"Alt Bank Long": "-118.4607954"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a78"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Ariva Check Express",
+	"Alt Bank Lat": "34.1942795",
+	"Alt Bank Long": "-118.4307771"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a79"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Cashnet Financial Services Center",
+	"Alt Bank Lat": "34.20158500000001",
+	"Alt Bank Long": "-118.482986"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a7a"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.234696",
+	"Alt Bank Long": "-118.467006"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a7b"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Valley Cash Depot",
+	"Alt Bank Lat": "34.1944335",
+	"Alt Bank Long": "-118.431756"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a7c"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.1863679",
+	"Alt Bank Long": "-118.3967084"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a7d"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Universal Service Exchange Inc",
+	"Alt Bank Lat": "34.1870061",
+	"Alt Bank Long": "-118.4406994"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a7e"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Doc's Cash Services",
+	"Alt Bank Lat": "34.2151369",
+	"Alt Bank Long": "-118.396782"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a7f"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.2356916",
+	"Alt Bank Long": "-118.4498512"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a80"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Papa Cash",
+	"Alt Bank Lat": "34.186959",
+	"Alt Bank Long": "-118.449045"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a81"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "E A Bioxpress California LLC",
+	"Alt Bank Lat": "34.1996145",
+	"Alt Bank Long": "-118.4477979"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a82"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.2010057",
+	"Alt Bank Long": "-118.4497558"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a83"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.2220205",
+	"Alt Bank Long": "-118.4485074"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a84"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Cash Plus",
+	"Alt Bank Lat": "34.2348013",
+	"Alt Bank Long": "-118.4839146"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a85"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.2014406",
+	"Alt Bank Long": "-118.4116672"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a86"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.2014248",
+	"Alt Bank Long": "-118.5015498"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a87"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.2008336",
+	"Alt Bank Long": "-118.4322143"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a88"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.2209743",
+	"Alt Bank Long": "-118.396723"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a89"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.2137069",
+	"Alt Bank Long": "-118.4491876"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a8a"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Cash Expres (CE Loans)",
+	"Alt Bank Lat": "34.222399",
+	"Alt Bank Long": "-118.4672465"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a8b"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "La Mexicana Check Cashing 3",
+	"Alt Bank Lat": "34.1868505",
+	"Alt Bank Long": "-118.446278"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a8c"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Check Cash Payday Loan",
+	"Alt Bank Lat": "34.1977095",
+	"Alt Bank Long": "-118.3960673"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a8d"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Payday Advance",
+	"Alt Bank Lat": "34.2007796",
+	"Alt Bank Long": "-118.4089851"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a8e"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Jet Cash Loans",
+	"Alt Bank Lat": "34.1941359",
+	"Alt Bank Long": "-118.491832"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a8f"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "33.7796424",
+	"Alt Bank Long": "-118.2645516"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a90"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "One Stop Checks Cashed",
+	"Alt Bank Lat": "33.8018909",
+	"Alt Bank Long": "-118.2150942"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a91"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "World Check Cashing Services",
+	"Alt Bank Lat": "33.7909066",
+	"Alt Bank Long": "-118.2736943"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a92"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Gaffey Check Cashing",
+	"Alt Bank Lat": "33.7411126",
+	"Alt Bank Long": "-118.2921103"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a93"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Tienda Durango (Casa DE CAmbio)",
+	"Alt Bank Lat": "33.8041285",
+	"Alt Bank Long": "-118.216315"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a94"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Tienda Mi Mexico",
+	"Alt Bank Lat": "33.7905968",
+	"Alt Bank Long": "-118.2667476"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a95"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Smart Payday Loan",
+	"Alt Bank Lat": "33.7527196",
+	"Alt Bank Long": "-118.3094479"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a96"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Ria Check Cashing",
+	"Alt Bank Lat": "33.7906903",
+	"Alt Bank Long": "-118.2661896"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a97"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "California Cash",
+	"Alt Bank Lat": "33.831896",
+	"Alt Bank Long": "-118.298066"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a98"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.811283",
+	"Alt Bank Long": "-118.264729"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a99"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Comet",
+	"Alt Bank Lat": "33.7908172",
+	"Alt Bank Long": "-118.275435"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a9a"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "Papa Cash",
+	"Alt Bank Lat": "33.7796347",
+	"Alt Bank Long": "-118.2645166"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a9b"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.7897027",
+	"Alt Bank Long": "-118.3002513"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a9c"
+	},
+	"Neighborhood": "Maywood",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.7791518",
+	"Alt Bank Long": "-118.2743789"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a9d"
+	},
+	"Neighborhood": "Van Nuys",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.7797638",
+	"Alt Bank Long": "-118.2627033"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a9e"
+	},
+	"Neighborhood": "Van Nuys",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.7803115",
+	"Alt Bank Long": "-118.2646649"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017a9f"
+	},
+	"Neighborhood": "Van Nuys",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.831282",
+	"Alt Bank Long": "-118.3083048"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aa0"
+	},
+	"Neighborhood": "Van Nuys",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "33.8165465",
+	"Alt Bank Long": "-118.3097881"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aa1"
+	},
+	"Neighborhood": "Van Nuys",
+	"Alt Bank Name": "Check `n Go",
+	"Alt Bank Lat": "33.827624",
+	"Alt Bank Long": "-118.2642065"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aa2"
+	},
+	"Neighborhood": "Hyde Park",
+	"Alt Bank Name": "Order Express",
+	"Alt Bank Lat": "33.9738729",
+	"Alt Bank Long": "-118.2240071"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aa3"
+	},
+	"Neighborhood": "Huntington Park",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9705546",
+	"Alt Bank Long": "-118.1633341"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aa4"
+	},
+	"Neighborhood": "Huntington Park",
+	"Alt Bank Name": "E-Z Check Cashing",
+	"Alt Bank Lat": "33.956637",
+	"Alt Bank Long": "-118.1606898"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aa5"
+	},
+	"Neighborhood": "Huntington Park",
+	"Alt Bank Name": "Bell Garden Check Cashing",
+	"Alt Bank Lat": "33.9636777",
+	"Alt Bank Long": "-118.1657975"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aa6"
+	},
+	"Neighborhood": "Huntington Park",
+	"Alt Bank Name": "Alamo Loans",
+	"Alt Bank Lat": "33.9372725",
+	"Alt Bank Long": "-118.1298234"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aa7"
+	},
+	"Neighborhood": "Huntington Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9668363",
+	"Alt Bank Long": "-118.1577426"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aa8"
+	},
+	"Neighborhood": "Huntington Park",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.955127",
+	"Alt Bank Long": "-118.129146"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aa9"
+	},
+	"Neighborhood": "Huntington Park",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.9173641",
+	"Alt Bank Long": "-118.1384465"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aaa"
+	},
+	"Neighborhood": "Huntington Park",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "33.9954602",
+	"Alt Bank Long": "-118.1193505"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aab"
+	},
+	"Neighborhood": "Huntington Park",
+	"Alt Bank Name": "Yoddys Check Cashing",
+	"Alt Bank Lat": "34.0271498",
+	"Alt Bank Long": "-118.1457606"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aac"
+	},
+	"Neighborhood": "Huntington Park",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.018899",
+	"Alt Bank Long": "-118.149532"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aad"
+	},
+	"Neighborhood": "Cudahy",
+	"Alt Bank Name": "Su Casa De Cambio",
+	"Alt Bank Lat": "34.0119007",
+	"Alt Bank Long": "-118.1311006"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aae"
+	},
+	"Neighborhood": "Cudahy",
+	"Alt Bank Name": "Speedy Paycheck Advance",
+	"Alt Bank Lat": "34.0340565",
+	"Alt Bank Long": "-118.1510994"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aaf"
+	},
+	"Neighborhood": "Cudahy",
+	"Alt Bank Name": "Mario's Check Cashing",
+	"Alt Bank Lat": "33.9909481",
+	"Alt Bank Long": "-118.1217975"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ab0"
+	},
+	"Neighborhood": "Cudahy",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0305852",
+	"Alt Bank Long": "-118.1516282"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ab1"
+	},
+	"Neighborhood": "Cudahy",
+	"Alt Bank Name": "Su Casa de Cambio",
+	"Alt Bank Lat": "34.0143079",
+	"Alt Bank Long": "-118.1269614"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ab2"
+	},
+	"Neighborhood": "Cudahy",
+	"Alt Bank Name": "Southland Federal Enterprises",
+	"Alt Bank Lat": "34.0332162",
+	"Alt Bank Long": "-118.1529494"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ab3"
+	},
+	"Neighborhood": "Cudahy",
+	"Alt Bank Name": "Utility Payment Center",
+	"Alt Bank Lat": "34.021649",
+	"Alt Bank Long": "-118.1640872"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ab4"
+	},
+	"Neighborhood": "Cudahy",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0229413",
+	"Alt Bank Long": "-118.1343389"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ab5"
+	},
+	"Neighborhood": "Cudahy",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.040927",
+	"Alt Bank Long": "-118.190882"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ab6"
+	},
+	"Neighborhood": "East Los Angeles",
+	"Alt Bank Name": "Central Check Cashing",
+	"Alt Bank Lat": "33.872006",
+	"Alt Bank Long": "-118.2489391"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ab7"
+	},
+	"Neighborhood": "East Los Angeles",
+	"Alt Bank Name": "Ccs Checks cashed",
+	"Alt Bank Lat": "33.8957605",
+	"Alt Bank Long": "-118.2228538"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ab8"
+	},
+	"Neighborhood": "West Adams",
+	"Alt Bank Name": "Cash Plus",
+	"Alt Bank Lat": "33.924425",
+	"Alt Bank Long": "-118.3948852"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ab9"
+	},
+	"Neighborhood": "Baldwin Hills/Crenshaw",
+	"Alt Bank Name": "Kinecta Federal Credit Union HQ",
+	"Alt Bank Lat": "33.90133429999999",
+	"Alt Bank Long": "-118.3892509"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aba"
+	},
+	"Neighborhood": "Baldwin Hills/Crenshaw",
+	"Alt Bank Name": "America Cash Recovery Systems",
+	"Alt Bank Lat": "33.9591908",
+	"Alt Bank Long": "-118.3914552"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017abb"
+	},
+	"Neighborhood": "Baldwin Hills/Crenshaw",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9161912",
+	"Alt Bank Long": "-118.36062"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017abc"
+	},
+	"Neighborhood": "Baldwin Hills/Crenshaw",
+	"Alt Bank Name": "Envios de Dinero Check Cashing",
+	"Alt Bank Lat": "33.9348286",
+	"Alt Bank Long": "-118.3528345"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017abd"
+	},
+	"Neighborhood": "Echo Park",
+	"Alt Bank Name": "The Check Cashing Place",
+	"Alt Bank Lat": "33.9747742",
+	"Alt Bank Long": "-118.3579226"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017abe"
+	},
+	"Neighborhood": "Exposition Park",
+	"Alt Bank Name": "La Cienega - Los Angeles Check Cashing",
+	"Alt Bank Lat": "34.0730961",
+	"Alt Bank Long": "-118.3769697"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017abf"
+	},
+	"Neighborhood": "Exposition Park",
+	"Alt Bank Name": "PayPal",
+	"Alt Bank Lat": "34.0927042",
+	"Alt Bank Long": "-118.3782864"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ac0"
+	},
+	"Neighborhood": "Exposition Park",
+	"Alt Bank Name": "Spartan Payday Loan LLC",
+	"Alt Bank Lat": "34.0873273",
+	"Alt Bank Long": "-118.3807165"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ac1"
+	},
+	"Neighborhood": "Exposition Park",
+	"Alt Bank Name": "Check Cashing",
+	"Alt Bank Lat": "34.0203329",
+	"Alt Bank Long": "-118.1581001"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ac2"
+	},
+	"Neighborhood": "Exposition Park",
+	"Alt Bank Name": "Pirmera Check Cashing",
+	"Alt Bank Lat": "34.0220091",
+	"Alt Bank Long": "-118.1661126"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ac3"
+	},
+	"Neighborhood": "Exposition Park",
+	"Alt Bank Name": "A to Z",
+	"Alt Bank Lat": "34.0165035",
+	"Alt Bank Long": "-118.1613984"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ac4"
+	},
+	"Neighborhood": "Hollywood",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.02063",
+	"Alt Bank Long": "-118.160524"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ac5"
+	},
+	"Neighborhood": "Hollywood",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "34.020716",
+	"Alt Bank Long": "-118.1570095"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ac6"
+	},
+	"Neighborhood": "Hollywood",
+	"Alt Bank Name": "Digital Currency Services",
+	"Alt Bank Lat": "34.0307",
+	"Alt Bank Long": "-118.2206"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ac7"
+	},
+	"Neighborhood": "Hollywood",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9900607",
+	"Alt Bank Long": "-118.185113"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ac8"
+	},
+	"Neighborhood": "Hollywood",
+	"Alt Bank Name": "Mundo Check Cashing #2",
+	"Alt Bank Lat": "34.0224594",
+	"Alt Bank Long": "-118.1571196"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ac9"
+	},
+	"Neighborhood": "Hollywood",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9879767",
+	"Alt Bank Long": "-118.1859585"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aca"
+	},
+	"Neighborhood": "Boyle Heights",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "33.9447177",
+	"Alt Bank Long": "-118.3524055"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017acb"
+	},
+	"Neighborhood": "Boyle Heights",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "33.9268622",
+	"Alt Bank Long": "-118.3519662"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017acc"
+	},
+	"Neighborhood": "Jefferson Park",
+	"Alt Bank Name": "El Zorro Check Cashing",
+	"Alt Bank Lat": "33.9383604",
+	"Alt Bank Long": "-118.3533972"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017acd"
+	},
+	"Neighborhood": "Jefferson Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9615406",
+	"Alt Bank Long": "-118.3538019"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ace"
+	},
+	"Neighborhood": "Jefferson Park",
+	"Alt Bank Name": "Cash 1",
+	"Alt Bank Lat": "33.9009244",
+	"Alt Bank Long": "-118.3521854"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017acf"
+	},
+	"Neighborhood": "Jefferson Park",
+	"Alt Bank Name": "Cash In A Flash",
+	"Alt Bank Lat": "33.9747742",
+	"Alt Bank Long": "-118.3579226"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ad0"
+	},
+	"Neighborhood": "Jefferson Park",
+	"Alt Bank Name": "Cash Depot",
+	"Alt Bank Lat": "33.9159242",
+	"Alt Bank Long": "-118.3530065"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ad1"
+	},
+	"Neighborhood": "Central-Alameda",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0211237",
+	"Alt Bank Long": "-118.3726737"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ad2"
+	},
+	"Neighborhood": "Arlington Heights",
+	"Alt Bank Name": "PLS Check Cashing \u0026 Transportation Services",
+	"Alt Bank Lat": "33.8948649",
+	"Alt Bank Long": "-118.3442329"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ad3"
+	},
+	"Neighborhood": "Arlington Heights",
+	"Alt Bank Name": "K 3 Alliance Inc",
+	"Alt Bank Lat": "33.8920118",
+	"Alt Bank Long": "-118.2952443"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ad4"
+	},
+	"Neighborhood": "Arlington Heights",
+	"Alt Bank Name": "Hawthorn Quick Check",
+	"Alt Bank Lat": "33.9159862",
+	"Alt Bank Long": "-118.3441364"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ad5"
+	},
+	"Neighborhood": "Arlington Heights",
+	"Alt Bank Name": "Orange Rocket",
+	"Alt Bank Lat": "33.8925035",
+	"Alt Bank Long": "-118.3088494"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ad6"
+	},
+	"Neighborhood": "Green Meadows",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9004756",
+	"Alt Bank Long": "-118.3427133"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ad7"
+	},
+	"Neighborhood": "Vermont Vista",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.989212",
+	"Alt Bank Long": "-118.3347094"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ad8"
+	},
+	"Neighborhood": "Historic South-Central",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.088766",
+	"Alt Bank Long": "-118.170713"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ad9"
+	},
+	"Neighborhood": "Historic South-Central",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0869983",
+	"Alt Bank Long": "-118.1753333"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ada"
+	},
+	"Neighborhood": "Historic South-Central",
+	"Alt Bank Name": "Cash It Here Inc",
+	"Alt Bank Lat": "34.0466477",
+	"Alt Bank Long": "-118.2070009"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017adb"
+	},
+	"Neighborhood": "Historic South-Central",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0206312",
+	"Alt Bank Long": "-118.3560162"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017adc"
+	},
+	"Neighborhood": "Lincoln Heights",
+	"Alt Bank Name": "Hollywood Check Cashing",
+	"Alt Bank Lat": "34.0975368",
+	"Alt Bank Long": "-118.3430917"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017add"
+	},
+	"Neighborhood": "Koreatown",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.1336388",
+	"Alt Bank Long": "-118.2552002"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ade"
+	},
+	"Neighborhood": "Koreatown",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "34.0983065",
+	"Alt Bank Long": "-118.3326283"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017adf"
+	},
+	"Neighborhood": "Koreatown",
+	"Alt Bank Name": "Zest Cash Inc",
+	"Alt Bank Lat": "34.0982078",
+	"Alt Bank Long": "-118.3298353"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ae0"
+	},
+	"Neighborhood": "Koreatown",
+	"Alt Bank Name": "Cash It Here Inc",
+	"Alt Bank Lat": "34.1017613",
+	"Alt Bank Long": "-118.3332219"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ae1"
+	},
+	"Neighborhood": "Koreatown",
+	"Alt Bank Name": "71 Fund",
+	"Alt Bank Lat": "34.090641",
+	"Alt Bank Long": "-118.3049108"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ae2"
+	},
+	"Neighborhood": "Koreatown",
+	"Alt Bank Name": "Servimax",
+	"Alt Bank Lat": "34.0910449",
+	"Alt Bank Long": "-118.3080219"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ae3"
+	},
+	"Neighborhood": "Koreatown",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.1018176",
+	"Alt Bank Long": "-118.3331857"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ae4"
+	},
+	"Neighborhood": "Koreatown",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0475036",
+	"Alt Bank Long": "-118.344567"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ae5"
+	},
+	"Neighborhood": "East Hollywood",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9892473",
+	"Alt Bank Long": "-118.3312428"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ae6"
+	},
+	"Neighborhood": "East Hollywood",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0296146",
+	"Alt Bank Long": "-118.334594"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ae7"
+	},
+	"Neighborhood": "Vermont Square",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "34.0322482",
+	"Alt Bank Long": "-118.3515703"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ae8"
+	},
+	"Neighborhood": "Broadway-Manchester",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "34.040072",
+	"Alt Bank Long": "-118.3471959"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017ae9"
+	},
+	"Neighborhood": "Broadway-Manchester",
+	"Alt Bank Name": "Dinero Rapido Check Casting",
+	"Alt Bank Lat": "34.0505804",
+	"Alt Bank Long": "-118.3439031"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aea"
+	},
+	"Neighborhood": "Broadway-Manchester",
+	"Alt Bank Name": "Cash N Run",
+	"Alt Bank Lat": "34.0509341",
+	"Alt Bank Long": "-118.3446563"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aeb"
+	},
+	"Neighborhood": "Broadway-Manchester",
+	"Alt Bank Name": "W \u0026 S Global International",
+	"Alt Bank Lat": "34.0440719",
+	"Alt Bank Long": "-118.3005384"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aec"
+	},
+	"Neighborhood": "Broadway-Manchester",
+	"Alt Bank Name": "Ralph's Money Services",
+	"Alt Bank Lat": "34.0202102",
+	"Alt Bank Long": "-118.3546423"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aed"
+	},
+	"Neighborhood": "Adams-Normandie",
+	"Alt Bank Name": "The Check Cashers #2",
+	"Alt Bank Lat": "33.9307339",
+	"Alt Bank Long": "-118.2874005"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aee"
+	},
+	"Neighborhood": "South Park",
+	"Alt Bank Name": "Maywood Quik Check",
+	"Alt Bank Lat": "33.9884883",
+	"Alt Bank Long": "-118.2029521"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aef"
+	},
+	"Neighborhood": "South Park",
+	"Alt Bank Name": "Cambio Plus Check Cashing",
+	"Alt Bank Lat": "33.9888606",
+	"Alt Bank Long": "-118.2009984"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017af0"
+	},
+	"Neighborhood": "South Park",
+	"Alt Bank Name": "Money Express",
+	"Alt Bank Lat": "33.9740226",
+	"Alt Bank Long": "-118.2250828"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017af1"
+	},
+	"Neighborhood": "South Park",
+	"Alt Bank Name": "A Check Cashing",
+	"Alt Bank Lat": "33.9877048",
+	"Alt Bank Long": "-118.1936509"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017af2"
+	},
+	"Neighborhood": "South Park",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.004037",
+	"Alt Bank Long": "-118.2732041"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017af3"
+	},
+	"Neighborhood": "South Park",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "34.1156222",
+	"Alt Bank Long": "-118.2462207"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017af4"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.1142096",
+	"Alt Bank Long": "-118.2446019"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017af5"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "33.9741936",
+	"Alt Bank Long": "-118.3312663"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017af6"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9601758",
+	"Alt Bank Long": "-118.3201451"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017af7"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "Avalon Check Cashing",
+	"Alt Bank Lat": "33.9352724",
+	"Alt Bank Long": "-118.3435285"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017af8"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9341686",
+	"Alt Bank Long": "-118.3269491"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017af9"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0078647",
+	"Alt Bank Long": "-118.3363782"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017afa"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9330086",
+	"Alt Bank Long": "-118.3261619"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017afb"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "33.9162903",
+	"Alt Bank Long": "-118.3272134"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017afc"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "Avalon Check Cashing",
+	"Alt Bank Lat": "33.945717",
+	"Alt Bank Long": "-118.3483566"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017afd"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "Emmett Cash \u0026 Associates",
+	"Alt Bank Lat": "33.9529017",
+	"Alt Bank Long": "-118.3282181"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017afe"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "Western AVE Check Cashing Services",
+	"Alt Bank Lat": "33.9170224",
+	"Alt Bank Long": "-118.3088885"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017aff"
+	},
+	"Neighborhood": "Florence",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9314238",
+	"Alt Bank Long": "-118.300008"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b00"
+	},
+	"Neighborhood": "Vermont Knolls",
+	"Alt Bank Name": "Compremex",
+	"Alt Bank Lat": "34.0603095",
+	"Alt Bank Long": "-118.2743849"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b01"
+	},
+	"Neighborhood": "Vermont Knolls",
+	"Alt Bank Name": "Digital Currency Services",
+	"Alt Bank Lat": "34.0726686",
+	"Alt Bank Long": "-118.291486"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b02"
+	},
+	"Neighborhood": "Vermont Knolls",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0986124",
+	"Alt Bank Long": "-118.3119302"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b03"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Rose Vine Exchange",
+	"Alt Bank Lat": "34.0847337",
+	"Alt Bank Long": "-118.3263203"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b04"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "East Hollywood Currency Services",
+	"Alt Bank Lat": "34.0905512",
+	"Alt Bank Long": "-118.3103498"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b05"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Enbioxpress California LLC",
+	"Alt Bank Lat": "34.090525",
+	"Alt Bank Long": "-118.308732"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b06"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Digital Currency Services Inc",
+	"Alt Bank Lat": "34.039774",
+	"Alt Bank Long": "-118.2921629"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b07"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Cash For Gold",
+	"Alt Bank Lat": "34.04759110000001",
+	"Alt Bank Long": "-118.3087036"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b08"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "The Check Cashing",
+	"Alt Bank Lat": "33.9307225",
+	"Alt Bank Long": "-118.2874643"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b09"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "33.9728452",
+	"Alt Bank Long": "-118.2097472"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b0a"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9268394",
+	"Alt Bank Long": "-118.2387506"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b0b"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9036359",
+	"Alt Bank Long": "-118.2376684"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b0c"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "California Check Cashing Stores",
+	"Alt Bank Lat": "33.9836274",
+	"Alt Bank Long": "-118.1855694"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b0d"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Money Mart",
+	"Alt Bank Lat": "33.9594739",
+	"Alt Bank Long": "-118.2912797"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b0e"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Su Casa de Cambio - Huntington Park",
+	"Alt Bank Lat": "33.9834398",
+	"Alt Bank Long": "-118.2254125"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b0f"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Goyo's Check Cashing",
+	"Alt Bank Lat": "33.930218",
+	"Alt Bank Long": "-118.205193"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b10"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "The Check Cashers #3",
+	"Alt Bank Lat": "33.9458228",
+	"Alt Bank Long": "-118.2743602"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b11"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9438561",
+	"Alt Bank Long": "-118.244298"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b12"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "The Check Cashing Place",
+	"Alt Bank Lat": "33.9739763",
+	"Alt Bank Long": "-118.2249589"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b13"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Midtown Check Cashing",
+	"Alt Bank Lat": "33.9745009",
+	"Alt Bank Long": "-118.2781537"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b14"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "K \u0026 W Check Cashing",
+	"Alt Bank Lat": "33.9025904",
+	"Alt Bank Long": "-118.2922435"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b15"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Wil Y Gra Check Cashing",
+	"Alt Bank Lat": "33.9394123",
+	"Alt Bank Long": "-118.2138174"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b16"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Gage Check Cashing",
+	"Alt Bank Lat": "33.9823202",
+	"Alt Bank Long": "-118.2387771"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b17"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "E Money Express, Inc.",
+	"Alt Bank Lat": "33.9334949",
+	"Alt Bank Long": "-118.2656389"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b18"
+	},
+	"Neighborhood": "Westlake",
+	"Alt Bank Name": "Florence Check Cashing",
+	"Alt Bank Lat": "33.9738174",
+	"Alt Bank Long": "-118.2227708"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b19"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "The Check Cashing Place",
+	"Alt Bank Lat": "33.957857",
+	"Alt Bank Long": "-118.231333"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b1a"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Cambio Plus Check Cashing \u0026 Ria Financial Service",
+	"Alt Bank Lat": "33.9567515",
+	"Alt Bank Long": "-118.2240168"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b1b"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Golden Check Cashing",
+	"Alt Bank Lat": "33.9141968",
+	"Alt Bank Long": "-118.2642832"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b1c"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Golden Check Cashing",
+	"Alt Bank Lat": "33.91140499999999",
+	"Alt Bank Long": "-118.2091959"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b1d"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "33.9281354",
+	"Alt Bank Long": "-118.2111747"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b1e"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Check 4 Cash",
+	"Alt Bank Lat": "33.943872",
+	"Alt Bank Long": "-118.1989996"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b1f"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.974482",
+	"Alt Bank Long": "-118.229997"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b20"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9603159",
+	"Alt Bank Long": "-118.2785888"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b21"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9643565",
+	"Alt Bank Long": "-118.2247405"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b22"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Cambio Plus Check Cashing",
+	"Alt Bank Lat": "33.975094",
+	"Alt Bank Long": "-118.25221"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b23"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Mahogany Check Cashing Services",
+	"Alt Bank Lat": "33.9239814",
+	"Alt Bank Long": "-118.2539757"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b24"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "33.9038314",
+	"Alt Bank Long": "-118.1936754"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b25"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.8957653",
+	"Alt Bank Long": "-118.2364932"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b26"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Cambio Plus Check Cashing",
+	"Alt Bank Lat": "33.8962183",
+	"Alt Bank Long": "-118.2028394"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b27"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "CFSC",
+	"Alt Bank Lat": "33.957752",
+	"Alt Bank Long": "-118.2313743"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b28"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.8957464",
+	"Alt Bank Long": "-118.2227423"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b29"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "33.934108",
+	"Alt Bank Long": "-118.212112"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b2a"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.89491",
+	"Alt Bank Long": "-118.2084218"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b2b"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "PayPal",
+	"Alt Bank Lat": "33.9816416",
+	"Alt Bank Long": "-118.2906966"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b2c"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Quick Cash",
+	"Alt Bank Lat": "33.9363311",
+	"Alt Bank Long": "-118.2086874"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b2d"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "E Money Express, Inc.",
+	"Alt Bank Lat": "33.9789549",
+	"Alt Bank Long": "-118.1926361"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b2e"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9754356",
+	"Alt Bank Long": "-118.2478928"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b2f"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9166444",
+	"Alt Bank Long": "-118.2642678"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b30"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Cash N Dash Financial Services",
+	"Alt Bank Lat": "33.901574",
+	"Alt Bank Long": "-118.2936949"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b31"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.97484730000001",
+	"Alt Bank Long": "-118.2288204"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b32"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9454866",
+	"Alt Bank Long": "-118.2545413"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b33"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9747715",
+	"Alt Bank Long": "-118.2925478"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b34"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.931801",
+	"Alt Bank Long": "-118.2830386"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b35"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Huntington Park Cash Register",
+	"Alt Bank Lat": "33.9767624",
+	"Alt Bank Long": "-118.2241082"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b36"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "check cashing",
+	"Alt Bank Lat": "33.923188",
+	"Alt Bank Long": "-118.2661382"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b37"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.9307061",
+	"Alt Bank Long": "-118.2830049"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b38"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.902352",
+	"Alt Bank Long": "-118.2911113"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b39"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9745699",
+	"Alt Bank Long": "-118.253023"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b3a"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9277169",
+	"Alt Bank Long": "-118.1842956"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b3b"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9284247",
+	"Alt Bank Long": "-118.1991974"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b3c"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.895589",
+	"Alt Bank Long": "-118.237151"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b3d"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9740478",
+	"Alt Bank Long": "-118.225665"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b3e"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "33.9744643",
+	"Alt Bank Long": "-118.2824592"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b3f"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9831505",
+	"Alt Bank Long": "-118.2912656"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b40"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9744683",
+	"Alt Bank Long": "-118.2833482"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b41"
+	},
+	"Neighborhood": "Pico-Union",
+	"Alt Bank Name": "Unipago CA # 20 Check Cashing",
+	"Alt Bank Lat": "34.0900225",
+	"Alt Bank Long": "-118.2912717"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b42"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "Su Casa De Cambio",
+	"Alt Bank Lat": "34.0361818",
+	"Alt Bank Long": "-118.187246"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b43"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "34.0409272",
+	"Alt Bank Long": "-118.1844221"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b44"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "New Tower Check Cashing Highland Park",
+	"Alt Bank Lat": "34.1079454",
+	"Alt Bank Long": "-118.1966919"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b45"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.1080121",
+	"Alt Bank Long": "-118.1966793"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b46"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0363753",
+	"Alt Bank Long": "-118.1916756"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b47"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.1059016",
+	"Alt Bank Long": "-118.1997929"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b48"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "Speedy Cash",
+	"Alt Bank Lat": "34.0581162",
+	"Alt Bank Long": "-118.271151"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b49"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "Union Check Cashing",
+	"Alt Bank Lat": "34.0493721",
+	"Alt Bank Long": "-118.3084179"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b4a"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0040542",
+	"Alt Bank Long": "-118.2924109"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b4b"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "Check Cashing Center",
+	"Alt Bank Lat": "33.9891839",
+	"Alt Bank Long": "-118.3312117"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b4c"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0401184",
+	"Alt Bank Long": "-118.3084546"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b4d"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "34.0439627",
+	"Alt Bank Long": "-118.3085231"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b4e"
+	},
+	"Neighborhood": "Watts",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0109998",
+	"Alt Bank Long": "-118.3086828"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b4f"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0475639",
+	"Alt Bank Long": "-118.3085231"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b50"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0480632",
+	"Alt Bank Long": "-118.3268208"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b51"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "33.9883617",
+	"Alt Bank Long": "-118.2895982"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b52"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Cash Depot, Inc",
+	"Alt Bank Lat": "34.0257985",
+	"Alt Bank Long": "-118.3082437"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b53"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Angel Enterprise",
+	"Alt Bank Lat": "34.0155626",
+	"Alt Bank Long": "-118.2743889"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b54"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Cash Flow Note Investors",
+	"Alt Bank Lat": "34.0047856",
+	"Alt Bank Long": "-118.3338325"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b55"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0404147",
+	"Alt Bank Long": "-118.3312921"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b56"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Check Into Cash",
+	"Alt Bank Lat": "34.016585",
+	"Alt Bank Long": "-118.335599"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b57"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "33.9887585",
+	"Alt Bank Long": "-118.3087527"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b58"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0103865",
+	"Alt Bank Long": "-118.3094447"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b59"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Olympic Check Cashing",
+	"Alt Bank Lat": "34.0184026",
+	"Alt Bank Long": "-118.2064118"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b5a"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "34.0445909",
+	"Alt Bank Long": "-118.276306"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b5b"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Mundo Check Cashing #4",
+	"Alt Bank Lat": "34.0474677",
+	"Alt Bank Long": "-118.2858348"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b5c"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "City Check Cashers",
+	"Alt Bank Lat": "34.0570666",
+	"Alt Bank Long": "-118.2915045"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b5d"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "First Central Check Cashing",
+	"Alt Bank Lat": "34.0040935",
+	"Alt Bank Long": "-118.2567269"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b5e"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "The Check Cashing Place",
+	"Alt Bank Lat": "34.0686394",
+	"Alt Bank Long": "-118.2920126"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b5f"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "King City Checks",
+	"Alt Bank Lat": "34.0164562",
+	"Alt Bank Long": "-118.2557433"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b60"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0469576",
+	"Alt Bank Long": "-118.2521516"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b61"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Wely Gra Check Cashing",
+	"Alt Bank Lat": "34.0043166",
+	"Alt Bank Long": "-118.2426499"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b62"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Go - Plaz Check Cashing",
+	"Alt Bank Lat": "34.0252922",
+	"Alt Bank Long": "-118.2593423"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b63"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Alameda Check Cashing",
+	"Alt Bank Lat": "34.00244",
+	"Alt Bank Long": "-118.2399144"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b64"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Color Check Cashing",
+	"Alt Bank Lat": "34.0451162",
+	"Alt Bank Long": "-118.2529638"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b65"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0466833",
+	"Alt Bank Long": "-118.2070169"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b66"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "34.03421",
+	"Alt Bank Long": "-118.2164092"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b67"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "E Z Check Cashing",
+	"Alt Bank Lat": "34.0192714",
+	"Alt Bank Long": "-118.2401448"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b68"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Hana Check Cashing",
+	"Alt Bank Lat": "34.021471",
+	"Alt Bank Long": "-118.271291"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b69"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "San Pedro Check Cashing",
+	"Alt Bank Lat": "34.0261711",
+	"Alt Bank Long": "-118.270844"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b6a"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Beverly Kenmore Check Cashing",
+	"Alt Bank Lat": "34.07618739999999",
+	"Alt Bank Long": "-118.2967989"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b6b"
+	},
+	"Neighborhood": "Chinatown",
+	"Alt Bank Name": "Angel Check Cashing",
+	"Alt Bank Lat": "34.0436526",
+	"Alt Bank Long": "-118.2555609"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b6c"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "avalon quik check",
+	"Alt Bank Lat": "34.00421499999999",
+	"Alt Bank Long": "-118.2655189"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b6d"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Cosomos Check Cashing",
+	"Alt Bank Lat": "34.02662189999999",
+	"Alt Bank Long": "-118.2673541"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b6e"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Broadway Check Cashing",
+	"Alt Bank Lat": "34.0733966",
+	"Alt Bank Long": "-118.2158006"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b6f"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Santee Market Check Cashing",
+	"Alt Bank Lat": "34.0414343",
+	"Alt Bank Long": "-118.2512"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b70"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "CFSC",
+	"Alt Bank Lat": "34.0686358",
+	"Alt Bank Long": "-118.2920819"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b71"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Elite Check Cashing",
+	"Alt Bank Lat": "34.0397584",
+	"Alt Bank Long": "-118.3010449"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b72"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Campers Corner",
+	"Alt Bank Lat": "34.0396308",
+	"Alt Bank Long": "-118.2454618"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b73"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "3rd Street Check Cashing and Loans",
+	"Alt Bank Lat": "34.0692379",
+	"Alt Bank Long": "-118.295687"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b74"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Hollystart Check Cashing",
+	"Alt Bank Lat": "34.0427081",
+	"Alt Bank Long": "-118.2492679"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b75"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Santa Fe Check Cashing",
+	"Alt Bank Lat": "34.0217574",
+	"Alt Bank Long": "-118.204345"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b76"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Third \u0026 Normandie Check Cash",
+	"Alt Bank Lat": "34.0691852",
+	"Alt Bank Long": "-118.2998458"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b77"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Wally's Market \u0026 Check Cashing",
+	"Alt Bank Lat": "34.02629520000001",
+	"Alt Bank Long": "-118.258562"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b78"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "PLS Check Cashing",
+	"Alt Bank Lat": "34.0436399",
+	"Alt Bank Long": "-118.2845886"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b79"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Continental Currency Services",
+	"Alt Bank Lat": "34.0562769",
+	"Alt Bank Long": "-118.2772124"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b7a"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Paycheck cashing and payday",
+	"Alt Bank Lat": "34.026332",
+	"Alt Bank Long": "-118.2194249"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b7b"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Rampart Check Cashing",
+	"Alt Bank Lat": "34.0663198",
+	"Alt Bank Long": "-118.2783037"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b7c"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Su Casa De Cambio",
+	"Alt Bank Lat": "34.0478269",
+	"Alt Bank Long": "-118.2106577"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b7d"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Any Kind Check Cashing Center",
+	"Alt Bank Lat": "34.0113364",
+	"Alt Bank Long": "-118.2825148"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b7e"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Via Cash",
+	"Alt Bank Lat": "34.0602746",
+	"Alt Bank Long": "-118.2753045"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b7f"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "CFSC",
+	"Alt Bank Lat": "34.0570665",
+	"Alt Bank Long": "-118.2914588"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b80"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Plaza Check Cashing",
+	"Alt Bank Lat": "34.039774",
+	"Alt Bank Long": "-118.2921629"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b81"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0111014",
+	"Alt Bank Long": "-118.2922409"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b82"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Downtown Check Services",
+	"Alt Bank Lat": "34.0230651",
+	"Alt Bank Long": "-118.2702647"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b83"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Unipago Check Cashing",
+	"Alt Bank Lat": "34.004089",
+	"Alt Bank Long": "-118.2567933"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b84"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Sun's Cash Express",
+	"Alt Bank Lat": "34.0320688",
+	"Alt Bank Long": "-118.2594819"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b85"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "New Hampshire Check Cashing",
+	"Alt Bank Lat": "34.0693318",
+	"Alt Bank Long": "-118.2925028"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b86"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Wilshire Medical Center",
+	"Alt Bank Lat": "34.0615041",
+	"Alt Bank Long": "-118.2899015"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b87"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0581254",
+	"Alt Bank Long": "-118.2720296"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b88"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Cash It Here Inc",
+	"Alt Bank Lat": "34.0562769",
+	"Alt Bank Long": "-118.2772124"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b89"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Order Express",
+	"Alt Bank Lat": "34.03262220000001",
+	"Alt Bank Long": "-118.2444346"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b8a"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "J W Processing",
+	"Alt Bank Lat": "34.0557407",
+	"Alt Bank Long": "-118.2896316"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b8b"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Mundo Check Cashing #3",
+	"Alt Bank Lat": "34.0241103",
+	"Alt Bank Long": "-118.1915225"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b8c"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "PLS Check Cashiers",
+	"Alt Bank Lat": "34.0445801",
+	"Alt Bank Long": "-118.2763153"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b8d"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Call For Cash",
+	"Alt Bank Lat": "34.0359084",
+	"Alt Bank Long": "-118.1927559"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b8e"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "Phoenix Check Cashing",
+	"Alt Bank Lat": "34.004089",
+	"Alt Bank Long": "-118.2567933"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b8f"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0768833",
+	"Alt Bank Long": "-118.2567688"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b90"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0287277",
+	"Alt Bank Long": "-118.2601184"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b91"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0453645",
+	"Alt Bank Long": "-118.2768425"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b92"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0444288",
+	"Alt Bank Long": "-118.2910931"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b93"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.07636",
+	"Alt Bank Long": "-118.2155375"
+},
+{
+	"_id": {
+		"$oid": "5c1e52ecd82b5b5d64017b94"
+	},
+	"Neighborhood": "University Park",
+	"Alt Bank Name": "ACE Cash Express",
+	"Alt Bank Lat": "34.0283343",
+	"Alt Bank Long": "-118.200906"
+}]
+
