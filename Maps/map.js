@@ -5,12 +5,40 @@ d3.json("neighborhood_coordinates.json", function (data) {
         style: function (feature) {
             return {
                 color: "black",
+                // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
                 fillOpacity: 0.5,
                 weight: 1.5
             };
+        },
+        // Called on each feature
+        onEachFeature: function (feature, layer) {
+            // Set mouse events to change map styling
+            layer.on({
+                // When a user's mouse touches a map feature, the mouseover event calls this function, that feature's opacity changes to 90% so that it stands out
+                mouseover: function (event) {
+                    layer = event.target;
+                    layer.setStyle({
+                        fillOpacity: 0.75,
+                        color: "white"
+                    });
+                },
+                // When the cursor no longer hovers over a map feature - when the mouseout event occurs - the feature's opacity reverts back to 50%
+                mouseout: function (event) {
+                    layer = event.target;
+                    layer.setStyle({
+                        fillOpacity: 0.5,
+                        color: "black"
+                    });
+                },
+                // When a feature (neighborhood) is clicked, it is enlarged to fit the screen
+                click: function (event) {
+                    myMap.fitBounds(event.target.getBounds());
+                }
+            });
+            // Giving each feature a pop-up with information pertinent to it
+            layer.bindPopup("<h1>" + feature.properties.name);
         }
     }).addTo(myMap);
-
 });
 
 var bank_locations = [];
@@ -28,13 +56,12 @@ d3.json("bank_coordinates.json", function (error, data) {
             iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
         });
         var bank = L.marker(([bank['Bank Lat'], bank['Bank Long']]),
-            { icon: myIcon}
+            { icon: myIcon }
         ).bindPopup("<h3>" + bank['Bank Name'] + "<br>" + "<h3>" + "Bank Lat: " + [bank['Bank Lat']] + "<br>" + "Bank Long: " + [bank['Bank Long']]);
         bank_locations.push(bank);
         bankClusters.addLayer(bank);
     });
 });
-//myMap.addLayer(bankClusters);
 
 var altbankClusters = L.markerClusterGroup(
     {
@@ -48,13 +75,12 @@ d3.json("Alt_Bank.json", function (error, data) {
             iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
         });
         var altbank = L.marker(([bank['Alt Bank Lat'], bank['Alt Bank Long']]),
-            { icon: myIcon}
+            { icon: myIcon }
         ).bindPopup("<h3>" + bank['Alt Bank Name'] + "<br>" + "<h3>" + "Alt Bank Lat: " + [bank['Alt Bank Lat']] + "<br>" + "Alt Bank Long: " + [bank['Alt Bank Long']]);
         alt_bank_locations.push(altbank);
         altbankClusters.addLayer(altbank);
     });
 });
-//myMap.addLayer(altbankClusters);
 
 // Adding tile layer to the map
 var streetmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
