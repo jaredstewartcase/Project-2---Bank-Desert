@@ -10,6 +10,7 @@ d3.csv('LA_Locations.csv').then(location_data => {
             for (var i = 0; i < neighborhood_data.features.length; i++) {
                 var jsonname = neighborhood_data.features[i].properties.name;
                 var geometry = ([neighborhood_data.features[i].geometry.coordinates[0][0]]);
+                var sqmile = neighborhood_data.features[i].properties.metadata.sqmi;
                 if (hoodname === jsonname) {
                     var color = {}
                     color["hood"] = hoodname;
@@ -18,8 +19,11 @@ d3.csv('LA_Locations.csv').then(location_data => {
                     color["bankcount"] = hoodbankcount;
                     color["altbankcount"] = altbankcount;
                     color["middlerank"] = medianrank;
-                    matchingArray.push(color)
+                    color["squaremile"] = sqmile;
+                    matchingArray.push(color);
+                    console.log(`${hoodname} is ${sqmile}`);
                     break;
+                    
                 }
             }
         });
