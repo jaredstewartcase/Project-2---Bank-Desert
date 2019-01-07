@@ -15,10 +15,12 @@ d3.json('bank_coordinates.json').then(data => {
                     var searchWithin = turf.polygon(polyNeigh);
                     var ptsWithin = turf.pointsWithinPolygon(points, searchWithin)
                     if (ptsWithin.features.length > 0) {
-                        console.log(`There is a Bank: ${bankname} in ${neigh.properties.external_id}`);
+                        //console.log(`There is a Bank: ${bankname} in ${neigh.properties.external_id} which is ${neigh.properties.metadata.sqmi} square miles`);
                         hood = neigh.properties.external_id;
+                        sqmile = neigh.properties.metadata.sqmi;
                         banks = {
                             "bank_hood": hood,
+                            "hood_square_mile": sqmile, 
                             "bank_name": bankname,
                             "bank_lat_lng": ([+bank["Bank Lat"], +bank["Bank Long"]])
                         };
@@ -48,10 +50,12 @@ d3.json('Alt_Bank.json').then(data => {
                     var searchWithin = turf.polygon(polyNeigh);
                     var ptsWithin = turf.pointsWithinPolygon(points, searchWithin)
                     if (ptsWithin.features.length > 0) {
-                        console.log(`There is an Alternative Bank: ${bankname} in ${neigh.properties.external_id}`);
+                        //console.log(`There is an Alternative Bank: ${bankname} in ${neigh.properties.external_id} which is ${neigh.properties.metadata.sqmi} sqaure miles`);
                         hood = neigh.properties.external_id;
+                        sqmile = neigh.properties.metadata.sqmi;
                         banks = {
                             "altbank_hood": hood,
+                            "altbank_hood_square_mile": sqmile, 
                             "altbank_name": bankname,
                             "altbank_lat_lng": ([+bank["Alt Bank Lat"], +bank["Alt Bank Long"]])
                         };
