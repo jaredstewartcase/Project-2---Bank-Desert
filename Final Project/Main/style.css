@@ -1,0 +1,47 @@
+/* All HTMLs */
+.container-fluid{
+    padding: 0px;
+}
+
+.row{
+    padding-left: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+}
+#space{
+    margin: 10px 0;
+}
+
+#list2{
+    text-indent: 10px;
+}
+
+/* index.html img */
+#payday{
+    float: right;
+    padding-left: 30px;
+}
+
+/* workflow.html img */
+#workflow{
+    height: 115%;
+    width: 115%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    background: white;
+    fill-opacity: none;
+}
+/* proposal.html background img */
+.container-proposal{
+    background: url(LA.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+
