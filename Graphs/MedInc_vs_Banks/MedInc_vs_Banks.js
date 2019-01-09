@@ -27,7 +27,7 @@ var chartGroup = svg.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 // Import Data
-var file = "LA_Locations.csv"
+var file = "../LA_Locations.csv"
 // Function is called and passes csv data
 d3.csv(file).then(successHandle, errorHandle);
 
@@ -79,11 +79,14 @@ function successHandle(hoodData) {
 
   // Append the axes to the chart group 
   // Bottom axis moves using height 
+  
   chartGroup.append("g")
     .attr("transform", `translate(0, ${height})`)
     .call(bottomAxis);
+
   // Left axis is already at 0,0
   // Only append the left axis 
+
   chartGroup.append("g")
     .call(leftAxis);
   
@@ -109,27 +112,27 @@ function successHandle(hoodData) {
     .attr("opacity", ".75")
     .style("font-size", "13px")
     .style("text-anchor", "middle")
-    .on("mouseover", function(d){  //Mouse event
-      d3.select(this)
-          .transition()
-          .duration(500)
-          .attr("cx", function(d) { return (d.median) - 30; })
-          .style("cursor", "pointer")
-          .attr("width", 60)
-          myTool
-            .transition()  //Opacity transition when the tooltip appears
-            .duration(500)
-            .style("opacity", "1")                           
-            .style("display", "block")  //The tooltip appears
+    // .on("mouseover", function(d){  //Mouse event
+    //   d3.select(this)
+    //       .transition()
+    //       .duration(500)
+    //       .attr("cx", function(d) { return (d.median) - 30; })
+    //       .style("cursor", "pointer")
+    //       .attr("width", 60)
+    //       // myTool
+          //   .transition()  //Opacity transition when the tooltip appears
+          //   .duration(500)
+          //   .style("opacity", "1")                           
+          // .style("display", "block")  //The tooltip appears
 
-    })
+    
 
 
   // Append text to circles 
 
 
   // var circlesGroup = chartGroup.selectAll()
-  //   .data(hoodData)
+  //   .data()
   //   .enter()
   //   .append("text")
   //   .attr("x", d => xLinearScale(d.median))
@@ -137,7 +140,7 @@ function successHandle(hoodData) {
   //   .style("font-size", "13px")
   //   .style("text-anchor", "middle")
   //   .style('fill', 'white')
-  //   ;
+  //   // ;
 
     // .on("mouseover", function () {
     //   toolTip.style("display", "block")
@@ -154,15 +157,15 @@ function successHandle(hoodData) {
  
 
   // .attr("class", "tooltip")
-    // .offset([80, -60])
-    // .html(function (d) {
-      // return (`${d.hood}<br>Alt Bank Count: ${d.altBankCount}%<br>Median Income: ${d.median}% `);
+  //   .offset([80, -60])
+  //   .html(function (d) {
+  //     return (`${d.hood}<br>Alt Bank Count: ${d.altBankCount}%<br>Median Income: ${d.median}% `);
 
-    // });
+  //   });
 
   // Step 7: Create tooltip in the chart
   // ==============================
-  //chartGroup.call(toolTip);
+  // chartGroup.call(toolTip);
 
   // Step 8: Create event listeners to display and hide the tooltip
   // ==============================
@@ -176,11 +179,10 @@ function successHandle(hoodData) {
     .attr("x", 0 - (height / 2))
     .attr("dy", "1em")
     .attr("class", "axisText")
-    .text("# of alt banks");
+    .text("Number of Traditional Banks");
 
   chartGroup.append("text")
     .attr("transform", `translate(${width / 2}, ${height + margin.top + 30})`)
     .attr("class", "axisText")
     .text("Median Income");
 }
-
