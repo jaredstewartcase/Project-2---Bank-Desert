@@ -27,7 +27,7 @@ var chartGroup = svg.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 // Import Data
-var file = "../LA_Locations.csv"
+var file = "LA_Locations.csv"
 // Function is called and passes csv data
 d3.csv(file).then(successHandle, errorHandle);
 
@@ -59,11 +59,12 @@ function successHandle(hoodData) {
   //  Create scale functions
   // Linear Scale takes the min to be displayed in axis, and the max of the data
   var xLinearScale = d3.scaleLinear()
-    .domain([8.1, d3.max(hoodData, d => d.median)])
+   .domain([8.1, d3.max(hoodData, d => d.median)])
+
     .range([0, width]);
 
   var yLinearScale = d3.scaleLinear()
-    .domain([0, d3.max(hoodData, d => d.altBankCount)])
+    .domain([0, 50])
     .range([height, 0]);
 
   // Create axis functions by calling the scale functions
@@ -103,72 +104,13 @@ function successHandle(hoodData) {
     
     
     .attr("cx", d => xLinearScale(d.median))
-    .attr("cy", d => yLinearScale(d.bankCount))
+    .attr("cy", d => yLinearScale(d.altBankCount))
     .attr("r", d => d.diversity*20)
     // .attr("r", 4)
     .attr("fill", "#ffbb33")
     .attr("opacity", ".75")
     .style("font-size", "13px")
     .style("text-anchor", "middle")
-    // .on("mouseover", function(d){  //Mouse event
-    //   d3.select(this)
-    //       .transition()
-    //       .duration(500)
-    //       .attr("cx", function(d) { return (d.median) - 30; })
-    //       .style("cursor", "pointer")
-    //       .attr("width", 60)
-    //       // myTool
-          //   .transition()  //Opacity transition when the tooltip appears
-          //   .duration(500)
-          //   .style("opacity", "1")                           
-          // .style("display", "block")  //The tooltip appears
-
-    
-
-
-  // Append text to circles 
-
-
-  // var circlesGroup = chartGroup.selectAll()
-  //   .data()
-  //   .enter()
-  //   .append("text")
-  //   .attr("x", d => xLinearScale(d.median))
-  //   .attr("y", d => yLinearScale(d.bankCount))
-  //   .style("font-size", "13px")
-  //   .style("text-anchor", "middle")
-  //   .style('fill', 'white')
-  //   // ;
-
-    // .on("mouseover", function () {
-    //   toolTip.style("display", "block")
-    //     .html(`<strong>${d.hood}</strong>`)
-    // })
-    // .on("mouseout", function () {
-    //   toolTip.style("display", "none");
-
-    
-    // .text(d => (d.hood));
-
-  // Step 6: Initialize tool tip
-  // ==============================
- 
-
-  // .attr("class", "tooltip")
-  //   .offset([80, -60])
-  //   .html(function (d) {
-  //     return (`${d.hood}<br>Alt Bank Count: ${d.altBankCount}%<br>Median Income: ${d.median}% `);
-
-  //   });
-
-  // Step 7: Create tooltip in the chart
-  // ==============================
-  // chartGroup.call(toolTip);
-
-  // Step 8: Create event listeners to display and hide the tooltip
-  // ==============================
-    // onmouseout event
-    
   
   // Create axes labels
   chartGroup.append("text")
